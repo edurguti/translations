@@ -13,5 +13,5 @@ jobs:
       - name: Iglu Schema Lint
         uses: mrchief/iglu-lint-action@v1.1.0 # or any tagged release
         with:
-          path_to_schemas: "path/to/schema"
+#           path_to_schemas: "path/to/schema"
           github_token: ${{ secrets.github_token }}
