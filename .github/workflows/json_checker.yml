@@ -12,4 +12,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           json_path_pattern: ^translations/.+\.json$
           send_comment: true
-          clear_comments: true
+          clear_comments: false
