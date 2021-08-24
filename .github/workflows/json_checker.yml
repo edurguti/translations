@@ -9,7 +9,7 @@ jobs:
       - name: Validate People JSON schema
         uses: snapcart/json-schema-validator@v1.0.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ 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 }}
           json_path_pattern: ^translations/.+\.json$
           send_comment: true
           clear_comments: true
