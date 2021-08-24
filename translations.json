@@ -31,7 +31,8 @@
             "Vollzeit": "Full-Time",
             "Teilzeit": "Part-Time",
             "Beides": "Both",
-            "Beides1": "Both1"
+            "Beides1": "Both1",
+            "Beides2": "Both2"
         },
         "de": {
             "Full Time": "Vollzeit",
