@@ -1,44 +1,16 @@
-# name: JSON check
-
-# on:
-#   push:
-#     paths:
-#       - '**.json'
-#   pull_request:
-
-# jobs:
-#   test:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - name: json-syntax-check
-#         uses: limitusus/json-syntax-check@v1
-#         with:
-#           pattern: "\\.json$"
-
-
-on:
-  pull_request:
-    branches:
-      - main
-name: Pull request workflow
+name: Validate JSONs on PR
+on: [pull_request]
 jobs:
-  validate_configurations:
-    name: Validate configurations
+  validate_schemas:
+    name: Validate JSON Schemas
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Validate BigQuery schema
+      - name: Validate People JSON schema
         uses: snapcart/json-schema-validator@v1.0.0
         with:
           token: ${{ secrets.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 }}
-          json_schema: ./schemas/bigquery_schema.schema
-          json_path_pattern: \\.json$
+          json_schema: ./schemas/people-schema.json
+          json_path_pattern: ^translations/.+\.json$
           send_comment: true
           clear_comments: true
-      - name: Validate other schema
-        uses: snapcart/json-schema-validator@v1.0.0
-        with:
-          token: ${{ secrets.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}}
-          json_schema: ./schemas/other_schema.schema
-          json_path_pattern: .*other_schema.json$
