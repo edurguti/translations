@@ -4,7 +4,7 @@
         "en": {
             "all_possible_inputs_in_english_from_ats": "translation_in_english",
             "all_possible_inputs_in_german_from_ats": "translation_in_english",
-            "default": "xxxxx"
+            "default": "yyyxxx"
         },
         "de": {
             "all_possible_inputs_in_english_from_ats": "translation_in_german",
