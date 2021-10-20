@@ -1,17 +1,17 @@
+name: JSON check
 
+on:
+  push:
+    paths:
+      - '**.json'
+  pull_request:
 
-name: Iglu Lint Review
-on: [pull_request]
 jobs:
-  iglulint:
+  test:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v2
-
-      - name: Iglu Schema Lint
-        uses: mrchief/iglu-lint-action@v1.1.0 # or any tagged release
+      - uses: actions/checkout@v2
+      - name: json-syntax-check
+        uses: limitusus/json-syntax-check@v1
         with:
-#           path_to_schemas: "path/to/schema"
-          github_token: ${{ secrets.github_token }}
+          pattern: "\\.json$"
