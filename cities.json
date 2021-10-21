@@ -1,0 +1,5553 @@
+{
+    "Livonia,United States": {
+        "en": "Livonia",
+        "de": "Livonia",
+        "fr": "Livonia",
+        "es": "Livonia",
+        "hu": "Livonia",
+        "zh": "利沃尼亚"
+    },
+    "Kansas City,United States": {
+        "en": "Kansas City",
+        "de": "Kansas City",
+        "fr": "Kansas City",
+        "es": "Kansas City",
+        "hu": "Kansas City",
+        "zh": "堪萨斯城"
+    },
+    "Cerritos,United States": {
+        "en": "Cerritos",
+        "de": "Cerritos",
+        "fr": "Cerritos",
+        "es": "Cerritos",
+        "hu": "Cerritos",
+        "zh": "喜瑞都"
+    },
+    "Atlanta,United States": {
+        "en": "Atlanta",
+        "de": "Atlanta",
+        "fr": "Atlanta",
+        "es": "Atlanta",
+        "hu": "Atlanta",
+        "zh": "亚特兰大"
+    },
+    "Budapest,Hungary": {
+        "en": "Budapest",
+        "de": "Budapest",
+        "fr": "Budapest",
+        "es": "Budapest",
+        "hu": "Budapest",
+        "zh": "布达佩斯"
+    },
+    "Neuhausen,Germany": {
+        "en": "Neuhausen",
+        "de": "Neuhausen",
+        "fr": "Neuhausen",
+        "es": "Neuhausen",
+        "hu": "Neuhausen",
+        "zh": "诺伊豪森"
+    },
+    "Modena,Italy": {
+        "en": "Modena",
+        "de": "Modena",
+        "fr": "Modène",
+        "es": "Módena",
+        "hu": "Modena",
+        "zh": "莫德纳"
+    },
+    "Mestre,Italy": {
+        "en": "Mestre",
+        "de": "Mestre",
+        "fr": "Mestre",
+        "es": "Mestre",
+        "hu": "Mestre",
+        "zh": "梅斯特雷"
+    },
+    "Morbegno,Italy": {
+        "en": "Morbegno",
+        "de": "Morbend",
+        "fr": "Morbegno",
+        "es": "Morbegno",
+        "hu": "Morbegno",
+        "zh": "莫尔贝尼奥"
+    },
+    "Cologno Monzese,Italy": {
+        "en": "Cologno Monzese",
+        "de": "Cologno Monzese",
+        "fr": "Cologno Monzese",
+        "es": "Cologno Monzese",
+        "hu": "Cologno Monzese",
+        "zh": "科洛尼奥蒙泽塞"
+    },
+    "Riccione,Italy": {
+        "en": "Riccione",
+        "de": "Riccione",
+        "fr": "Riccione",
+        "es": "Riccione",
+        "hu": "Riccione",
+        "zh": "里乔内"
+    },
+    "Mezzolombardo,Italy": {
+        "en": "Mezzolombardo",
+        "de": "Welsch-Metz",
+        "fr": "Mezzolombardo",
+        "es": "Mezzolombardo",
+        "hu": "Mezzolombardo",
+        "zh": "梅佐伦巴多"
+    },
+    "Móstoles,Spain": {
+        "en": "Móstoles",
+        "de": "Móstoles",
+        "fr": "Móstoles",
+        "es": "Móstoles",
+        "hu": "Móstoles",
+        "zh": "莫斯托莱斯"
+    },
+    "Middleton,United States": {
+        "en": "Middleton",
+        "de": "Middleton",
+        "fr": "Middleton",
+        "es": "Middleton",
+        "hu": "Middleton",
+        "zh": "米德尔顿"
+    },
+    "Hamburg,Germany": {
+        "en": "Hamburg",
+        "de": "Hamburg",
+        "fr": "Hambourg",
+        "es": "Hamburgo",
+        "hu": "Hamburg",
+        "zh": "汉堡"
+    },
+    "Neuss,Germany": {
+        "en": "Neuss",
+        "de": "Neuss",
+        "fr": "Neuss",
+        "es": "Neuss",
+        "hu": "Neuss",
+        "zh": "诺伊斯"
+    },
+    "Regensburg,Germany": {
+        "en": "Regensburg",
+        "de": "Regensburg",
+        "fr": "Ratisbonne",
+        "es": "Ratisbona",
+        "hu": "Regensburg",
+        "zh": "雷根斯堡"
+    },
+    "Ulm,Germany": {
+        "en": "Ulm",
+        "de": "Ulm",
+        "fr": "Ulm",
+        "es": "Ulm",
+        "hu": "Ulm",
+        "zh": "乌尔姆"
+    },
+    "Portland,United States": {
+        "en": "Portland",
+        "de": "Portland",
+        "fr": "Portland",
+        "es": "Portland",
+        "hu": "Portland",
+        "zh": "波特兰"
+    },
+    "Olive Branch,United States": {
+        "en": "Olive Branch",
+        "de": "Olive Branch",
+        "fr": "Olive Branch",
+        "es": "Olive Branch",
+        "hu": "Olive Branch",
+        "zh": "奥利夫布兰奇"
+    },
+    "Westwood,United States": {
+        "en": "Westwood",
+        "de": "Westwood",
+        "fr": "Westwood",
+        "es": "Westwood",
+        "hu": "Westwood",
+        "zh": "韦斯特伍德"
+    },
+    "Edison,United States": {
+        "en": "Edison",
+        "de": "Edison",
+        "fr": "Edison",
+        "es": "Edison",
+        "hu": "Edison",
+        "zh": "爱迪生"
+    },
+    "Germantown,United States": {
+        "en": "Germantown",
+        "de": "Germantown",
+        "fr": "Germantown",
+        "es": "Germantown",
+        "hu": "Germantown",
+        "zh": "日耳曼敦"
+    },
+    "Düsseldorf,Germany": {
+        "en": "Düsseldorf",
+        "de": "Düsseldorf",
+        "fr": "Düsseldorf",
+        "es": "Düsseldorf",
+        "hu": "Düsseldorf",
+        "zh": "杜塞尔多夫"
+    },
+    "Berlin,Germany": {
+        "en": "Berlin",
+        "de": "Berlin",
+        "fr": "Berlin",
+        "es": "Berlín",
+        "hu": "Berlin",
+        "zh": "柏林"
+    },
+    "Rottweil,Germany": {
+        "en": "Rottweil",
+        "de": "Rottweil",
+        "fr": "Rottweil",
+        "es": "Rottweil",
+        "hu": "Rottweil",
+        "zh": "罗特韦尔"
+    },
+    "Münster,Germany": {
+        "en": "Münster",
+        "de": "Münster",
+        "fr": "Münster",
+        "es": "Münster",
+        "hu": "Münster",
+        "zh": "明斯特"
+    },
+    "Oklahoma City,United States": {
+        "en": "Oklahoma City",
+        "de": "Oklahoma City",
+        "fr": "Oklahoma City",
+        "es": "Oklahoma City",
+        "hu": "Oklahoma City",
+        "zh": "俄克拉荷马城"
+    },
+    "Birmingham (US),United States": {
+        "en": "Birmingham",
+        "de": "Birmingham",
+        "fr": "Birmingham",
+        "es": "Birmingham",
+        "hu": "Birmingham",
+        "zh": "伯明翰"
+    },
+    "King of Prussia,United States": {
+        "en": "King of Prussia",
+        "de": "King of Prussia",
+        "fr": "King of Prussia",
+        "es": "King of Prussia",
+        "hu": "King of Prussia",
+        "zh": "普鲁士国王"
+    },
+    "New York,United States": {
+        "en": "New York",
+        "de": "New York City",
+        "fr": "New York",
+        "es": "Nueva York",
+        "hu": "New York",
+        "zh": "纽约"
+    },
+    "Cantano,Puerto Rico": {
+        "en": "Cataño",
+        "de": "Cataño",
+        "fr": "Cataño",
+        "es": "Cataño",
+        "hu": "Cataño",
+        "zh": "卡塔尼奥"
+    },
+    "Syracuse (East Syracuse),United States": {
+        "en": "East Syracuse",
+        "de": "East Syracuse",
+        "fr": "East Syracuse",
+        "es": "East Syracuse",
+        "hu": "East Syracuse",
+        "zh": "东叙拉古"
+    },
+    "Phoenix,United States": {
+        "en": "Phoenix",
+        "de": "Phoenix",
+        "fr": "Phoenix",
+        "es": "Phoenix",
+        "hu": "Phoenix",
+        "zh": "菲尼克斯"
+    },
+    "Lincoln,United States": {
+        "en": "Lincoln",
+        "de": "Lincoln",
+        "fr": "Lincoln",
+        "es": "Lincoln",
+        "hu": "Lincoln",
+        "zh": "林肯"
+    },
+    "Kirkland,United States": {
+        "en": "Kirkland",
+        "de": "Kirkland",
+        "fr": "Kirkland",
+        "es": "Kirkland",
+        "hu": "Kirkland",
+        "zh": "柯克兰"
+    },
+    "South San Francisco,United States": {
+        "en": "South San Francisco",
+        "de": "South San Francisco",
+        "fr": "South San Francisco",
+        "es": "South San Francisco",
+        "hu": "South San Francisco",
+        "zh": "南旧金山"
+    },
+    "Corpus Christi,United States": {
+        "en": "Corpus Christi",
+        "de": "Corpus Christi",
+        "fr": "Corpus Christi",
+        "es": "Corpus Christi",
+        "hu": "Corpus Christi",
+        "zh": "科珀斯克里斯蒂"
+    },
+    "Bradenton,United States": {
+        "en": "Bradenton",
+        "de": "Bradenton",
+        "fr": "Bradenton",
+        "es": "Bradenton",
+        "hu": "Bradenton",
+        "zh": "布雷登顿"
+    },
+    "Westchester,United States": {
+        "en": "Westchester County",
+        "de": "Westchester County",
+        "fr": "Comté de Westchester",
+        "es": "Condado de Westchester",
+        "hu": "Westchester megye",
+        "zh": "韦斯特切斯特"
+    },
+    "Denver,United States": {
+        "en": "Denver",
+        "de": "Denver",
+        "fr": "Denver",
+        "es": "Denver",
+        "hu": "Denver",
+        "zh": "丹佛"
+    },
+    "Everett,United States": {
+        "en": "Everett",
+        "de": "Everett",
+        "fr": "Everett",
+        "es": "Everett",
+        "hu": "Everett",
+        "zh": "埃弗里特"
+    },
+    "Des Moines,United States": {
+        "en": "Des Moines",
+        "de": "Des Moines",
+        "fr": "Des Moines",
+        "es": "Des Moines",
+        "hu": "Des Moines",
+        "zh": "得梅因"
+    },
+    "Spokane,United States": {
+        "en": "Spokane",
+        "de": "Spokane",
+        "fr": "Spokane",
+        "es": "Spokane",
+        "hu": "Spokane",
+        "zh": "斯波坎"
+    },
+    "Tacoma (University Place),United States": {
+        "en": "University Place",
+        "de": "University Place",
+        "fr": "University Place",
+        "es": "University Place",
+        "hu": "University Place",
+        "zh": "大学城"
+    },
+    "Omaha,United States": {
+        "en": "Omaha",
+        "de": "Omaha",
+        "fr": "Omaha",
+        "es": "Omaha",
+        "hu": "Omaha",
+        "zh": "奥马哈"
+    },
+    "Albuquerque,United States": {
+        "en": "Albuquerque",
+        "de": "Albuquerque",
+        "fr": "Albuquerque",
+        "es": "Albuquerque",
+        "hu": "Albuquerque",
+        "zh": "阿尔伯克基"
+    },
+    "Linthicum,United States": {
+        "en": "Linthicum Heights",
+        "de": "Linthicum",
+        "fr": "Linthicum",
+        "es": "Linthicum",
+        "hu": "Linthicum Heights",
+        "zh": "林西克姆"
+    },
+    "Chicago,United States": {
+        "en": "Chicago",
+        "de": "Chicago",
+        "fr": "Chicago",
+        "es": "Chicago",
+        "hu": "Chicago",
+        "zh": "芝加哥"
+    },
+    "San Antonio,United States": {
+        "en": "San Antonio",
+        "de": "San Antonio",
+        "fr": "San Antonio",
+        "es": "San Antonio",
+        "hu": "San Antonio",
+        "zh": "圣安东尼奥"
+    },
+    "Houston,United States": {
+        "en": "Houston",
+        "de": "Houston",
+        "fr": "Houston",
+        "es": "Houston",
+        "hu": "Houston",
+        "zh": "休斯敦"
+    },
+    "Honolulu,United States": {
+        "en": "Honolulu",
+        "de": "Honolulu",
+        "fr": "Honolulu",
+        "es": "Honolulu",
+        "hu": "Honolulu",
+        "zh": "檀香山"
+    },
+    "Marietta,United States": {
+        "en": "Marietta",
+        "de": "Marietta",
+        "fr": "Marietta",
+        "es": "Marietta",
+        "hu": "Marietta",
+        "zh": "玛丽埃塔"
+    },
+    "MERIGNAC,France": {
+        "en": "Mérignac",
+        "de": "Mérignac",
+        "fr": "Mérignac",
+        "es": "Mérignac",
+        "hu": "Mérignac",
+        "zh": "梅里尼亚克"
+    },
+    "Dortmund,Germany": {
+        "en": "Dortmund",
+        "de": "Dortmund",
+        "fr": "Dortmund",
+        "es": "Dortmund",
+        "hu": "Dortmund",
+        "zh": "多特蒙德"
+    },
+    "Fulda,Germany": {
+        "en": "Fulda",
+        "de": "Fulda",
+        "fr": "Fulda",
+        "es": "Fulda",
+        "hu": "Fulda",
+        "zh": "富尔达"
+    },
+    "Landesweit,Germany": {
+        "en": "Baltimore",
+        "de": "Baltimore",
+        "fr": "Baltimore",
+        "es": "Baltimore",
+        "hu": "Baltimore",
+        "zh": "Baltimore"
+    },
+    "Dresden,Germany": {
+        "en": "Dresden",
+        "de": "Dresden",
+        "fr": "Dresde",
+        "es": "Dresde",
+        "hu": "Drezda",
+        "zh": "德累斯顿"
+    },
+    "Essen,Germany": {
+        "en": "Essen",
+        "de": "Essen",
+        "fr": "Essen",
+        "es": "Essen",
+        "hu": "Essen",
+        "zh": "埃森"
+    },
+    "Frankfurt am Main,Germany": {
+        "en": "Frankfurt",
+        "de": "Frankfurt am Main",
+        "fr": "Francfort-sur-le-Main",
+        "es": "Fráncfort del Meno",
+        "hu": "Frankfurt",
+        "zh": "美因河畔法兰克福"
+    },
+    "Freiburg im Breisgau,Germany": {
+        "en": "Freiburg im Breisgau",
+        "de": "Freiburg im Breisgau",
+        "fr": "Fribourg-en-Brisgau",
+        "es": "Friburgo de Brisgovia",
+        "hu": "Freiburg",
+        "zh": "弗赖堡"
+    },
+    "Hürth,Germany": {
+        "en": "Hürth",
+        "de": "Hürth",
+        "fr": "Hürth",
+        "es": "Hürth-Hermülheim",
+        "hu": "Hürth",
+        "zh": "许尔特"
+    },
+    "Mannheim,Germany": {
+        "en": "Mannheim",
+        "de": "Mannheim",
+        "fr": "Mannheim",
+        "es": "Mannheim",
+        "hu": "Mannheim",
+        "zh": "曼海姆"
+    },
+    "Feldkirchen,Germany": {
+        "en": "Feldkirchen",
+        "de": "Feldkirchen",
+        "fr": "Feldkirchen",
+        "es": "Feldkirchen",
+        "hu": "Feldkirchen",
+        "zh": "费尔德基兴"
+    },
+    "Nürnberg,Germany": {
+        "en": "Nuremberg",
+        "de": "Nürnberg",
+        "fr": "Nuremberg",
+        "es": "Núremberg",
+        "hu": "Nürnberg",
+        "zh": "纽伦堡"
+    },
+    "Gingen,Germany": {
+        "en": "Gingen an der Fils",
+        "de": "Gingen an der Fils",
+        "fr": "Gingen an der Fils",
+        "es": "Gingen an der Fils",
+        "hu": "Gingen an der Fils",
+        "zh": "菲尔斯河畔金根"
+    },
+    "Gochsheim,Germany": {
+        "en": "Gochsheim",
+        "de": "Gochsheim",
+        "fr": "Gochsheim",
+        "es": "Gochsheim",
+        "hu": "Gochsheim",
+        "zh": "戈赫斯海姆"
+    },
+    "Isernhagen-Altwarmbüchen,Germany": {
+        "en": "Altwarmbüchen",
+        "de": "Altwarmbüchen",
+        "fr": "Altwarmbüchen",
+        "es": "Altwarmbüchen",
+        "hu": "Altwarmbüchen",
+        "zh": "Altwarmbüchen"
+    },
+    "Chattanooga,United States": {
+        "en": "Chattanooga",
+        "de": "Chattanooga",
+        "fr": "Chattanooga",
+        "es": "Chattanooga",
+        "hu": "Chattanooga",
+        "zh": "查塔努加"
+    },
+    "Indianapolis,United States": {
+        "en": "Indianapolis",
+        "de": "Indianapolis",
+        "fr": "Indianapolis",
+        "es": "Indianápolis",
+        "hu": "Indianapolis",
+        "zh": "印第安纳波利斯"
+    },
+    "Grand Rapids,United States": {
+        "en": "Grand Rapids",
+        "de": "Grand Rapids",
+        "fr": "Grand Rapids",
+        "es": "Grand Rapids",
+        "hu": "Grand Rapids",
+        "zh": "大急流城"
+    },
+    "Peoria,United States": {
+        "en": "Peoria",
+        "de": "Peoria",
+        "fr": "Peoria",
+        "es": "Peoria",
+        "hu": "Peoria",
+        "zh": "皮奥里亚"
+    },
+    "Fresno,United States": {
+        "en": "Fresno",
+        "de": "Fresno",
+        "fr": "Fresno",
+        "es": "Fresno",
+        "hu": "Fresno",
+        "zh": "弗雷斯诺"
+    },
+    "Boise,United States": {
+        "en": "Boise",
+        "de": "Boise",
+        "fr": "Boise",
+        "es": "Boise",
+        "hu": "Boise",
+        "zh": "博伊西"
+    },
+    "Ft. Worth,United States": {
+        "en": "Fort Worth",
+        "de": "Fort Worth",
+        "fr": "Fort Worth",
+        "es": "Fort Worth",
+        "hu": "Fort Worth",
+        "zh": "沃思堡"
+    },
+    "Ginsheim,Germany": {
+        "en": "Ginsheim-Gustavsburg",
+        "de": "Ginsheim-Gustavsburg",
+        "fr": "Ginsheim-Gustavsburg",
+        "es": "Ginsheim-Gustavsburg",
+        "hu": "Ginsheim-Gustavsburg",
+        "zh": "金斯海姆-古斯塔夫斯堡"
+    },
+    "Troisdorf,Germany": {
+        "en": "Troisdorf",
+        "de": "Troisdorf",
+        "fr": "Troisdorf",
+        "es": "Troisdorf",
+        "hu": "Troisdorf",
+        "zh": "特罗斯多夫"
+    },
+    "Erfurt,Germany": {
+        "en": "Erfurt",
+        "de": "Erfurt",
+        "fr": "Erfurt",
+        "es": "Érfurt",
+        "hu": "Erfurt",
+        "zh": "埃尔福特"
+    },
+    "Hallbergmoos,Germany": {
+        "en": "Hallbergmoos",
+        "de": "Hallbergmoos",
+        "fr": "Hallbergmoos",
+        "es": "Hallbergmoos",
+        "hu": "Hallbergmoos",
+        "zh": "哈尔贝格莫斯"
+    },
+    "Singen,Germany": {
+        "en": "Singen",
+        "de": "Singen (Hohentwiel)",
+        "fr": "Singen",
+        "es": "Singen",
+        "hu": "Singen",
+        "zh": "辛根"
+    },
+    "San Jose,United States": {
+        "en": "San Jose",
+        "de": "San José",
+        "fr": "San José",
+        "es": "San José",
+        "hu": "San José",
+        "zh": "圣荷西"
+    },
+    "Downers Grove,United States": {
+        "en": "Downers Grove",
+        "de": "Downers Grove",
+        "fr": "Downers Grove",
+        "es": "Downers Grove",
+        "hu": "Downers Grove",
+        "zh": "唐纳斯格罗夫"
+    },
+    "Ashland,United States": {
+        "en": "Ashland",
+        "de": "Ashland",
+        "fr": "Ashland",
+        "es": "Ashland",
+        "hu": "Ashland",
+        "zh": "阿什兰"
+    },
+    "Riviera Beach,United States": {
+        "en": "Riviera Beach",
+        "de": "Riviera Beach",
+        "fr": "Riviera Beach",
+        "es": "Riviera Beach",
+        "hu": "Riviera Beach",
+        "zh": "里维拉比奇"
+    },
+    "Anchorage,United States": {
+        "en": "Anchorage",
+        "de": "Anchorage",
+        "fr": "Anchorage",
+        "es": "Anchorage",
+        "hu": "Anchorage",
+        "zh": "安克雷奇"
+    },
+    "Alexandria,United States": {
+        "en": "Alexandria",
+        "de": "Alexandria",
+        "fr": "Alexandria",
+        "es": "Alexandria",
+        "hu": "Alexandria",
+        "zh": "亚历山德里亚"
+    },
+    "Urbandale,United States": {
+        "en": "Urbandale",
+        "de": "Urbandale",
+        "fr": "Urbandale",
+        "es": "Urbandale",
+        "hu": "Urbandale",
+        "zh": "Urbandale"
+    },
+    "Burbank,United States": {
+        "en": "Burbank",
+        "de": "Burbank",
+        "fr": "Burbank",
+        "es": "Burbank",
+        "hu": "Burbank",
+        "zh": "伯班克"
+    },
+    "Filderstadt,Germany": {
+        "en": "Filderstadt",
+        "de": "Filderstadt",
+        "fr": "Filderstadt",
+        "es": "Filderstadt",
+        "hu": "Filderstadt",
+        "zh": "菲尔德施塔特"
+    },
+    "Lisle,United States": {
+        "en": "Lisle",
+        "de": "Lisle",
+        "fr": "Lisle",
+        "es": "Lisle",
+        "hu": "Lisle",
+        "zh": "莱尔"
+    },
+    "MARSEILLE,France": {
+        "en": "Marseille",
+        "de": "Marseille",
+        "fr": "Marseille",
+        "es": "Marsella",
+        "hu": "Marseille",
+        "zh": "马赛"
+    },
+    "AIX-EN-PROVENCE,France": {
+        "en": "Aix-en-Provence",
+        "de": "Aix-en-Provence",
+        "fr": "Aix-en-Provence",
+        "es": "Aix-en-Provence",
+        "hu": "Aix-en-Provence",
+        "zh": "普罗旺斯地区艾克斯"
+    },
+    "Miami,United States": {
+        "en": "Miami",
+        "de": "Miami",
+        "fr": "Miami",
+        "es": "Miami",
+        "hu": "Miami",
+        "zh": "迈阿密"
+    },
+    "Tampa,United States": {
+        "en": "Tampa",
+        "de": "Tampa",
+        "fr": "Tampa",
+        "es": "Tampa",
+        "hu": "Tampa",
+        "zh": "坦帕"
+    },
+    "Charlotte,United States": {
+        "en": "Charlotte",
+        "de": "Charlotte",
+        "fr": "Charlotte",
+        "es": "Charlotte",
+        "hu": "Charlotte",
+        "zh": "夏洛特"
+    },
+    "Memphis,United States": {
+        "en": "Memphis",
+        "de": "Memphis",
+        "fr": "Memphis",
+        "es": "Memphis",
+        "hu": "Memphis",
+        "zh": "孟菲斯"
+    },
+    "San Leandro (Hayward),United States": {
+        "en": "San Leandro",
+        "de": "San Leandro",
+        "fr": "San Leandro",
+        "es": "San Leandro",
+        "hu": "San Leandro",
+        "zh": "圣利安卓"
+    },
+    "Cincinnati,United States": {
+        "en": "Cincinnati",
+        "de": "Cincinnati",
+        "fr": "Cincinnati",
+        "es": "Cincinnati",
+        "hu": "Cincinnati",
+        "zh": "辛辛那提"
+    },
+    "Broadview Heights,United States": {
+        "en": "Broadview Heights",
+        "de": "Broadview Heights",
+        "fr": "Broadview Heights",
+        "es": "Broadview Heights",
+        "hu": "Broadview Heights",
+        "zh": "Broadview Heights"
+    },
+    "Fürth,Germany": {
+        "en": "Fürth",
+        "de": "Fürth",
+        "fr": "Fürth",
+        "es": "Fürth",
+        "hu": "Fürth",
+        "zh": "菲尔特"
+    },
+    "Forst,Germany": {
+        "en": "Forst",
+        "de": "Forst (Lausitz)",
+        "fr": "Forst",
+        "es": "Forst",
+        "hu": "Forst",
+        "zh": "福斯特"
+    },
+    "Knoxville,United States": {
+        "en": "Knoxville",
+        "de": "Knoxville",
+        "fr": "Knoxville",
+        "es": "Knoxville",
+        "hu": "Knoxville",
+        "zh": "诺克斯维尔"
+    },
+    "Pensacola,United States": {
+        "en": "Pensacola",
+        "de": "Pensacola",
+        "fr": "Pensacola",
+        "es": "Pensacola",
+        "hu": "Pensacola",
+        "zh": "彭萨科拉"
+    },
+    "Anaheim,United States": {
+        "en": "Anaheim",
+        "de": "Anaheim",
+        "fr": "Anaheim",
+        "es": "Anaheim",
+        "hu": "Anaheim",
+        "zh": "安纳海姆"
+    },
+    "Greensboro,United States": {
+        "en": "Greensboro",
+        "de": "Greensboro",
+        "fr": "Greensboro",
+        "es": "Greensboro",
+        "hu": "Greensboro",
+        "zh": "格林斯伯勒"
+    },
+    "Dallas,United States": {
+        "en": "Dallas",
+        "de": "Dallas",
+        "fr": "Dallas",
+        "es": "Dallas",
+        "hu": "Dallas",
+        "zh": "达拉斯"
+    },
+    "Orlando,United States": {
+        "en": "Orlando",
+        "de": "Orlando",
+        "fr": "Orlando",
+        "es": "Orlando",
+        "hu": "Orlando",
+        "zh": "奧蘭多"
+    },
+    "Austin,United States": {
+        "en": "Austin",
+        "de": "Austin",
+        "fr": "Austin",
+        "es": "Austin",
+        "hu": "Austin",
+        "zh": "奥斯汀"
+    },
+    "Annone di Brianza,Italy": {
+        "en": "Annone di Brianza",
+        "de": "Annone di Brianza",
+        "fr": "Annone di Brianza",
+        "es": "Annone di Brianza",
+        "hu": "Annone di Brianza",
+        "zh": "安诺内迪布里亚恩扎"
+    },
+    "Charleston,United States": {
+        "en": "Charleston",
+        "de": "Charleston",
+        "fr": "Charleston",
+        "es": "Charleston",
+        "hu": "Charleston",
+        "zh": "查尔斯顿"
+    },
+    "Lenexa,United States": {
+        "en": "Lenexa",
+        "de": "Lenexa",
+        "fr": "Lenexa",
+        "es": "Lenexa",
+        "hu": "Lenexa",
+        "zh": "列涅萨"
+    },
+    "Roanoke,United States": {
+        "en": "Roanoke",
+        "de": "Roanoke",
+        "fr": "Roanoke",
+        "es": "Roanoke",
+        "hu": "Roanoke",
+        "zh": "罗阿诺克"
+    },
+    "Las Vegas,United States": {
+        "en": "Las Vegas",
+        "de": "Las Vegas",
+        "fr": "Las Vegas",
+        "es": "Las Vegas",
+        "hu": "Las Vegas",
+        "zh": "拉斯维加斯"
+    },
+    "El Cajon,United States": {
+        "en": "El Cajon",
+        "de": "El Cajon",
+        "fr": "El Cajon",
+        "es": "El Cajón",
+        "hu": "El Cajon",
+        "zh": "埃尔卡洪"
+    },
+    "Menomonee Falls,United States": {
+        "en": "Menomonee Falls",
+        "de": "Menomonee Falls",
+        "fr": "Menomonee Falls",
+        "es": "Menomonee Falls",
+        "hu": "Menomonee Falls",
+        "zh": "梅诺莫尼福尔斯"
+    },
+    "College Park,United States": {
+        "en": "College Park",
+        "de": "College Park",
+        "fr": "College Park",
+        "es": "College Park",
+        "hu": "College Park",
+        "zh": "大学公园市"
+    },
+    "Salt Lake City,United States": {
+        "en": "Salt Lake City",
+        "de": "Salt Lake City",
+        "fr": "Salt Lake City",
+        "es": "Salt Lake City",
+        "hu": "Salt Lake City",
+        "zh": "盐湖城"
+    },
+    "Wuxi,China": {
+        "en": "Wuxi",
+        "de": "Wuxi",
+        "fr": "Wuxi",
+        "es": "Wuxi",
+        "hu": "Vuhszi",
+        "zh": "无锡市"
+    },
+    "Yantai,China": {
+        "en": "Yantai",
+        "de": "Yantai",
+        "fr": "Yantai",
+        "es": "Yantái",
+        "hu": "Yantai",
+        "zh": "烟台市"
+    },
+    "Zhongshan,China": {
+        "en": "Zhongshan",
+        "de": "Zhongshan",
+        "fr": "Zhongshan",
+        "es": "Zhongshán",
+        "hu": "Zhongshan",
+        "zh": "中山市"
+    },
+    "Shijiazhuang,China": {
+        "en": "Shijiazhuang",
+        "de": "Shijiazhuang",
+        "fr": "Shijiazhuang",
+        "es": "Shijiazhuang",
+        "hu": "Sicsiacsuang",
+        "zh": "石家庄市"
+    },
+    "Dalian,China": {
+        "en": "Dalian",
+        "de": "Dalian",
+        "fr": "Dalian",
+        "es": "Dalián",
+        "hu": "Talien",
+        "zh": "大连市"
+    },
+    "Shanghai,China": {
+        "en": "Shanghai",
+        "de": "Shanghai",
+        "fr": "Shanghai",
+        "es": "Shanghái",
+        "hu": "Shanghai",
+        "zh": "上海市"
+    },
+    "Ningbo,China": {
+        "en": "Ningbo",
+        "de": "Ningbo",
+        "fr": "Ningbo",
+        "es": "Ningbó",
+        "hu": "Ningbo",
+        "zh": "宁波市"
+    },
+    "Guangzhou,China": {
+        "en": "Guangzhou",
+        "de": "Guangzhou",
+        "fr": "Canton",
+        "es": "Cantón",
+        "hu": "Kanton",
+        "zh": "广州市"
+    },
+    "Hangzhou,China": {
+        "en": "Hangzhou",
+        "de": "Hangzhou",
+        "fr": "Hangzhou",
+        "es": "Hangzhou",
+        "hu": "Hangcsou",
+        "zh": "杭州市"
+    },
+    "Jiaxing,China": {
+        "en": "Jiaxing",
+        "de": "Jiaxing",
+        "fr": "Jiaxing",
+        "es": "Jiaxing",
+        "hu": "Jiaxing",
+        "zh": "嘉兴市"
+    },
+    "Haerbin,China": {
+        "en": "Harbin",
+        "de": "Harbin",
+        "fr": "Harbin",
+        "es": "Harbin",
+        "hu": "Harbin",
+        "zh": "哈尔滨市"
+    },
+    "Tianjin,China": {
+        "en": "Tianjin",
+        "de": "Tianjin",
+        "fr": "Tianjin",
+        "es": "Tianjín",
+        "hu": "Tiencsin",
+        "zh": "天津市"
+    },
+    "Shenzhen,China": {
+        "en": "Shenzhen",
+        "de": "Shenzhen",
+        "fr": "Shenzhen",
+        "es": "Shenzhen",
+        "hu": "Sencsen",
+        "zh": "深圳市"
+    },
+    "Xiamen,China": {
+        "en": "Xiamen",
+        "de": "Xiamen",
+        "fr": "Xiamen",
+        "es": "Xiamen",
+        "hu": "Hsziamen",
+        "zh": "厦门市"
+    },
+    "Zhenjiang,China": {
+        "en": "Zhenjiang",
+        "de": "Zhenjiang",
+        "fr": "Zhenjiang",
+        "es": "Zhenjiang",
+        "hu": "Zhenjiang",
+        "zh": "镇江市"
+    },
+    "Nanjing,China": {
+        "en": "Nanjing",
+        "de": "Nanjing",
+        "fr": "Nankin",
+        "es": "Nankín",
+        "hu": "Nanking",
+        "zh": "南京市"
+    },
+    "Xuzhou,China": {
+        "en": "Xuzhou",
+        "de": "Xuzhou",
+        "fr": "Xuzhou",
+        "es": "Xuzhou",
+        "hu": "Xuzhou",
+        "zh": "徐州市"
+    },
+    "Wenzhou,China": {
+        "en": "Wenzhou",
+        "de": "Wenzhou",
+        "fr": "Wenzhou",
+        "es": "Wenzhou",
+        "hu": "Vencsou",
+        "zh": "温州市"
+    },
+    "Qingdao,China": {
+        "en": "Qingdao",
+        "de": "Qingdao",
+        "fr": "Qingdao",
+        "es": "Qingdao",
+        "hu": "Qingdao",
+        "zh": "青岛市"
+    },
+    "SuzhouSU,China": {
+        "en": "Suzhou",
+        "de": "Suzhou",
+        "fr": "Suzhou",
+        "es": "Suzhou",
+        "hu": "Szucsou",
+        "zh": "苏州市"
+    },
+    "Kansas City,USA": {
+        "en": "Kansas City",
+        "de": "Kansas City",
+        "fr": "Kansas City",
+        "es": "Kansas City",
+        "hu": "Kansas City",
+        "zh": "堪萨斯城"
+    },
+    "Cerritos,USA": {
+        "en": "Cerritos",
+        "de": "Cerritos",
+        "fr": "Cerritos",
+        "es": "Cerritos",
+        "hu": "Cerritos",
+        "zh": "喜瑞都"
+    },
+    "Atlanta,USA": {
+        "en": "Atlanta",
+        "de": "Atlanta",
+        "fr": "Atlanta",
+        "es": "Atlanta",
+        "hu": "Atlanta",
+        "zh": "亚特兰大"
+    },
+    "Budapest,Ungarn": {
+        "en": "Budapest",
+        "de": "Budapest",
+        "fr": "Budapest",
+        "es": "Budapest",
+        "hu": "Budapest",
+        "zh": "布达佩斯"
+    },
+    "Neuhausen,Deutschland": {
+        "en": "Neuhausen",
+        "de": "Neuhausen",
+        "fr": "Neuhausen",
+        "es": "Neuhausen",
+        "hu": "Neuhausen",
+        "zh": "诺伊豪森"
+    },
+    "Modena,Italien": {
+        "en": "Modena",
+        "de": "Modena",
+        "fr": "Modène",
+        "es": "Módena",
+        "hu": "Modena",
+        "zh": "莫德纳"
+    },
+    "Mestre,Italien": {
+        "en": "Mestre",
+        "de": "Mestre",
+        "fr": "Mestre",
+        "es": "Mestre",
+        "hu": "Mestre",
+        "zh": "梅斯特雷"
+    },
+    "Morbegno,Italien": {
+        "en": "Morbegno",
+        "de": "Morbend",
+        "fr": "Morbegno",
+        "es": "Morbegno",
+        "hu": "Morbegno",
+        "zh": "莫尔贝尼奥"
+    },
+    "Cologno Monzese,Italien": {
+        "en": "Cologno Monzese",
+        "de": "Cologno Monzese",
+        "fr": "Cologno Monzese",
+        "es": "Cologno Monzese",
+        "hu": "Cologno Monzese",
+        "zh": "科洛尼奥蒙泽塞"
+    },
+    "Riccione,Italien": {
+        "en": "Riccione",
+        "de": "Riccione",
+        "fr": "Riccione",
+        "es": "Riccione",
+        "hu": "Riccione",
+        "zh": "里乔内"
+    },
+    "Mezzolombardo,Italien": {
+        "en": "Mezzolombardo",
+        "de": "Welsch-Metz",
+        "fr": "Mezzolombardo",
+        "es": "Mezzolombardo",
+        "hu": "Mezzolombardo",
+        "zh": "梅佐伦巴多"
+    },
+    "Móstoles,Spanien": {
+        "en": "Móstoles",
+        "de": "Móstoles",
+        "fr": "Móstoles",
+        "es": "Móstoles",
+        "hu": "Móstoles",
+        "zh": "莫斯托莱斯"
+    },
+    "Middleton,USA": {
+        "en": "Middleton",
+        "de": "Middleton",
+        "fr": "Middleton",
+        "es": "Middleton",
+        "hu": "Middleton",
+        "zh": "米德尔顿"
+    },
+    "Hamburg,Deutschland": {
+        "en": "Hamburg",
+        "de": "Hamburg",
+        "fr": "Hambourg",
+        "es": "Hamburgo",
+        "hu": "Hamburg",
+        "zh": "汉堡"
+    },
+    "Neuss,Deutschland": {
+        "en": "Neuss",
+        "de": "Neuss",
+        "fr": "Neuss",
+        "es": "Neuss",
+        "hu": "Neuss",
+        "zh": "诺伊斯"
+    },
+    "Regensburg,Deutschland": {
+        "en": "Regensburg",
+        "de": "Regensburg",
+        "fr": "Ratisbonne",
+        "es": "Ratisbona",
+        "hu": "Regensburg",
+        "zh": "雷根斯堡"
+    },
+    "Ulm,Deutschland": {
+        "en": "Ulm",
+        "de": "Ulm",
+        "fr": "Ulm",
+        "es": "Ulm",
+        "hu": "Ulm",
+        "zh": "乌尔姆"
+    },
+    "Portland,USA": {
+        "en": "Portland",
+        "de": "Portland",
+        "fr": "Portland",
+        "es": "Portland",
+        "hu": "Portland",
+        "zh": "波特兰"
+    },
+    "Olive Branch,USA": {
+        "en": "Olive Branch",
+        "de": "Olive Branch",
+        "fr": "Olive Branch",
+        "es": "Olive Branch",
+        "hu": "Olive Branch",
+        "zh": "奥利夫布兰奇"
+    },
+    "Westwood,USA": {
+        "en": "Westwood",
+        "de": "Westwood",
+        "fr": "Westwood Village",
+        "es": "Westwood Village",
+        "hu": "Westwood",
+        "zh": "Westwood Village"
+    },
+    "Edison,USA": {
+        "en": "Edison",
+        "de": "Edison",
+        "fr": "Edison",
+        "es": "Edison",
+        "hu": "Edison",
+        "zh": "爱迪生"
+    },
+    "Germantown,USA": {
+        "en": "Germantown",
+        "de": "Germantown",
+        "fr": "Germantown",
+        "es": "Germantown",
+        "hu": "Germantown",
+        "zh": "日耳曼敦"
+    },
+    "Düsseldorf,Deutschland": {
+        "en": "Düsseldorf",
+        "de": "Düsseldorf",
+        "fr": "Düsseldorf",
+        "es": "Düsseldorf",
+        "hu": "Düsseldorf",
+        "zh": "杜塞尔多夫"
+    },
+    "Berlin,Deutschland": {
+        "en": "Berlin",
+        "de": "Berlin",
+        "fr": "Berlin",
+        "es": "Berlín",
+        "hu": "Berlin",
+        "zh": "柏林"
+    },
+    "Rottweil,Deutschland": {
+        "en": "Rottweil",
+        "de": "Rottweil",
+        "fr": "Rottweil",
+        "es": "Rottweil",
+        "hu": "Rottweil",
+        "zh": "罗特韦尔"
+    },
+    "Münster,Deutschland": {
+        "en": "Münster",
+        "de": "Münster",
+        "fr": "Münster",
+        "es": "Münster",
+        "hu": "Münster",
+        "zh": "明斯特"
+    },
+    "Oklahoma City,USA": {
+        "en": "Oklahoma City",
+        "de": "Oklahoma City",
+        "fr": "Oklahoma City",
+        "es": "Oklahoma City",
+        "hu": "Oklahoma City",
+        "zh": "俄克拉荷马城"
+    },
+    "Birmingham (US),USA": {
+        "en": "Birmingham",
+        "de": "Birmingham",
+        "fr": "Birmingham",
+        "es": "Birmingham",
+        "hu": "Birmingham",
+        "zh": "伯明翰"
+    },
+    "King of Prussia,USA": {
+        "en": "King of Prussia",
+        "de": "King of Prussia",
+        "fr": "King of Prussia",
+        "es": "King of Prussia",
+        "hu": "King of Prussia",
+        "zh": "普鲁士国王"
+    },
+    "New York,USA": {
+        "en": "New York",
+        "de": "New York City",
+        "fr": "New York",
+        "es": "Nueva York",
+        "hu": "New York",
+        "zh": "纽约"
+    },
+    "Syracuse (East Syracuse),USA": {
+        "en": "East Syracuse",
+        "de": "East Syracuse",
+        "fr": "East Syracuse",
+        "es": "East Syracuse",
+        "hu": "East Syracuse",
+        "zh": "东叙拉古"
+    },
+    "Phoenix,USA": {
+        "en": "Phoenix",
+        "de": "Phoenix",
+        "fr": "Phoenix",
+        "es": "Phoenix",
+        "hu": "Phoenix",
+        "zh": "菲尼克斯"
+    },
+    "Lincoln,USA": {
+        "en": "Lincoln",
+        "de": "Lincoln",
+        "fr": "Lincoln",
+        "es": "Lincoln",
+        "hu": "Lincoln",
+        "zh": "林肯"
+    },
+    "Kirkland,USA": {
+        "en": "Kirkland",
+        "de": "Kirkland",
+        "fr": "Kirkland",
+        "es": "Kirkland",
+        "hu": "Kirkland",
+        "zh": "柯克兰"
+    },
+    "South San Francisco,USA": {
+        "en": "South San Francisco",
+        "de": "South San Francisco",
+        "fr": "South San Francisco",
+        "es": "South San Francisco",
+        "hu": "South San Francisco",
+        "zh": "南旧金山"
+    },
+    "Corpus Christi,USA": {
+        "en": "Corpus Christi",
+        "de": "Corpus Christi",
+        "fr": "Corpus Christi",
+        "es": "Corpus Christi",
+        "hu": "Corpus Christi",
+        "zh": "科珀斯克里斯蒂"
+    },
+    "Bradenton,USA": {
+        "en": "Bradenton",
+        "de": "Bradenton",
+        "fr": "Bradenton",
+        "es": "Bradenton",
+        "hu": "Bradenton",
+        "zh": "布雷登顿"
+    },
+    "Westchester,USA": {
+        "en": "Westchester County",
+        "de": "Westchester County",
+        "fr": "Comté de Westchester",
+        "es": "Condado de Westchester",
+        "hu": "Westchester megye",
+        "zh": "韦斯特切斯特"
+    },
+    "Denver,USA": {
+        "en": "Denver",
+        "de": "Denver",
+        "fr": "Denver",
+        "es": "Denver",
+        "hu": "Denver",
+        "zh": "丹佛"
+    },
+    "Everett,USA": {
+        "en": "Everett",
+        "de": "Everett",
+        "fr": "Everett",
+        "es": "Everett",
+        "hu": "Everett",
+        "zh": "埃弗里特"
+    },
+    "Des Moines,USA": {
+        "en": "Des Moines",
+        "de": "Des Moines",
+        "fr": "Des Moines",
+        "es": "Des Moines",
+        "hu": "Des Moines",
+        "zh": "得梅因"
+    },
+    "Spokane,USA": {
+        "en": "Spokane",
+        "de": "Spokane",
+        "fr": "Spokane",
+        "es": "Spokane",
+        "hu": "Spokane",
+        "zh": "斯波坎"
+    },
+    "Tacoma (University Place),USA": {
+        "en": "University Place",
+        "de": "University Place",
+        "fr": "University Place",
+        "es": "University Place",
+        "hu": "University Place",
+        "zh": "大学城"
+    },
+    "Omaha,USA": {
+        "en": "Omaha",
+        "de": "Omaha",
+        "fr": "Omaha",
+        "es": "Omaha",
+        "hu": "Omaha",
+        "zh": "奥马哈"
+    },
+    "Albuquerque,USA": {
+        "en": "Albuquerque",
+        "de": "Albuquerque",
+        "fr": "Albuquerque",
+        "es": "Albuquerque",
+        "hu": "Albuquerque",
+        "zh": "阿尔伯克基"
+    },
+    "Linthicum,USA": {
+        "en": "Linthicum Heights",
+        "de": "Linthicum",
+        "fr": "Linthicum",
+        "es": "Linthicum",
+        "hu": "Linthicum Heights",
+        "zh": "林西克姆"
+    },
+    "Chicago,USA": {
+        "en": "Chicago",
+        "de": "Chicago",
+        "fr": "Chicago",
+        "es": "Chicago",
+        "hu": "Chicago",
+        "zh": "芝加哥"
+    },
+    "San Antonio,USA": {
+        "en": "San Antonio",
+        "de": "San Antonio",
+        "fr": "San Antonio",
+        "es": "San Antonio",
+        "hu": "San Antonio",
+        "zh": "圣安东尼奥"
+    },
+    "Houston,USA": {
+        "en": "Houston",
+        "de": "Houston",
+        "fr": "Houston",
+        "es": "Houston",
+        "hu": "Houston",
+        "zh": "休斯敦"
+    },
+    "Honolulu,USA": {
+        "en": "Honolulu",
+        "de": "Honolulu",
+        "fr": "Honolulu",
+        "es": "Honolulu",
+        "hu": "Honolulu",
+        "zh": "檀香山"
+    },
+    "Marietta,USA": {
+        "en": "Marietta",
+        "de": "Marietta",
+        "fr": "Marietta",
+        "es": "Marietta",
+        "hu": "Marietta",
+        "zh": "玛丽埃塔"
+    },
+    "MERIGNAC,Frankreich": {
+        "en": "Mérignac",
+        "de": "Mérignac",
+        "fr": "Mérignac",
+        "es": "Mérignac",
+        "hu": "Mérignac",
+        "zh": "梅里尼亚克"
+    },
+    "Dortmund,Deutschland": {
+        "en": "Dortmund",
+        "de": "Dortmund",
+        "fr": "Dortmund",
+        "es": "Dortmund",
+        "hu": "Dortmund",
+        "zh": "多特蒙德"
+    },
+    "Fulda,Deutschland": {
+        "en": "Fulda",
+        "de": "Fulda",
+        "fr": "Fulda",
+        "es": "Fulda",
+        "hu": "Fulda",
+        "zh": "富尔达"
+    },
+    "Landesweit,Deutschland": {
+        "en": "Baltimore",
+        "de": "Baden-Württemberg",
+        "fr": "Baltimore",
+        "es": "Baltimore",
+        "hu": "Baltimore",
+        "zh": "Baltimore"
+    },
+    "Dresden,Deutschland": {
+        "en": "Dresden",
+        "de": "Dresden",
+        "fr": "Dresde",
+        "es": "Dresde",
+        "hu": "Drezda",
+        "zh": "德累斯顿"
+    },
+    "Essen,Deutschland": {
+        "en": "Essen",
+        "de": "Essen",
+        "fr": "Essen",
+        "es": "Essen",
+        "hu": "Essen",
+        "zh": "埃森"
+    },
+    "Frankfurt am Main,Deutschland": {
+        "en": "Frankfurt",
+        "de": "Frankfurt am Main",
+        "fr": "Francfort-sur-le-Main",
+        "es": "Fráncfort del Meno",
+        "hu": "Frankfurt",
+        "zh": "美因河畔法兰克福"
+    },
+    "Freiburg im Breisgau,Deutschland": {
+        "en": "Freiburg im Breisgau",
+        "de": "Freiburg im Breisgau",
+        "fr": "Fribourg-en-Brisgau",
+        "es": "Friburgo de Brisgovia",
+        "hu": "Freiburg",
+        "zh": "弗赖堡"
+    },
+    "Hürth,Deutschland": {
+        "en": "Hürth",
+        "de": "Hürth",
+        "fr": "Hürth",
+        "es": "Hürth-Hermülheim",
+        "hu": "Hürth",
+        "zh": "许尔特"
+    },
+    "Mannheim,Deutschland": {
+        "en": "Mannheim",
+        "de": "Mannheim",
+        "fr": "Mannheim",
+        "es": "Mannheim",
+        "hu": "Mannheim",
+        "zh": "曼海姆"
+    },
+    "Feldkirchen,Deutschland": {
+        "en": "Feldkirchen",
+        "de": "Feldkirchen",
+        "fr": "Feldkirchen",
+        "es": "Feldkirchen",
+        "hu": "Feldkirchen",
+        "zh": "费尔德基兴"
+    },
+    "Nürnberg,Deutschland": {
+        "en": "Nuremberg",
+        "de": "Nürnberg",
+        "fr": "Nuremberg",
+        "es": "Núremberg",
+        "hu": "Nürnberg",
+        "zh": "纽伦堡"
+    },
+    "Gingen,Deutschland": {
+        "en": "Gingen an der Fils",
+        "de": "Gingen an der Fils",
+        "fr": "Gingen an der Fils",
+        "es": "Gingen an der Fils",
+        "hu": "Gingen an der Fils",
+        "zh": "菲尔斯河畔金根"
+    },
+    "Gochsheim,Deutschland": {
+        "en": "Gochsheim",
+        "de": "Gochsheim",
+        "fr": "Gochsheim",
+        "es": "Gochsheim",
+        "hu": "Gochsheim",
+        "zh": "戈赫斯海姆"
+    },
+    "Isernhagen-Altwarmbüchen,Deutschland": {
+        "en": "Altwarmbüchen",
+        "de": "Altwarmbüchen",
+        "fr": "Altwarmbüchen",
+        "es": "Altwarmbüchen",
+        "hu": "Altwarmbüchen",
+        "zh": "Altwarmbüchen"
+    },
+    "Chattanooga,USA": {
+        "en": "Chattanooga",
+        "de": "Chattanooga",
+        "fr": "Chattanooga",
+        "es": "Chattanooga",
+        "hu": "Chattanooga",
+        "zh": "查塔努加"
+    },
+    "Indianapolis,USA": {
+        "en": "Indianapolis",
+        "de": "Indianapolis",
+        "fr": "Indianapolis",
+        "es": "Indianápolis",
+        "hu": "Indianapolis",
+        "zh": "印第安纳波利斯"
+    },
+    "Grand Rapids,USA": {
+        "en": "Grand Rapids",
+        "de": "Grand Rapids",
+        "fr": "Grand Rapids",
+        "es": "Grand Rapids",
+        "hu": "Grand Rapids",
+        "zh": "大急流城"
+    },
+    "Peoria,USA": {
+        "en": "Peoria",
+        "de": "Peoria",
+        "fr": "Peoria",
+        "es": "Peoria",
+        "hu": "Peoria",
+        "zh": "皮奥里亚"
+    },
+    "Fresno,USA": {
+        "en": "Fresno",
+        "de": "Fresno",
+        "fr": "Fresno",
+        "es": "Fresno",
+        "hu": "Fresno",
+        "zh": "弗雷斯诺"
+    },
+    "Boise,USA": {
+        "en": "Boise",
+        "de": "Boise",
+        "fr": "Boise",
+        "es": "Boise",
+        "hu": "Boise",
+        "zh": "博伊西"
+    },
+    "Ft. Worth,USA": {
+        "en": "Fort Worth",
+        "de": "Fort Worth",
+        "fr": "Fort Worth",
+        "es": "Fort Worth",
+        "hu": "Fort Worth",
+        "zh": "沃思堡"
+    },
+    "Ginsheim,Deutschland": {
+        "en": "Ginsheim-Gustavsburg",
+        "de": "Ginsheim-Gustavsburg",
+        "fr": "Ginsheim-Gustavsburg",
+        "es": "Ginsheim-Gustavsburg",
+        "hu": "Ginsheim-Gustavsburg",
+        "zh": "金斯海姆-古斯塔夫斯堡"
+    },
+    "Troisdorf,Deutschland": {
+        "en": "Troisdorf",
+        "de": "Troisdorf",
+        "fr": "Troisdorf",
+        "es": "Troisdorf",
+        "hu": "Troisdorf",
+        "zh": "特罗斯多夫"
+    },
+    "Erfurt,Deutschland": {
+        "en": "Erfurt",
+        "de": "Erfurt",
+        "fr": "Erfurt",
+        "es": "Érfurt",
+        "hu": "Erfurt",
+        "zh": "埃尔福特"
+    },
+    "Hallbergmoos,Deutschland": {
+        "en": "Hallbergmoos",
+        "de": "Hallbergmoos",
+        "fr": "Hallbergmoos",
+        "es": "Hallbergmoos",
+        "hu": "Hallbergmoos",
+        "zh": "哈尔贝格莫斯"
+    },
+    "Singen,Deutschland": {
+        "en": "Singen",
+        "de": "Singen (Hohentwiel)",
+        "fr": "Singen",
+        "es": "Singen",
+        "hu": "Singen",
+        "zh": "辛根"
+    },
+    "Livonia,USA": {
+        "en": "Livonia",
+        "de": "Livonia",
+        "fr": "Livonia",
+        "es": "Livonia",
+        "hu": "Livonia",
+        "zh": "利沃尼亚"
+    },
+    "San Jose,USA": {
+        "en": "San Jose",
+        "de": "San José",
+        "fr": "San José",
+        "es": "San José",
+        "hu": "San José",
+        "zh": "圣荷西"
+    },
+    "Downers Grove,USA": {
+        "en": "Downers Grove",
+        "de": "Downers Grove",
+        "fr": "Downers Grove",
+        "es": "Downers Grove",
+        "hu": "Downers Grove",
+        "zh": "唐纳斯格罗夫"
+    },
+    "Ashland,USA": {
+        "en": "Ashland",
+        "de": "Ashland",
+        "fr": "Ashland",
+        "es": "Ashland",
+        "hu": "Ashland",
+        "zh": "阿什兰"
+    },
+    "Riviera Beach,USA": {
+        "en": "Riviera Beach",
+        "de": "Riviera Beach",
+        "fr": "Riviera Beach",
+        "es": "Riviera Beach",
+        "hu": "Riviera Beach",
+        "zh": "里维拉比奇"
+    },
+    "Anchorage,USA": {
+        "en": "Anchorage",
+        "de": "Anchorage",
+        "fr": "Anchorage",
+        "es": "Anchorage",
+        "hu": "Anchorage",
+        "zh": "安克雷奇"
+    },
+    "Alexandria,USA": {
+        "en": "Alexandria",
+        "de": "Alexandria",
+        "fr": "Alexandria",
+        "es": "Alexandria",
+        "hu": "Alexandria",
+        "zh": "亚历山德里亚"
+    },
+    "Urbandale,USA": {
+        "en": "Urbandale",
+        "de": "Urbandale",
+        "fr": "Urbandale",
+        "es": "Urbandale",
+        "hu": "Urbandale",
+        "zh": "Urbandale"
+    },
+    "Burbank,USA": {
+        "en": "Burbank",
+        "de": "Burbank",
+        "fr": "Burbank",
+        "es": "Burbank",
+        "hu": "Burbank",
+        "zh": "伯班克"
+    },
+    "Filderstadt,Deutschland": {
+        "en": "Filderstadt",
+        "de": "Filderstadt",
+        "fr": "Filderstadt",
+        "es": "Filderstadt",
+        "hu": "Filderstadt",
+        "zh": "菲尔德施塔特"
+    },
+    "Lisle,USA": {
+        "en": "Lisle",
+        "de": "Lisle",
+        "fr": "Lisle",
+        "es": "Lisle",
+        "hu": "Lisle",
+        "zh": "莱尔"
+    },
+    "MARSEILLE,Frankreich": {
+        "en": "Marseille",
+        "de": "Marseille",
+        "fr": "Marseille",
+        "es": "Marsella",
+        "hu": "Marseille",
+        "zh": "马赛"
+    },
+    "AIX-EN-PROVENCE,Frankreich": {
+        "en": "Aix-en-Provence",
+        "de": "Aix-en-Provence",
+        "fr": "Aix-en-Provence",
+        "es": "Aix-en-Provence",
+        "hu": "Aix-en-Provence",
+        "zh": "普罗旺斯地区艾克斯"
+    },
+    "Miami,USA": {
+        "en": "Miami",
+        "de": "Miami",
+        "fr": "Miami",
+        "es": "Miami",
+        "hu": "Miami",
+        "zh": "迈阿密"
+    },
+    "Tampa,USA": {
+        "en": "Tampa",
+        "de": "Tampa",
+        "fr": "Tampa",
+        "es": "Tampa",
+        "hu": "Tampa",
+        "zh": "坦帕"
+    },
+    "Charlotte,USA": {
+        "en": "Charlotte",
+        "de": "Charlotte",
+        "fr": "Charlotte",
+        "es": "Charlotte",
+        "hu": "Charlotte",
+        "zh": "夏洛特"
+    },
+    "Memphis,USA": {
+        "en": "Memphis",
+        "de": "Memphis",
+        "fr": "Memphis",
+        "es": "Memphis",
+        "hu": "Memphis",
+        "zh": "孟菲斯"
+    },
+    "San Leandro (Hayward),USA": {
+        "en": "San Leandro",
+        "de": "San Leandro",
+        "fr": "San Leandro",
+        "es": "San Leandro",
+        "hu": "San Leandro",
+        "zh": "圣利安卓"
+    },
+    "Cincinnati,USA": {
+        "en": "Cincinnati",
+        "de": "Cincinnati",
+        "fr": "Cincinnati",
+        "es": "Cincinnati",
+        "hu": "Cincinnati",
+        "zh": "辛辛那提"
+    },
+    "Broadview Heights,USA": {
+        "en": "Broadview Heights",
+        "de": "Broadview Heights",
+        "fr": "Broadview Heights",
+        "es": "Broadview Heights",
+        "hu": "Broadview Heights",
+        "zh": "Broadview Heights"
+    },
+    "Fürth,Deutschland": {
+        "en": "Fürth",
+        "de": "Fürth",
+        "fr": "Fürth",
+        "es": "Fürth",
+        "hu": "Fürth",
+        "zh": "菲尔特"
+    },
+    "Forst,Deutschland": {
+        "en": "Forst",
+        "de": "Forst (Lausitz)",
+        "fr": "Forst",
+        "es": "Forst",
+        "hu": "Forst",
+        "zh": "福斯特"
+    },
+    "Knoxville,USA": {
+        "en": "Knoxville",
+        "de": "Knoxville",
+        "fr": "Knoxville",
+        "es": "Knoxville",
+        "hu": "Knoxville",
+        "zh": "诺克斯维尔"
+    },
+    "Pensacola,USA": {
+        "en": "Pensacola",
+        "de": "Pensacola",
+        "fr": "Pensacola",
+        "es": "Pensacola",
+        "hu": "Pensacola",
+        "zh": "彭萨科拉"
+    },
+    "Anaheim,USA": {
+        "en": "Anaheim",
+        "de": "Anaheim",
+        "fr": "Anaheim",
+        "es": "Anaheim",
+        "hu": "Anaheim",
+        "zh": "安纳海姆"
+    },
+    "Greensboro,USA": {
+        "en": "Greensboro",
+        "de": "Greensboro",
+        "fr": "Greensboro",
+        "es": "Greensboro",
+        "hu": "Greensboro",
+        "zh": "格林斯伯勒"
+    },
+    "Dallas,USA": {
+        "en": "Dallas",
+        "de": "Dallas",
+        "fr": "Dallas",
+        "es": "Dallas",
+        "hu": "Dallas",
+        "zh": "达拉斯"
+    },
+    "Orlando,USA": {
+        "en": "Orlando",
+        "de": "Orlando",
+        "fr": "Orlando",
+        "es": "Orlando",
+        "hu": "Orlando",
+        "zh": "奧蘭多"
+    },
+    "Austin,USA": {
+        "en": "Austin",
+        "de": "Austin",
+        "fr": "Austin",
+        "es": "Austin",
+        "hu": "Austin",
+        "zh": "奥斯汀"
+    },
+    "Annone di Brianza,Italien": {
+        "en": "Annone di Brianza",
+        "de": "Annone di Brianza",
+        "fr": "Annone di Brianza",
+        "es": "Annone di Brianza",
+        "hu": "Annone di Brianza",
+        "zh": "安诺内迪布里亚恩扎"
+    },
+    "Charleston,USA": {
+        "en": "Charleston",
+        "de": "Charleston",
+        "fr": "Charleston",
+        "es": "Charleston",
+        "hu": "Charleston",
+        "zh": "查尔斯顿"
+    },
+    "Lenexa,USA": {
+        "en": "Lenexa",
+        "de": "Lenexa",
+        "fr": "Lenexa",
+        "es": "Lenexa",
+        "hu": "Lenexa",
+        "zh": "列涅萨"
+    },
+    "Roanoke,USA": {
+        "en": "Roanoke",
+        "de": "Roanoke",
+        "fr": "Roanoke",
+        "es": "Roanoke",
+        "hu": "Roanoke",
+        "zh": "罗阿诺克"
+    },
+    "Las Vegas,USA": {
+        "en": "Las Vegas",
+        "de": "Las Vegas",
+        "fr": "Las Vegas",
+        "es": "Las Vegas",
+        "hu": "Las Vegas",
+        "zh": "拉斯维加斯"
+    },
+    "El Cajon,USA": {
+        "en": "El Cajon",
+        "de": "El Cajon",
+        "fr": "El Cajon",
+        "es": "El Cajón",
+        "hu": "El Cajon",
+        "zh": "埃尔卡洪"
+    },
+    "Menomonee Falls,USA": {
+        "en": "Menomonee Falls",
+        "de": "Menomonee Falls",
+        "fr": "Menomonee Falls",
+        "es": "Menomonee Falls",
+        "hu": "Menomonee Falls",
+        "zh": "梅诺莫尼福尔斯"
+    },
+    "College Park,USA": {
+        "en": "College Park",
+        "de": "College Park",
+        "fr": "College Park",
+        "es": "College Park",
+        "hu": "College Park",
+        "zh": "大学公园市"
+    },
+    "Salt Lake City,USA": {
+        "en": "Salt Lake City",
+        "de": "Salt Lake City",
+        "fr": "Salt Lake City",
+        "es": "Salt Lake City",
+        "hu": "Salt Lake City",
+        "zh": "盐湖城"
+    },
+    "Kansas City,États-Unis": {
+        "en": "Kansas City",
+        "de": "Kansas City",
+        "fr": "Kansas City",
+        "es": "Kansas City",
+        "hu": "Kansas City",
+        "zh": "堪萨斯城"
+    },
+    "Cerritos,États-Unis": {
+        "en": "Cerritos",
+        "de": "Cerritos",
+        "fr": "Cerritos",
+        "es": "Cerritos",
+        "hu": "Cerritos",
+        "zh": "喜瑞都"
+    },
+    "Atlanta,États-Unis": {
+        "en": "Atlanta",
+        "de": "Atlanta",
+        "fr": "Atlanta",
+        "es": "Atlanta",
+        "hu": "Atlanta",
+        "zh": "亚特兰大"
+    },
+    "Budapest,Hongrie": {
+        "en": "Budapest",
+        "de": "Budapest",
+        "fr": "Budapest",
+        "es": "Budapest",
+        "hu": "Budapest",
+        "zh": "布达佩斯"
+    },
+    "Neuhausen,Allemagne": {
+        "en": "Neuhausen",
+        "de": "Neuhausen",
+        "fr": "Neuhausen",
+        "es": "Neuhausen",
+        "hu": "Neuhausen",
+        "zh": "诺伊豪森"
+    },
+    "Modena,Italie": {
+        "en": "Modena",
+        "de": "Modena",
+        "fr": "Modène",
+        "es": "Módena",
+        "hu": "Modena",
+        "zh": "莫德纳"
+    },
+    "Mestre,Italie": {
+        "en": "Mestre",
+        "de": "Mestre",
+        "fr": "Mestre",
+        "es": "Mestre",
+        "hu": "Mestre",
+        "zh": "梅斯特雷"
+    },
+    "Morbegno,Italie": {
+        "en": "Morbegno",
+        "de": "Morbend",
+        "fr": "Morbegno",
+        "es": "Morbegno",
+        "hu": "Morbegno",
+        "zh": "莫尔贝尼奥"
+    },
+    "Cologno Monzese,Italie": {
+        "en": "Cologno Monzese",
+        "de": "Cologno Monzese",
+        "fr": "Cologno Monzese",
+        "es": "Cologno Monzese",
+        "hu": "Cologno Monzese",
+        "zh": "科洛尼奥蒙泽塞"
+    },
+    "Riccione,Italie": {
+        "en": "Riccione",
+        "de": "Riccione",
+        "fr": "Riccione",
+        "es": "Riccione",
+        "hu": "Riccione",
+        "zh": "里乔内"
+    },
+    "Mezzolombardo,Italie": {
+        "en": "Mezzolombardo",
+        "de": "Welsch-Metz",
+        "fr": "Mezzolombardo",
+        "es": "Mezzolombardo",
+        "hu": "Mezzolombardo",
+        "zh": "梅佐伦巴多"
+    },
+    "Móstoles,Espagne": {
+        "en": "Móstoles",
+        "de": "Móstoles",
+        "fr": "Móstoles",
+        "es": "Móstoles",
+        "hu": "Móstoles",
+        "zh": "莫斯托莱斯"
+    },
+    "Middleton,États-Unis": {
+        "en": "Middleton",
+        "de": "Middleton",
+        "fr": "Middleton",
+        "es": "Middleton",
+        "hu": "Middleton",
+        "zh": "米德尔顿"
+    },
+    "Hamburg,Allemagne": {
+        "en": "Hamburg",
+        "de": "Hamburg",
+        "fr": "Hambourg",
+        "es": "Hamburgo",
+        "hu": "Hamburg",
+        "zh": "汉堡"
+    },
+    "Neuss,Allemagne": {
+        "en": "Neuss",
+        "de": "Neuss",
+        "fr": "Neuss",
+        "es": "Neuss",
+        "hu": "Neuss",
+        "zh": "诺伊斯"
+    },
+    "Regensburg,Allemagne": {
+        "en": "Regensburg",
+        "de": "Regensburg",
+        "fr": "Ratisbonne",
+        "es": "Ratisbona",
+        "hu": "Regensburg",
+        "zh": "雷根斯堡"
+    },
+    "Ulm,Allemagne": {
+        "en": "Ulm",
+        "de": "Ulm",
+        "fr": "Ulm",
+        "es": "Ulm",
+        "hu": "Ulm",
+        "zh": "乌尔姆"
+    },
+    "Portland,États-Unis": {
+        "en": "Portland",
+        "de": "Portland",
+        "fr": "Portland",
+        "es": "Portland",
+        "hu": "Portland",
+        "zh": "波特兰"
+    },
+    "Olive Branch,États-Unis": {
+        "en": "Olive Branch",
+        "de": "Olive Branch",
+        "fr": "Olive Branch",
+        "es": "Olive Branch",
+        "hu": "Olive Branch",
+        "zh": "奥利夫布兰奇"
+    },
+    "Westwood,États-Unis": {
+        "en": "Westwood",
+        "de": "Westwood",
+        "fr": "Westwood",
+        "es": "Westwood",
+        "hu": "Westwood",
+        "zh": "韦斯特伍德"
+    },
+    "Edison,États-Unis": {
+        "en": "Edison",
+        "de": "Edison",
+        "fr": "Edison",
+        "es": "Edison",
+        "hu": "Edison",
+        "zh": "爱迪生"
+    },
+    "Germantown,États-Unis": {
+        "en": "Germantown",
+        "de": "Germantown",
+        "fr": "Germantown",
+        "es": "Germantown",
+        "hu": "Germantown",
+        "zh": "日耳曼敦"
+    },
+    "Düsseldorf,Allemagne": {
+        "en": "Düsseldorf",
+        "de": "Düsseldorf",
+        "fr": "Düsseldorf",
+        "es": "Düsseldorf",
+        "hu": "Düsseldorf",
+        "zh": "杜塞尔多夫"
+    },
+    "Berlin,Allemagne": {
+        "en": "Berlin",
+        "de": "Berlin",
+        "fr": "Berlin",
+        "es": "Berlín",
+        "hu": "Berlin",
+        "zh": "柏林"
+    },
+    "Rottweil,Allemagne": {
+        "en": "Rottweil",
+        "de": "Rottweil",
+        "fr": "Rottweil",
+        "es": "Rottweil",
+        "hu": "Rottweil",
+        "zh": "罗特韦尔"
+    },
+    "Münster,Allemagne": {
+        "en": "Münster",
+        "de": "Münster",
+        "fr": "Münster",
+        "es": "Münster",
+        "hu": "Münster",
+        "zh": "明斯特"
+    },
+    "Oklahoma City,États-Unis": {
+        "en": "Oklahoma City",
+        "de": "Oklahoma City",
+        "fr": "Oklahoma City",
+        "es": "Oklahoma City",
+        "hu": "Oklahoma City",
+        "zh": "俄克拉荷马城"
+    },
+    "Birmingham (US),États-Unis": {
+        "en": "Birmingham",
+        "de": "Birmingham",
+        "fr": "Birmingham",
+        "es": "Birmingham",
+        "hu": "Birmingham",
+        "zh": "伯明翰"
+    },
+    "King of Prussia,États-Unis": {
+        "en": "King of Prussia",
+        "de": "King of Prussia",
+        "fr": "King of Prussia",
+        "es": "King of Prussia",
+        "hu": "King of Prussia",
+        "zh": "普鲁士国王"
+    },
+    "New York,États-Unis": {
+        "en": "New York",
+        "de": "New York City",
+        "fr": "New York",
+        "es": "Nueva York",
+        "hu": "New York",
+        "zh": "纽约"
+    },
+    "Cantano,Porto Rico": {
+        "en": "Cataño",
+        "de": "Cataño",
+        "fr": "Cataño",
+        "es": "Cataño",
+        "hu": "Cataño",
+        "zh": "卡塔尼奥"
+    },
+    "Syracuse (East Syracuse),États-Unis": {
+        "en": "East Syracuse",
+        "de": "East Syracuse",
+        "fr": "East Syracuse",
+        "es": "East Syracuse",
+        "hu": "East Syracuse",
+        "zh": "东叙拉古"
+    },
+    "Phoenix,États-Unis": {
+        "en": "Phoenix",
+        "de": "Phoenix",
+        "fr": "Phoenix",
+        "es": "Phoenix",
+        "hu": "Phoenix",
+        "zh": "菲尼克斯"
+    },
+    "Lincoln,États-Unis": {
+        "en": "Lincoln",
+        "de": "Lincoln",
+        "fr": "Lincoln",
+        "es": "Lincoln",
+        "hu": "Lincoln",
+        "zh": "林肯"
+    },
+    "Kirkland,États-Unis": {
+        "en": "Kirkland",
+        "de": "Kirkland",
+        "fr": "Kirkland",
+        "es": "Kirkland",
+        "hu": "Kirkland",
+        "zh": "柯克兰"
+    },
+    "South San Francisco,États-Unis": {
+        "en": "South San Francisco",
+        "de": "South San Francisco",
+        "fr": "South San Francisco",
+        "es": "South San Francisco",
+        "hu": "South San Francisco",
+        "zh": "南旧金山"
+    },
+    "Corpus Christi,États-Unis": {
+        "en": "Corpus Christi",
+        "de": "Corpus Christi",
+        "fr": "Corpus Christi",
+        "es": "Corpus Christi",
+        "hu": "Corpus Christi",
+        "zh": "科珀斯克里斯蒂"
+    },
+    "Bradenton,États-Unis": {
+        "en": "Bradenton",
+        "de": "Bradenton",
+        "fr": "Bradenton",
+        "es": "Bradenton",
+        "hu": "Bradenton",
+        "zh": "布雷登顿"
+    },
+    "Westchester,États-Unis": {
+        "en": "Westchester County",
+        "de": "Westchester County",
+        "fr": "Comté de Westchester",
+        "es": "Condado de Westchester",
+        "hu": "Westchester megye",
+        "zh": "韦斯特切斯特"
+    },
+    "Denver,États-Unis": {
+        "en": "Denver",
+        "de": "Denver",
+        "fr": "Denver",
+        "es": "Denver",
+        "hu": "Denver",
+        "zh": "丹佛"
+    },
+    "Everett,États-Unis": {
+        "en": "Everett",
+        "de": "Everett",
+        "fr": "Everett",
+        "es": "Everett",
+        "hu": "Everett",
+        "zh": "埃弗里特"
+    },
+    "Des Moines,États-Unis": {
+        "en": "Des Moines",
+        "de": "Des Moines",
+        "fr": "Des Moines",
+        "es": "Des Moines",
+        "hu": "Des Moines",
+        "zh": "得梅因"
+    },
+    "Spokane,États-Unis": {
+        "en": "Spokane",
+        "de": "Spokane",
+        "fr": "Spokane",
+        "es": "Spokane",
+        "hu": "Spokane",
+        "zh": "斯波坎"
+    },
+    "Tacoma (University Place),États-Unis": {
+        "en": "University Place",
+        "de": "University Place",
+        "fr": "University Place",
+        "es": "University Place",
+        "hu": "University Place",
+        "zh": "大学城"
+    },
+    "Omaha,États-Unis": {
+        "en": "Omaha",
+        "de": "Omaha",
+        "fr": "Omaha",
+        "es": "Omaha",
+        "hu": "Omaha",
+        "zh": "奥马哈"
+    },
+    "Albuquerque,États-Unis": {
+        "en": "Albuquerque",
+        "de": "Albuquerque",
+        "fr": "Albuquerque",
+        "es": "Albuquerque",
+        "hu": "Albuquerque",
+        "zh": "阿尔伯克基"
+    },
+    "Linthicum,États-Unis": {
+        "en": "Linthicum Heights",
+        "de": "Linthicum",
+        "fr": "Linthicum",
+        "es": "Linthicum",
+        "hu": "Linthicum Heights",
+        "zh": "林西克姆"
+    },
+    "Chicago,États-Unis": {
+        "en": "Chicago",
+        "de": "Chicago",
+        "fr": "Chicago",
+        "es": "Chicago",
+        "hu": "Chicago",
+        "zh": "芝加哥"
+    },
+    "San Antonio,États-Unis": {
+        "en": "San Antonio",
+        "de": "San Antonio",
+        "fr": "San Antonio",
+        "es": "San Antonio",
+        "hu": "San Antonio",
+        "zh": "圣安东尼奥"
+    },
+    "Houston,États-Unis": {
+        "en": "Houston",
+        "de": "Houston",
+        "fr": "Houston",
+        "es": "Houston",
+        "hu": "Houston",
+        "zh": "休斯敦"
+    },
+    "Honolulu,États-Unis": {
+        "en": "Honolulu",
+        "de": "Honolulu",
+        "fr": "Honolulu",
+        "es": "Honolulu",
+        "hu": "Honolulu",
+        "zh": "檀香山"
+    },
+    "Marietta,États-Unis": {
+        "en": "Marietta",
+        "de": "Marietta",
+        "fr": "Marietta",
+        "es": "Marietta",
+        "hu": "Marietta",
+        "zh": "玛丽埃塔"
+    },
+    "Dortmund,Allemagne": {
+        "en": "Dortmund",
+        "de": "Dortmund",
+        "fr": "Dortmund",
+        "es": "Dortmund",
+        "hu": "Dortmund",
+        "zh": "多特蒙德"
+    },
+    "Fulda,Allemagne": {
+        "en": "Fulda",
+        "de": "Fulda",
+        "fr": "Fulda",
+        "es": "Fulda",
+        "hu": "Fulda",
+        "zh": "富尔达"
+    },
+    "Landesweit,Allemagne": {
+        "en": "Baden-Baden",
+        "de": "Deutschland",
+        "fr": "Mexique",
+        "es": "Wülfrath",
+        "hu": "Baden-Baden",
+        "zh": "巴登－巴登"
+    },
+    "Dresden,Allemagne": {
+        "en": "Dresden",
+        "de": "Dresden",
+        "fr": "Dresde",
+        "es": "Dresde",
+        "hu": "Drezda",
+        "zh": "德累斯顿"
+    },
+    "Essen,Allemagne": {
+        "en": "Essen",
+        "de": "Essen",
+        "fr": "Essen",
+        "es": "Essen",
+        "hu": "Essen",
+        "zh": "埃森"
+    },
+    "Frankfurt am Main,Allemagne": {
+        "en": "Frankfurt",
+        "de": "Frankfurt am Main",
+        "fr": "Francfort-sur-le-Main",
+        "es": "Fráncfort del Meno",
+        "hu": "Frankfurt",
+        "zh": "美因河畔法兰克福"
+    },
+    "Freiburg im Breisgau,Allemagne": {
+        "en": "Freiburg im Breisgau",
+        "de": "Freiburg im Breisgau",
+        "fr": "Fribourg-en-Brisgau",
+        "es": "Friburgo de Brisgovia",
+        "hu": "Freiburg",
+        "zh": "弗赖堡"
+    },
+    "Hürth,Allemagne": {
+        "en": "Hürth",
+        "de": "Hürth",
+        "fr": "Hürth",
+        "es": "Hürth-Hermülheim",
+        "hu": "Hürth",
+        "zh": "许尔特"
+    },
+    "Mannheim,Allemagne": {
+        "en": "Mannheim",
+        "de": "Mannheim",
+        "fr": "Mannheim",
+        "es": "Mannheim",
+        "hu": "Mannheim",
+        "zh": "曼海姆"
+    },
+    "Feldkirchen,Allemagne": {
+        "en": "Feldkirchen",
+        "de": "Feldkirchen",
+        "fr": "Feldkirchen",
+        "es": "Feldkirchen",
+        "hu": "Feldkirchen",
+        "zh": "费尔德基兴"
+    },
+    "Nürnberg,Allemagne": {
+        "en": "Nuremberg",
+        "de": "Nürnberg",
+        "fr": "Nuremberg",
+        "es": "Núremberg",
+        "hu": "Nürnberg",
+        "zh": "纽伦堡"
+    },
+    "Gingen,Allemagne": {
+        "en": "Gingen an der Fils",
+        "de": "Gingen an der Fils",
+        "fr": "Gingen an der Fils",
+        "es": "Gingen an der Fils",
+        "hu": "Gingen an der Fils",
+        "zh": "菲尔斯河畔金根"
+    },
+    "Gochsheim,Allemagne": {
+        "en": "Gochsheim",
+        "de": "Gochsheim",
+        "fr": "Gochsheim",
+        "es": "Gochsheim",
+        "hu": "Gochsheim",
+        "zh": "戈赫斯海姆"
+    },
+    "Isernhagen-Altwarmbüchen,Allemagne": {
+        "en": "Altwarmbüchen",
+        "de": "Altwarmbüchen",
+        "fr": "Altwarmbüchen",
+        "es": "Altwarmbüchen",
+        "hu": "Altwarmbüchen",
+        "zh": "Altwarmbüchen"
+    },
+    "Chattanooga,États-Unis": {
+        "en": "Chattanooga",
+        "de": "Chattanooga",
+        "fr": "Chattanooga",
+        "es": "Chattanooga",
+        "hu": "Chattanooga",
+        "zh": "查塔努加"
+    },
+    "Indianapolis,États-Unis": {
+        "en": "Indianapolis",
+        "de": "Indianapolis",
+        "fr": "Indianapolis",
+        "es": "Indianápolis",
+        "hu": "Indianapolis",
+        "zh": "印第安纳波利斯"
+    },
+    "Grand Rapids,États-Unis": {
+        "en": "Grand Rapids",
+        "de": "Grand Rapids",
+        "fr": "Grand Rapids",
+        "es": "Grand Rapids",
+        "hu": "Grand Rapids",
+        "zh": "大急流城"
+    },
+    "Peoria,États-Unis": {
+        "en": "Peoria",
+        "de": "Peoria",
+        "fr": "Peoria",
+        "es": "Peoria",
+        "hu": "Peoria",
+        "zh": "皮奥里亚"
+    },
+    "Fresno,États-Unis": {
+        "en": "Fresno",
+        "de": "Fresno",
+        "fr": "Fresno",
+        "es": "Fresno",
+        "hu": "Fresno",
+        "zh": "弗雷斯诺"
+    },
+    "Boise,États-Unis": {
+        "en": "Boise",
+        "de": "Boise",
+        "fr": "Boise",
+        "es": "Boise",
+        "hu": "Boise",
+        "zh": "博伊西"
+    },
+    "Ft. Worth,États-Unis": {
+        "en": "Fort Worth",
+        "de": "Fort Worth",
+        "fr": "Fort Worth",
+        "es": "Fort Worth",
+        "hu": "Fort Worth",
+        "zh": "沃思堡"
+    },
+    "Ginsheim,Allemagne": {
+        "en": "Ginsheim-Gustavsburg",
+        "de": "Ginsheim-Gustavsburg",
+        "fr": "Ginsheim-Gustavsburg",
+        "es": "Ginsheim-Gustavsburg",
+        "hu": "Ginsheim-Gustavsburg",
+        "zh": "金斯海姆-古斯塔夫斯堡"
+    },
+    "Troisdorf,Allemagne": {
+        "en": "Troisdorf",
+        "de": "Troisdorf",
+        "fr": "Troisdorf",
+        "es": "Troisdorf",
+        "hu": "Troisdorf",
+        "zh": "特罗斯多夫"
+    },
+    "Erfurt,Allemagne": {
+        "en": "Erfurt",
+        "de": "Erfurt",
+        "fr": "Erfurt",
+        "es": "Érfurt",
+        "hu": "Erfurt",
+        "zh": "埃尔福特"
+    },
+    "Hallbergmoos,Allemagne": {
+        "en": "Hallbergmoos",
+        "de": "Hallbergmoos",
+        "fr": "Hallbergmoos",
+        "es": "Hallbergmoos",
+        "hu": "Hallbergmoos",
+        "zh": "哈尔贝格莫斯"
+    },
+    "Singen,Allemagne": {
+        "en": "Singen",
+        "de": "Singen (Hohentwiel)",
+        "fr": "Singen",
+        "es": "Singen",
+        "hu": "Singen",
+        "zh": "辛根"
+    },
+    "Livonia,États-Unis": {
+        "en": "Livonia",
+        "de": "Livonia",
+        "fr": "Livonia",
+        "es": "Livonia",
+        "hu": "Livonia",
+        "zh": "利沃尼亚"
+    },
+    "San Jose,États-Unis": {
+        "en": "San Jose",
+        "de": "San José",
+        "fr": "San José",
+        "es": "San José",
+        "hu": "San José",
+        "zh": "圣荷西"
+    },
+    "Downers Grove,États-Unis": {
+        "en": "Downers Grove",
+        "de": "Downers Grove",
+        "fr": "Downers Grove",
+        "es": "Downers Grove",
+        "hu": "Downers Grove",
+        "zh": "唐纳斯格罗夫"
+    },
+    "Ashland,États-Unis": {
+        "en": "Ashland",
+        "de": "Ashland",
+        "fr": "Ashland",
+        "es": "Ashland",
+        "hu": "Ashland",
+        "zh": "阿什兰"
+    },
+    "Riviera Beach,États-Unis": {
+        "en": "Riviera Beach",
+        "de": "Riviera Beach",
+        "fr": "Riviera Beach",
+        "es": "Riviera Beach",
+        "hu": "Riviera Beach",
+        "zh": "里维拉比奇"
+    },
+    "Anchorage,États-Unis": {
+        "en": "Anchorage",
+        "de": "Anchorage",
+        "fr": "Anchorage",
+        "es": "Anchorage",
+        "hu": "Anchorage",
+        "zh": "安克雷奇"
+    },
+    "Alexandria,États-Unis": {
+        "en": "Alexandria",
+        "de": "Alexandria",
+        "fr": "Alexandria",
+        "es": "Alexandria",
+        "hu": "Alexandria",
+        "zh": "亚历山德里亚"
+    },
+    "Urbandale,États-Unis": {
+        "en": "Urbandale",
+        "de": "Urbandale",
+        "fr": "Urbandale",
+        "es": "Urbandale",
+        "hu": "Urbandale",
+        "zh": "Urbandale"
+    },
+    "Burbank,États-Unis": {
+        "en": "Burbank",
+        "de": "Burbank",
+        "fr": "Burbank",
+        "es": "Burbank",
+        "hu": "Burbank",
+        "zh": "伯班克"
+    },
+    "Filderstadt,Allemagne": {
+        "en": "Filderstadt",
+        "de": "Filderstadt",
+        "fr": "Filderstadt",
+        "es": "Filderstadt",
+        "hu": "Filderstadt",
+        "zh": "菲尔德施塔特"
+    },
+    "Lisle,États-Unis": {
+        "en": "Lisle",
+        "de": "Lisle",
+        "fr": "Lisle",
+        "es": "Lisle",
+        "hu": "Lisle",
+        "zh": "莱尔"
+    },
+    "Miami,États-Unis": {
+        "en": "Miami",
+        "de": "Miami",
+        "fr": "Miami",
+        "es": "Miami",
+        "hu": "Miami",
+        "zh": "迈阿密"
+    },
+    "Tampa,États-Unis": {
+        "en": "Tampa",
+        "de": "Tampa",
+        "fr": "Tampa",
+        "es": "Tampa",
+        "hu": "Tampa",
+        "zh": "坦帕"
+    },
+    "Charlotte,États-Unis": {
+        "en": "Charlotte",
+        "de": "Charlotte",
+        "fr": "Charlotte",
+        "es": "Charlotte",
+        "hu": "Charlotte",
+        "zh": "夏洛特"
+    },
+    "Memphis,États-Unis": {
+        "en": "Memphis",
+        "de": "Memphis",
+        "fr": "Memphis",
+        "es": "Memphis",
+        "hu": "Memphis",
+        "zh": "孟菲斯"
+    },
+    "San Leandro (Hayward),États-Unis": {
+        "en": "San Leandro",
+        "de": "San Leandro",
+        "fr": "San Leandro",
+        "es": "San Leandro",
+        "hu": "San Leandro",
+        "zh": "圣利安卓"
+    },
+    "Cincinnati,États-Unis": {
+        "en": "Cincinnati",
+        "de": "Cincinnati",
+        "fr": "Cincinnati",
+        "es": "Cincinnati",
+        "hu": "Cincinnati",
+        "zh": "辛辛那提"
+    },
+    "Broadview Heights,États-Unis": {
+        "en": "Broadview Heights",
+        "de": "Broadview Heights",
+        "fr": "Broadview Heights",
+        "es": "Broadview Heights",
+        "hu": "Broadview Heights",
+        "zh": "Broadview Heights"
+    },
+    "Fürth,Allemagne": {
+        "en": "Fürth",
+        "de": "Fürth",
+        "fr": "Fürth",
+        "es": "Fürth",
+        "hu": "Fürth",
+        "zh": "菲尔特"
+    },
+    "Forst,Allemagne": {
+        "en": "Forst",
+        "de": "Forst",
+        "fr": "Forst",
+        "es": "Forst",
+        "hu": "Forst",
+        "zh": "福斯特"
+    },
+    "Knoxville,États-Unis": {
+        "en": "Knoxville",
+        "de": "Knoxville",
+        "fr": "Knoxville",
+        "es": "Knoxville",
+        "hu": "Knoxville",
+        "zh": "诺克斯维尔"
+    },
+    "Pensacola,États-Unis": {
+        "en": "Pensacola",
+        "de": "Pensacola",
+        "fr": "Pensacola",
+        "es": "Pensacola",
+        "hu": "Pensacola",
+        "zh": "彭萨科拉"
+    },
+    "Anaheim,États-Unis": {
+        "en": "Anaheim",
+        "de": "Anaheim",
+        "fr": "Anaheim",
+        "es": "Anaheim",
+        "hu": "Anaheim",
+        "zh": "安纳海姆"
+    },
+    "Greensboro,États-Unis": {
+        "en": "Greensboro",
+        "de": "Greensboro",
+        "fr": "Greensboro",
+        "es": "Greensboro",
+        "hu": "Greensboro",
+        "zh": "格林斯伯勒"
+    },
+    "Dallas,États-Unis": {
+        "en": "Dallas",
+        "de": "Dallas",
+        "fr": "Dallas",
+        "es": "Dallas",
+        "hu": "Dallas",
+        "zh": "达拉斯"
+    },
+    "Orlando,États-Unis": {
+        "en": "Orlando",
+        "de": "Orlando",
+        "fr": "Orlando",
+        "es": "Orlando",
+        "hu": "Orlando",
+        "zh": "奧蘭多"
+    },
+    "Austin,États-Unis": {
+        "en": "Austin",
+        "de": "Austin",
+        "fr": "Austin",
+        "es": "Austin",
+        "hu": "Austin",
+        "zh": "奥斯汀"
+    },
+    "Annone di Brianza,Italie": {
+        "en": "Annone di Brianza",
+        "de": "Annone di Brianza",
+        "fr": "Annone di Brianza",
+        "es": "Annone di Brianza",
+        "hu": "Annone di Brianza",
+        "zh": "安诺内迪布里亚恩扎"
+    },
+    "Charleston,États-Unis": {
+        "en": "Charleston",
+        "de": "Charleston",
+        "fr": "Charleston",
+        "es": "Charleston",
+        "hu": "Charleston",
+        "zh": "查尔斯顿"
+    },
+    "Lenexa,États-Unis": {
+        "en": "Lenexa",
+        "de": "Lenexa",
+        "fr": "Lenexa",
+        "es": "Lenexa",
+        "hu": "Lenexa",
+        "zh": "列涅萨"
+    },
+    "Roanoke,États-Unis": {
+        "en": "Roanoke",
+        "de": "Roanoke",
+        "fr": "Roanoke",
+        "es": "Roanoke",
+        "hu": "Roanoke",
+        "zh": "罗阿诺克"
+    },
+    "Las Vegas,États-Unis": {
+        "en": "Las Vegas",
+        "de": "Las Vegas",
+        "fr": "Las Vegas",
+        "es": "Las Vegas",
+        "hu": "Las Vegas",
+        "zh": "拉斯维加斯"
+    },
+    "El Cajon,États-Unis": {
+        "en": "El Cajon",
+        "de": "El Cajon",
+        "fr": "El Cajon",
+        "es": "El Cajón",
+        "hu": "El Cajon",
+        "zh": "埃尔卡洪"
+    },
+    "Menomonee Falls,États-Unis": {
+        "en": "Menomonee Falls",
+        "de": "Menomonee Falls",
+        "fr": "Menomonee Falls",
+        "es": "Menomonee Falls",
+        "hu": "Menomonee Falls",
+        "zh": "梅诺莫尼福尔斯"
+    },
+    "College Park,États-Unis": {
+        "en": "College Park",
+        "de": "College Park",
+        "fr": "College Park",
+        "es": "College Park",
+        "hu": "College Park",
+        "zh": "大学公园市"
+    },
+    "Salt Lake City,États-Unis": {
+        "en": "Salt Lake City",
+        "de": "Salt Lake City",
+        "fr": "Salt Lake City",
+        "es": "Salt Lake City",
+        "hu": "Salt Lake City",
+        "zh": "盐湖城"
+    },
+    "Wuxi,Chine": {
+        "en": "Wuxi",
+        "de": "Wuxi",
+        "fr": "Wuxi",
+        "es": "Wuxi",
+        "hu": "Vuhszi",
+        "zh": "无锡市"
+    },
+    "Yantai,Chine": {
+        "en": "Yantai",
+        "de": "Yantai",
+        "fr": "Yantai",
+        "es": "Yantái",
+        "hu": "Yantai",
+        "zh": "烟台市"
+    },
+    "Zhongshan,Chine": {
+        "en": "Zhongshan",
+        "de": "Zhongshan",
+        "fr": "Zhongshan",
+        "es": "Zhongshán",
+        "hu": "Zhongshan",
+        "zh": "中山市"
+    },
+    "Shijiazhuang,Chine": {
+        "en": "Shijiazhuang",
+        "de": "Shijiazhuang",
+        "fr": "Shijiazhuang",
+        "es": "Shijiazhuang",
+        "hu": "Sicsiacsuang",
+        "zh": "石家庄市"
+    },
+    "Dalian,Chine": {
+        "en": "Dalian",
+        "de": "Dalian",
+        "fr": "Dalian",
+        "es": "Dalián",
+        "hu": "Talien",
+        "zh": "大连市"
+    },
+    "Shanghai,Chine": {
+        "en": "Shanghai",
+        "de": "Shanghai",
+        "fr": "Shanghai",
+        "es": "Shanghái",
+        "hu": "Shanghai",
+        "zh": "上海市"
+    },
+    "Ningbo,Chine": {
+        "en": "Ningbo",
+        "de": "Ningbo",
+        "fr": "Ningbo",
+        "es": "Ningbó",
+        "hu": "Ningbo",
+        "zh": "宁波市"
+    },
+    "Guangzhou,Chine": {
+        "en": "Guangzhou",
+        "de": "Guangzhou",
+        "fr": "Canton",
+        "es": "Cantón",
+        "hu": "Kanton",
+        "zh": "广州市"
+    },
+    "Hangzhou,Chine": {
+        "en": "Hangzhou",
+        "de": "Hangzhou",
+        "fr": "Hangzhou",
+        "es": "Hangzhou",
+        "hu": "Hangcsou",
+        "zh": "杭州市"
+    },
+    "Jiaxing,Chine": {
+        "en": "Jiaxing",
+        "de": "Jiaxing",
+        "fr": "Jiaxing",
+        "es": "Jiaxing",
+        "hu": "Jiaxing",
+        "zh": "嘉兴市"
+    },
+    "Haerbin,Chine": {
+        "en": "Harbin",
+        "de": "Harbin",
+        "fr": "Harbin",
+        "es": "Harbin",
+        "hu": "Harbin",
+        "zh": "哈尔滨市"
+    },
+    "Tianjin,Chine": {
+        "en": "Tianjin",
+        "de": "Tianjin",
+        "fr": "Tianjin",
+        "es": "Tianjin",
+        "hu": "Tiencsin",
+        "zh": "天津市"
+    },
+    "Shenzhen,Chine": {
+        "en": "Shenzhen",
+        "de": "Shenzhen",
+        "fr": "Shenzhen",
+        "es": "Shenzhen",
+        "hu": "Sencsen",
+        "zh": "深圳市"
+    },
+    "Xiamen,Chine": {
+        "en": "Xiamen",
+        "de": "Xiamen",
+        "fr": "Xiamen",
+        "es": "Xiamen",
+        "hu": "Hsziamen",
+        "zh": "厦门市"
+    },
+    "Zhenjiang,Chine": {
+        "en": "Zhenjiang",
+        "de": "Zhenjiang",
+        "fr": "Zhenjiang",
+        "es": "Zhenjiang",
+        "hu": "Zhenjiang",
+        "zh": "镇江市"
+    },
+    "Nanjing,Chine": {
+        "en": "Nanjing",
+        "de": "Nanjing",
+        "fr": "Nankin",
+        "es": "Nankín",
+        "hu": "Nanking",
+        "zh": "南京市"
+    },
+    "Xuzhou,Chine": {
+        "en": "Xuzhou",
+        "de": "Xuzhou",
+        "fr": "Xuzhou",
+        "es": "Xuzhou",
+        "hu": "Xuzhou",
+        "zh": "徐州市"
+    },
+    "Wenzhou,Chine": {
+        "en": "Wenzhou",
+        "de": "Wenzhou",
+        "fr": "Wenzhou",
+        "es": "Wenzhou",
+        "hu": "Vencsou",
+        "zh": "温州市"
+    },
+    "Qingdao,Chine": {
+        "en": "Qingdao",
+        "de": "Qingdao",
+        "fr": "Qingdao",
+        "es": "Qingdao",
+        "hu": "Qingdao",
+        "zh": "青岛市"
+    },
+    "SuzhouSU,Chine": {
+        "en": "Suzhou",
+        "de": "Suzhou",
+        "fr": "Suzhou",
+        "es": "Suzhou",
+        "hu": "Szucsou",
+        "zh": "苏州市"
+    },
+    "Kansas City,Estados Unidos": {
+        "en": "Kansas City",
+        "de": "Kansas City",
+        "fr": "Kansas City",
+        "es": "Kansas City",
+        "hu": "Kansas City",
+        "zh": "堪萨斯城"
+    },
+    "Cerritos,Estados Unidos": {
+        "en": "Cerritos",
+        "de": "Cerritos",
+        "fr": "Cerritos",
+        "es": "Cerritos",
+        "hu": "Cerritos",
+        "zh": "喜瑞都"
+    },
+    "Atlanta,Estados Unidos": {
+        "en": "Atlanta",
+        "de": "Atlanta",
+        "fr": "Atlanta",
+        "es": "Atlanta",
+        "hu": "Atlanta",
+        "zh": "亚特兰大"
+    },
+    "Budapest,Hungría": {
+        "en": "Budapest",
+        "de": "Budapest",
+        "fr": "Budapest",
+        "es": "Budapest",
+        "hu": "Budapest",
+        "zh": "布达佩斯"
+    },
+    "Neuhausen,Alemania": {
+        "en": "Neuhausen",
+        "de": "Neuhausen/Erzgebirge",
+        "fr": "Neuhausen",
+        "es": "Neuhausen",
+        "hu": "Neuhausen/Erzgeb.",
+        "zh": "诺伊豪森"
+    },
+    "Modena,Italia": {
+        "en": "Modena",
+        "de": "Modena",
+        "fr": "Modène",
+        "es": "Módena",
+        "hu": "Modena",
+        "zh": "莫德纳"
+    },
+    "Mestre,Italia": {
+        "en": "Mestre",
+        "de": "Mestre",
+        "fr": "Mestre",
+        "es": "Mestre",
+        "hu": "Mestre",
+        "zh": "梅斯特雷"
+    },
+    "Morbegno,Italia": {
+        "en": "Morbegno",
+        "de": "Morbend",
+        "fr": "Morbegno",
+        "es": "Morbegno",
+        "hu": "Morbegno",
+        "zh": "莫尔贝尼奥"
+    },
+    "Cologno Monzese,Italia": {
+        "en": "Cologno Monzese",
+        "de": "Cologno Monzese",
+        "fr": "Cologno Monzese",
+        "es": "Cologno Monzese",
+        "hu": "Cologno Monzese",
+        "zh": "科洛尼奥蒙泽塞"
+    },
+    "Riccione,Italia": {
+        "en": "Riccione",
+        "de": "Riccione",
+        "fr": "Riccione",
+        "es": "Riccione",
+        "hu": "Riccione",
+        "zh": "里乔内"
+    },
+    "Mezzolombardo,Italia": {
+        "en": "Mezzolombardo",
+        "de": "Welsch-Metz",
+        "fr": "Mezzolombardo",
+        "es": "Mezzolombardo",
+        "hu": "Mezzolombardo",
+        "zh": "梅佐伦巴多"
+    },
+    "Móstoles,España": {
+        "en": "Móstoles",
+        "de": "Móstoles",
+        "fr": "Móstoles",
+        "es": "Móstoles",
+        "hu": "Móstoles",
+        "zh": "莫斯托莱斯"
+    },
+    "Middleton,Estados Unidos": {
+        "en": "Middleton",
+        "de": "Middleton",
+        "fr": "Middleton",
+        "es": "Middleton",
+        "hu": "Middleton",
+        "zh": "米德尔顿"
+    },
+    "Hamburg,Alemania": {
+        "en": "Hamburg",
+        "de": "Hamburg",
+        "fr": "Hambourg",
+        "es": "Hamburgo",
+        "hu": "Hamburg",
+        "zh": "汉堡"
+    },
+    "Neuss,Alemania": {
+        "en": "Neuss",
+        "de": "Neuss",
+        "fr": "Neuss",
+        "es": "Neuss",
+        "hu": "Neuss",
+        "zh": "诺伊斯"
+    },
+    "Regensburg,Alemania": {
+        "en": "Regensburg",
+        "de": "Regensburg",
+        "fr": "Ratisbonne",
+        "es": "Ratisbona",
+        "hu": "Regensburg",
+        "zh": "雷根斯堡"
+    },
+    "Ulm,Alemania": {
+        "en": "Ulm",
+        "de": "Ulm",
+        "fr": "Ulm",
+        "es": "Ulm",
+        "hu": "Ulm",
+        "zh": "乌尔姆"
+    },
+    "Portland,Estados Unidos": {
+        "en": "Portland",
+        "de": "Portland",
+        "fr": "Portland",
+        "es": "Portland",
+        "hu": "Portland",
+        "zh": "波特兰"
+    },
+    "Olive Branch,Estados Unidos": {
+        "en": "Olive Branch",
+        "de": "Olive Branch",
+        "fr": "Olive Branch",
+        "es": "Olive Branch",
+        "hu": "Olive Branch",
+        "zh": "奥利夫布兰奇"
+    },
+    "Westwood,Estados Unidos": {
+        "en": "Westwood",
+        "de": "Westwood",
+        "fr": "Westwood",
+        "es": "Westwood",
+        "hu": "Westwood",
+        "zh": "韦斯特伍德"
+    },
+    "Edison,Estados Unidos": {
+        "en": "Edison",
+        "de": "Edison",
+        "fr": "Edison",
+        "es": "Edison",
+        "hu": "Edison",
+        "zh": "爱迪生"
+    },
+    "Germantown,Estados Unidos": {
+        "en": "Germantown",
+        "de": "Germantown",
+        "fr": "Germantown",
+        "es": "Germantown",
+        "hu": "Germantown",
+        "zh": "日耳曼敦"
+    },
+    "Düsseldorf,Alemania": {
+        "en": "Düsseldorf",
+        "de": "Düsseldorf",
+        "fr": "Düsseldorf",
+        "es": "Düsseldorf",
+        "hu": "Düsseldorf",
+        "zh": "杜塞尔多夫"
+    },
+    "Berlin,Alemania": {
+        "en": "Berlin",
+        "de": "Berlin",
+        "fr": "Berlin",
+        "es": "Berlín",
+        "hu": "Berlin",
+        "zh": "柏林"
+    },
+    "Rottweil,Alemania": {
+        "en": "Rottweil",
+        "de": "Rottweil",
+        "fr": "Rottweil",
+        "es": "Rottweil",
+        "hu": "Rottweil",
+        "zh": "罗特韦尔"
+    },
+    "Münster,Alemania": {
+        "en": "Münster",
+        "de": "Münster",
+        "fr": "Münster",
+        "es": "Münster",
+        "hu": "Münster",
+        "zh": "明斯特"
+    },
+    "Oklahoma City,Estados Unidos": {
+        "en": "Oklahoma City",
+        "de": "Oklahoma City",
+        "fr": "Oklahoma City",
+        "es": "Oklahoma City",
+        "hu": "Oklahoma City",
+        "zh": "俄克拉荷马城"
+    },
+    "Birmingham (US),Estados Unidos": {
+        "en": "Birmingham",
+        "de": "Birmingham",
+        "fr": "Birmingham",
+        "es": "Birmingham",
+        "hu": "Birmingham",
+        "zh": "伯明翰"
+    },
+    "King of Prussia,Estados Unidos": {
+        "en": "King of Prussia",
+        "de": "King of Prussia",
+        "fr": "King of Prussia",
+        "es": "King of Prussia",
+        "hu": "King of Prussia",
+        "zh": "普鲁士国王"
+    },
+    "New York,Estados Unidos": {
+        "en": "New York",
+        "de": "New York City",
+        "fr": "New York",
+        "es": "Nueva York",
+        "hu": "New York",
+        "zh": "纽约"
+    },
+    "Syracuse (East Syracuse),Estados Unidos": {
+        "en": "East Syracuse",
+        "de": "East Syracuse",
+        "fr": "East Syracuse",
+        "es": "East Syracuse",
+        "hu": "East Syracuse",
+        "zh": "东叙拉古"
+    },
+    "Phoenix,Estados Unidos": {
+        "en": "Phoenix",
+        "de": "Phoenix",
+        "fr": "Phoenix",
+        "es": "Phoenix",
+        "hu": "Phoenix",
+        "zh": "菲尼克斯"
+    },
+    "Lincoln,Estados Unidos": {
+        "en": "Lincoln",
+        "de": "Lincoln",
+        "fr": "Lincoln",
+        "es": "Lincoln",
+        "hu": "Lincoln",
+        "zh": "林肯"
+    },
+    "Kirkland,Estados Unidos": {
+        "en": "Kirkland",
+        "de": "Kirkland",
+        "fr": "Kirkland",
+        "es": "Kirkland",
+        "hu": "Kirkland",
+        "zh": "柯克兰"
+    },
+    "South San Francisco,Estados Unidos": {
+        "en": "South San Francisco",
+        "de": "South San Francisco",
+        "fr": "South San Francisco",
+        "es": "South San Francisco",
+        "hu": "South San Francisco",
+        "zh": "南旧金山"
+    },
+    "Corpus Christi,Estados Unidos": {
+        "en": "Corpus Christi",
+        "de": "Corpus Christi",
+        "fr": "Corpus Christi",
+        "es": "Corpus Christi",
+        "hu": "Corpus Christi",
+        "zh": "科珀斯克里斯蒂"
+    },
+    "Bradenton,Estados Unidos": {
+        "en": "Bradenton",
+        "de": "Bradenton",
+        "fr": "Bradenton",
+        "es": "Bradenton",
+        "hu": "Bradenton",
+        "zh": "布雷登顿"
+    },
+    "Westchester,Estados Unidos": {
+        "en": "Westchester County",
+        "de": "Westchester County",
+        "fr": "Comté de Westchester",
+        "es": "Condado de Westchester",
+        "hu": "Westchester megye",
+        "zh": "韦斯特切斯特"
+    },
+    "Denver,Estados Unidos": {
+        "en": "Denver",
+        "de": "Denver",
+        "fr": "Denver",
+        "es": "Denver",
+        "hu": "Denver",
+        "zh": "丹佛"
+    },
+    "Everett,Estados Unidos": {
+        "en": "Everett",
+        "de": "Everett",
+        "fr": "Everett",
+        "es": "Everett",
+        "hu": "Everett",
+        "zh": "埃弗里特"
+    },
+    "Des Moines,Estados Unidos": {
+        "en": "Des Moines",
+        "de": "Des Moines",
+        "fr": "Des Moines",
+        "es": "Des Moines",
+        "hu": "Des Moines",
+        "zh": "得梅因"
+    },
+    "Spokane,Estados Unidos": {
+        "en": "Spokane",
+        "de": "Spokane",
+        "fr": "Spokane",
+        "es": "Spokane",
+        "hu": "Spokane",
+        "zh": "斯波坎"
+    },
+    "Tacoma (University Place),Estados Unidos": {
+        "en": "University Place",
+        "de": "University Place",
+        "fr": "University Place",
+        "es": "University Place",
+        "hu": "University Place",
+        "zh": "大学城"
+    },
+    "Omaha,Estados Unidos": {
+        "en": "Omaha",
+        "de": "Omaha",
+        "fr": "Omaha",
+        "es": "Omaha",
+        "hu": "Omaha",
+        "zh": "奥马哈"
+    },
+    "Albuquerque,Estados Unidos": {
+        "en": "Albuquerque",
+        "de": "Albuquerque",
+        "fr": "Albuquerque",
+        "es": "Albuquerque",
+        "hu": "Albuquerque",
+        "zh": "阿尔伯克基"
+    },
+    "Linthicum,Estados Unidos": {
+        "en": "Linthicum Heights",
+        "de": "Linthicum",
+        "fr": "Linthicum",
+        "es": "Linthicum",
+        "hu": "Linthicum Heights",
+        "zh": "林西克姆"
+    },
+    "Chicago,Estados Unidos": {
+        "en": "Chicago",
+        "de": "Chicago",
+        "fr": "Chicago",
+        "es": "Chicago",
+        "hu": "Chicago",
+        "zh": "芝加哥"
+    },
+    "San Antonio,Estados Unidos": {
+        "en": "San Antonio",
+        "de": "San Antonio",
+        "fr": "San Antonio",
+        "es": "San Antonio",
+        "hu": "San Antonio",
+        "zh": "圣安东尼奥"
+    },
+    "Houston,Estados Unidos": {
+        "en": "Houston",
+        "de": "Houston",
+        "fr": "Houston",
+        "es": "Houston",
+        "hu": "Houston",
+        "zh": "休斯敦"
+    },
+    "Honolulu,Estados Unidos": {
+        "en": "Honolulu",
+        "de": "Honolulu",
+        "fr": "Honolulu",
+        "es": "Honolulu",
+        "hu": "Honolulu",
+        "zh": "檀香山"
+    },
+    "Marietta,Estados Unidos": {
+        "en": "Marietta",
+        "de": "Marietta",
+        "fr": "Marietta",
+        "es": "Marietta",
+        "hu": "Marietta",
+        "zh": "玛丽埃塔"
+    },
+    "MERIGNAC,Francia": {
+        "en": "Mérignac",
+        "de": "Mérignac",
+        "fr": "Mérignac",
+        "es": "Mérignac",
+        "hu": "Mérignac",
+        "zh": "梅里尼亚克"
+    },
+    "Dortmund,Alemania": {
+        "en": "Dortmund",
+        "de": "Dortmund",
+        "fr": "Dortmund",
+        "es": "Dortmund",
+        "hu": "Dortmund",
+        "zh": "多特蒙德"
+    },
+    "Fulda,Alemania": {
+        "en": "Fulda",
+        "de": "Fulda",
+        "fr": "Fulda",
+        "es": "Fulda",
+        "hu": "Fulda",
+        "zh": "富尔达"
+    },
+    "Landesweit,Alemania": {
+        "en": "Leverkusen",
+        "de": "Leverkusen",
+        "fr": "100",
+        "es": "100",
+        "hu": "Németország",
+        "zh": "德国"
+    },
+    "Dresden,Alemania": {
+        "en": "Dresden",
+        "de": "Dresden",
+        "fr": "Dresde",
+        "es": "Dresde",
+        "hu": "Drezda",
+        "zh": "德累斯顿"
+    },
+    "Essen,Alemania": {
+        "en": "Essen",
+        "de": "Essen",
+        "fr": "Essen",
+        "es": "Essen",
+        "hu": "Essen",
+        "zh": "埃森"
+    },
+    "Frankfurt am Main,Alemania": {
+        "en": "Frankfurt",
+        "de": "Frankfurt am Main",
+        "fr": "Francfort-sur-le-Main",
+        "es": "Fráncfort del Meno",
+        "hu": "Frankfurt",
+        "zh": "美因河畔法兰克福"
+    },
+    "Freiburg im Breisgau,Alemania": {
+        "en": "Freiburg im Breisgau",
+        "de": "Freiburg im Breisgau",
+        "fr": "Fribourg-en-Brisgau",
+        "es": "Friburgo de Brisgovia",
+        "hu": "Freiburg",
+        "zh": "弗赖堡"
+    },
+    "Hürth,Alemania": {
+        "en": "Hürth",
+        "de": "Hürth",
+        "fr": "Hürth",
+        "es": "Hürth-Hermülheim",
+        "hu": "Hürth",
+        "zh": "许尔特"
+    },
+    "Mannheim,Alemania": {
+        "en": "Mannheim",
+        "de": "Mannheim",
+        "fr": "Mannheim",
+        "es": "Mannheim",
+        "hu": "Mannheim",
+        "zh": "曼海姆"
+    },
+    "Feldkirchen,Alemania": {
+        "en": "Feldkirchen",
+        "de": "Feldkirchen",
+        "fr": "Feldkirchen",
+        "es": "Feldkirchen",
+        "hu": "Feldkirchen",
+        "zh": "费尔德基兴"
+    },
+    "Nürnberg,Alemania": {
+        "en": "Nuremberg",
+        "de": "Nürnberg",
+        "fr": "Nuremberg",
+        "es": "Núremberg",
+        "hu": "Nürnberg",
+        "zh": "纽伦堡"
+    },
+    "Gingen,Alemania": {
+        "en": "Gingen an der Fils",
+        "de": "Gingen an der Fils",
+        "fr": "Gingen an der Fils",
+        "es": "Gingen an der Fils",
+        "hu": "Gingen an der Fils",
+        "zh": "菲尔斯河畔金根"
+    },
+    "Gochsheim,Alemania": {
+        "en": "Gochsheim",
+        "de": "Gochsheim",
+        "fr": "Gochsheim",
+        "es": "Gochsheim",
+        "hu": "Gochsheim",
+        "zh": "戈赫斯海姆"
+    },
+    "Isernhagen-Altwarmbüchen,Alemania": {
+        "en": "Altwarmbüchen",
+        "de": "Altwarmbüchen",
+        "fr": "Altwarmbüchen",
+        "es": "Altwarmbüchen",
+        "hu": "Altwarmbüchen",
+        "zh": "Altwarmbüchen"
+    },
+    "Chattanooga,Estados Unidos": {
+        "en": "Chattanooga",
+        "de": "Chattanooga",
+        "fr": "Chattanooga",
+        "es": "Chattanooga",
+        "hu": "Chattanooga",
+        "zh": "查塔努加"
+    },
+    "Indianapolis,Estados Unidos": {
+        "en": "Indianapolis",
+        "de": "Indianapolis",
+        "fr": "Indianapolis",
+        "es": "Indianápolis",
+        "hu": "Indianapolis",
+        "zh": "印第安纳波利斯"
+    },
+    "Grand Rapids,Estados Unidos": {
+        "en": "Grand Rapids",
+        "de": "Grand Rapids",
+        "fr": "Grand Rapids",
+        "es": "Grand Rapids",
+        "hu": "Grand Rapids",
+        "zh": "大急流城"
+    },
+    "Peoria,Estados Unidos": {
+        "en": "Peoria",
+        "de": "Peoria",
+        "fr": "Peoria",
+        "es": "Peoria",
+        "hu": "Peoria",
+        "zh": "皮奥里亚"
+    },
+    "Fresno,Estados Unidos": {
+        "en": "Fresno",
+        "de": "Fresno",
+        "fr": "Fresno",
+        "es": "Fresno",
+        "hu": "Fresno",
+        "zh": "弗雷斯诺"
+    },
+    "Boise,Estados Unidos": {
+        "en": "Boise",
+        "de": "Boise",
+        "fr": "Boise",
+        "es": "Boise",
+        "hu": "Boise",
+        "zh": "博伊西"
+    },
+    "Ft. Worth,Estados Unidos": {
+        "en": "Fort Worth",
+        "de": "Fort Worth",
+        "fr": "Fort Worth",
+        "es": "Fort Worth",
+        "hu": "Fort Worth",
+        "zh": "沃思堡"
+    },
+    "Ginsheim,Alemania": {
+        "en": "Ginsheim-Gustavsburg",
+        "de": "Ginsheim-Gustavsburg",
+        "fr": "Ginsheim-Gustavsburg",
+        "es": "Ginsheim-Gustavsburg",
+        "hu": "Ginsheim-Gustavsburg",
+        "zh": "金斯海姆-古斯塔夫斯堡"
+    },
+    "Troisdorf,Alemania": {
+        "en": "Troisdorf",
+        "de": "Troisdorf",
+        "fr": "Troisdorf",
+        "es": "Troisdorf",
+        "hu": "Troisdorf",
+        "zh": "特罗斯多夫"
+    },
+    "Erfurt,Alemania": {
+        "en": "Erfurt",
+        "de": "Erfurt",
+        "fr": "Erfurt",
+        "es": "Érfurt",
+        "hu": "Erfurt",
+        "zh": "埃尔福特"
+    },
+    "Hallbergmoos,Alemania": {
+        "en": "Hallbergmoos",
+        "de": "Hallbergmoos",
+        "fr": "Hallbergmoos",
+        "es": "Hallbergmoos",
+        "hu": "Hallbergmoos",
+        "zh": "哈尔贝格莫斯"
+    },
+    "Singen,Alemania": {
+        "en": "Singen",
+        "de": "Singen (Hohentwiel)",
+        "fr": "Singen",
+        "es": "Singen",
+        "hu": "Singen",
+        "zh": "辛根"
+    },
+    "Livonia,Estados Unidos": {
+        "en": "Livonia",
+        "de": "Livonia",
+        "fr": "Livonia",
+        "es": "Livonia",
+        "hu": "Livonia",
+        "zh": "利沃尼亚"
+    },
+    "San Jose,Estados Unidos": {
+        "en": "San Jose",
+        "de": "San José",
+        "fr": "San José",
+        "es": "San José",
+        "hu": "San José",
+        "zh": "圣荷西"
+    },
+    "Downers Grove,Estados Unidos": {
+        "en": "Downers Grove",
+        "de": "Downers Grove",
+        "fr": "Downers Grove",
+        "es": "Downers Grove",
+        "hu": "Downers Grove",
+        "zh": "唐纳斯格罗夫"
+    },
+    "Ashland,Estados Unidos": {
+        "en": "Ashland",
+        "de": "Ashland",
+        "fr": "Ashland",
+        "es": "Ashland",
+        "hu": "Ashland",
+        "zh": "阿什兰"
+    },
+    "Riviera Beach,Estados Unidos": {
+        "en": "Riviera Beach",
+        "de": "Riviera Beach",
+        "fr": "Riviera Beach",
+        "es": "Riviera Beach",
+        "hu": "Riviera Beach",
+        "zh": "里维拉比奇"
+    },
+    "Anchorage,Estados Unidos": {
+        "en": "Anchorage",
+        "de": "Anchorage",
+        "fr": "Anchorage",
+        "es": "Anchorage",
+        "hu": "Anchorage",
+        "zh": "安克雷奇"
+    },
+    "Alexandria,Estados Unidos": {
+        "en": "Alexandria",
+        "de": "Alexandria",
+        "fr": "Alexandria",
+        "es": "Alexandria",
+        "hu": "Alexandria",
+        "zh": "亚历山德里亚"
+    },
+    "Urbandale,Estados Unidos": {
+        "en": "Urbandale",
+        "de": "Urbandale",
+        "fr": "Urbandale",
+        "es": "Urbandale",
+        "hu": "Urbandale",
+        "zh": "Urbandale"
+    },
+    "Burbank,Estados Unidos": {
+        "en": "Burbank",
+        "de": "Burbank",
+        "fr": "Burbank",
+        "es": "Burbank",
+        "hu": "Burbank",
+        "zh": "伯班克"
+    },
+    "Filderstadt,Alemania": {
+        "en": "Filderstadt",
+        "de": "Filderstadt",
+        "fr": "Filderstadt",
+        "es": "Filderstadt",
+        "hu": "Filderstadt",
+        "zh": "菲尔德施塔特"
+    },
+    "Lisle,Estados Unidos": {
+        "en": "Lisle",
+        "de": "Lisle",
+        "fr": "Lisle",
+        "es": "Lisle",
+        "hu": "Lisle",
+        "zh": "莱尔"
+    },
+    "MARSEILLE,Francia": {
+        "en": "Marseille",
+        "de": "Marseille",
+        "fr": "Marseille",
+        "es": "Marsella",
+        "hu": "Marseille",
+        "zh": "马赛"
+    },
+    "AIX-EN-PROVENCE,Francia": {
+        "en": "Aix-en-Provence",
+        "de": "Aix-en-Provence",
+        "fr": "Aix-en-Provence",
+        "es": "Aix-en-Provence",
+        "hu": "Aix-en-Provence",
+        "zh": "普罗旺斯地区艾克斯"
+    },
+    "Miami,Estados Unidos": {
+        "en": "Miami",
+        "de": "Miami",
+        "fr": "Miami",
+        "es": "Miami",
+        "hu": "Miami",
+        "zh": "迈阿密"
+    },
+    "Tampa,Estados Unidos": {
+        "en": "Tampa",
+        "de": "Tampa",
+        "fr": "Tampa",
+        "es": "Tampa",
+        "hu": "Tampa",
+        "zh": "坦帕"
+    },
+    "Charlotte,Estados Unidos": {
+        "en": "Charlotte",
+        "de": "Charlotte",
+        "fr": "Charlotte",
+        "es": "Charlotte",
+        "hu": "Charlotte",
+        "zh": "夏洛特"
+    },
+    "Memphis,Estados Unidos": {
+        "en": "Memphis",
+        "de": "Memphis",
+        "fr": "Memphis",
+        "es": "Memphis",
+        "hu": "Memphis",
+        "zh": "孟菲斯"
+    },
+    "San Leandro (Hayward),Estados Unidos": {
+        "en": "San Leandro",
+        "de": "San Leandro",
+        "fr": "San Leandro",
+        "es": "San Leandro",
+        "hu": "San Leandro",
+        "zh": "圣利安卓"
+    },
+    "Cincinnati,Estados Unidos": {
+        "en": "Cincinnati",
+        "de": "Cincinnati",
+        "fr": "Cincinnati",
+        "es": "Cincinnati",
+        "hu": "Cincinnati",
+        "zh": "辛辛那提"
+    },
+    "Broadview Heights,Estados Unidos": {
+        "en": "Broadview Heights",
+        "de": "Broadview Heights",
+        "fr": "Broadview Heights",
+        "es": "Broadview Heights",
+        "hu": "Broadview Heights",
+        "zh": "Broadview Heights"
+    },
+    "Fürth,Alemania": {
+        "en": "Fürth",
+        "de": "Fürth",
+        "fr": "Fürth",
+        "es": "Fürth",
+        "hu": "Fürth",
+        "zh": "菲尔特"
+    },
+    "Forst,Alemania": {
+        "en": "Forst",
+        "de": "Forst (Lausitz)",
+        "fr": "7",
+        "es": "Forst",
+        "hu": "Forst",
+        "zh": "7"
+    },
+    "Knoxville,Estados Unidos": {
+        "en": "Knoxville",
+        "de": "Knoxville",
+        "fr": "Knoxville",
+        "es": "Knoxville",
+        "hu": "Knoxville",
+        "zh": "诺克斯维尔"
+    },
+    "Pensacola,Estados Unidos": {
+        "en": "Pensacola",
+        "de": "Pensacola",
+        "fr": "Pensacola",
+        "es": "Pensacola",
+        "hu": "Pensacola",
+        "zh": "彭萨科拉"
+    },
+    "Anaheim,Estados Unidos": {
+        "en": "Anaheim",
+        "de": "Anaheim",
+        "fr": "Anaheim",
+        "es": "Anaheim",
+        "hu": "Anaheim",
+        "zh": "安纳海姆"
+    },
+    "Greensboro,Estados Unidos": {
+        "en": "Greensboro",
+        "de": "Greensboro",
+        "fr": "Greensboro",
+        "es": "Greensboro",
+        "hu": "Greensboro",
+        "zh": "格林斯伯勒"
+    },
+    "Dallas,Estados Unidos": {
+        "en": "Dallas",
+        "de": "Dallas",
+        "fr": "Dallas",
+        "es": "Dallas",
+        "hu": "Dallas",
+        "zh": "达拉斯"
+    },
+    "Orlando,Estados Unidos": {
+        "en": "Orlando",
+        "de": "Orlando",
+        "fr": "Orlando",
+        "es": "Orlando",
+        "hu": "Orlando",
+        "zh": "奧蘭多"
+    },
+    "Austin,Estados Unidos": {
+        "en": "Austin",
+        "de": "Austin",
+        "fr": "Austin",
+        "es": "Austin",
+        "hu": "Austin",
+        "zh": "奥斯汀"
+    },
+    "Annone di Brianza,Italia": {
+        "en": "Annone di Brianza",
+        "de": "Annone di Brianza",
+        "fr": "Annone di Brianza",
+        "es": "Annone di Brianza",
+        "hu": "Annone di Brianza",
+        "zh": "安诺内迪布里亚恩扎"
+    },
+    "Charleston,Estados Unidos": {
+        "en": "Charleston",
+        "de": "Charleston",
+        "fr": "Charleston",
+        "es": "Charleston",
+        "hu": "Charleston",
+        "zh": "查尔斯顿"
+    },
+    "Lenexa,Estados Unidos": {
+        "en": "Lenexa",
+        "de": "Lenexa",
+        "fr": "Lenexa",
+        "es": "Lenexa",
+        "hu": "Lenexa",
+        "zh": "列涅萨"
+    },
+    "Roanoke,Estados Unidos": {
+        "en": "Roanoke",
+        "de": "Roanoke",
+        "fr": "Roanoke",
+        "es": "Roanoke",
+        "hu": "Roanoke",
+        "zh": "罗阿诺克"
+    },
+    "Las Vegas,Estados Unidos": {
+        "en": "Las Vegas",
+        "de": "Las Vegas",
+        "fr": "Las Vegas",
+        "es": "Las Vegas",
+        "hu": "Las Vegas",
+        "zh": "拉斯维加斯"
+    },
+    "El Cajon,Estados Unidos": {
+        "en": "El Cajon",
+        "de": "El Cajon",
+        "fr": "El Cajon",
+        "es": "El Cajón",
+        "hu": "El Cajon",
+        "zh": "埃尔卡洪"
+    },
+    "Menomonee Falls,Estados Unidos": {
+        "en": "Menomonee Falls",
+        "de": "Menomonee Falls",
+        "fr": "Menomonee Falls",
+        "es": "Menomonee Falls",
+        "hu": "Menomonee Falls",
+        "zh": "梅诺莫尼福尔斯"
+    },
+    "College Park,Estados Unidos": {
+        "en": "College Park",
+        "de": "College Park",
+        "fr": "College Park",
+        "es": "College Park",
+        "hu": "College Park",
+        "zh": "大学公园市"
+    },
+    "Salt Lake City,Estados Unidos": {
+        "en": "Salt Lake City",
+        "de": "Salt Lake City",
+        "fr": "Salt Lake City",
+        "es": "Salt Lake City",
+        "hu": "Salt Lake City",
+        "zh": "盐湖城"
+    },
+    "Kansas City,Egyesült Államok": {
+        "en": "Kansas City",
+        "de": "Kansas City",
+        "fr": "Kansas City",
+        "es": "Kansas City",
+        "hu": "Kansas City",
+        "zh": "堪萨斯城"
+    },
+    "Cerritos,Egyesült Államok": {
+        "en": "Cerritos",
+        "de": "Cerritos",
+        "fr": "Cerritos",
+        "es": "Cerritos",
+        "hu": "Cerritos",
+        "zh": "喜瑞都"
+    },
+    "Atlanta,Egyesült Államok": {
+        "en": "Atlanta",
+        "de": "Atlanta",
+        "fr": "Atlanta",
+        "es": "Atlanta",
+        "hu": "Atlanta",
+        "zh": "亚特兰大"
+    },
+    "Budapest,Magyarország": {
+        "en": "Budapest",
+        "de": "Budapest",
+        "fr": "Budapest",
+        "es": "Budapest",
+        "hu": "Budapest",
+        "zh": "布达佩斯"
+    },
+    "Neuhausen,Németország": {
+        "en": "Neuhausen",
+        "de": "Neuhausen",
+        "fr": "Neuhausen",
+        "es": "Neuhausen",
+        "hu": "Neuhausen",
+        "zh": "诺伊豪森"
+    },
+    "Modena,Olaszország": {
+        "en": "Modena",
+        "de": "Modena",
+        "fr": "Modène",
+        "es": "Módena",
+        "hu": "Modena",
+        "zh": "莫德纳"
+    },
+    "Mestre,Olaszország": {
+        "en": "Mestre",
+        "de": "Mestre",
+        "fr": "Mestre",
+        "es": "Mestre",
+        "hu": "Mestre",
+        "zh": "梅斯特雷"
+    },
+    "Morbegno,Olaszország": {
+        "en": "Morbegno",
+        "de": "Morbend",
+        "fr": "Morbegno",
+        "es": "Morbegno",
+        "hu": "Morbegno",
+        "zh": "莫尔贝尼奥"
+    },
+    "Cologno Monzese,Olaszország": {
+        "en": "Cologno Monzese",
+        "de": "Cologno Monzese",
+        "fr": "Cologno Monzese",
+        "es": "Cologno Monzese",
+        "hu": "Cologno Monzese",
+        "zh": "科洛尼奥蒙泽塞"
+    },
+    "Riccione,Olaszország": {
+        "en": "Riccione",
+        "de": "Riccione",
+        "fr": "Riccione",
+        "es": "Riccione",
+        "hu": "Riccione",
+        "zh": "里乔内"
+    },
+    "Mezzolombardo,Olaszország": {
+        "en": "Mezzolombardo",
+        "de": "Welsch-Metz",
+        "fr": "Mezzolombardo",
+        "es": "Mezzolombardo",
+        "hu": "Mezzolombardo",
+        "zh": "梅佐伦巴多"
+    },
+    "Móstoles,Spanyolország": {
+        "en": "Móstoles",
+        "de": "Móstoles",
+        "fr": "Móstoles",
+        "es": "Móstoles",
+        "hu": "Móstoles",
+        "zh": "莫斯托莱斯"
+    },
+    "Middleton,Egyesült Államok": {
+        "en": "Middleton",
+        "de": "Middleton",
+        "fr": "Middleton",
+        "es": "Middleton",
+        "hu": "Middleton",
+        "zh": "米德尔顿"
+    },
+    "Hamburg,Németország": {
+        "en": "Hamburg",
+        "de": "Hamburg",
+        "fr": "Hambourg",
+        "es": "Hamburgo",
+        "hu": "Hamburg",
+        "zh": "汉堡"
+    },
+    "Neuss,Németország": {
+        "en": "Neuss",
+        "de": "Neuss",
+        "fr": "Neuss",
+        "es": "Neuss",
+        "hu": "Neuss",
+        "zh": "诺伊斯"
+    },
+    "Regensburg,Németország": {
+        "en": "Regensburg",
+        "de": "Regensburg",
+        "fr": "Ratisbonne",
+        "es": "Ratisbona",
+        "hu": "Regensburg",
+        "zh": "雷根斯堡"
+    },
+    "Ulm,Németország": {
+        "en": "Ulm",
+        "de": "Ulm",
+        "fr": "Ulm",
+        "es": "Ulm",
+        "hu": "Ulm",
+        "zh": "乌尔姆"
+    },
+    "Portland,Egyesült Államok": {
+        "en": "Portland",
+        "de": "Portland",
+        "fr": "Portland",
+        "es": "Portland",
+        "hu": "Portland",
+        "zh": "波特兰"
+    },
+    "Olive Branch,Egyesült Államok": {
+        "en": "Olive Branch",
+        "de": "Olive Branch",
+        "fr": "Olive Branch",
+        "es": "Olive Branch",
+        "hu": "Olive Branch",
+        "zh": "奥利夫布兰奇"
+    },
+    "Westwood,Egyesült Államok": {
+        "en": "Westwood Village",
+        "de": "Westwood",
+        "fr": "Westwood Village",
+        "es": "Westwood Village",
+        "hu": "Westwood",
+        "zh": "Westwood Village"
+    },
+    "Edison,Egyesült Államok": {
+        "en": "Edison",
+        "de": "Edison",
+        "fr": "Edison",
+        "es": "Edison",
+        "hu": "Edison",
+        "zh": "爱迪生"
+    },
+    "Germantown,Egyesült Államok": {
+        "en": "Germantown",
+        "de": "Germantown",
+        "fr": "Germantown",
+        "es": "Germantown",
+        "hu": "Germantown",
+        "zh": "日耳曼敦"
+    },
+    "Düsseldorf,Németország": {
+        "en": "Düsseldorf",
+        "de": "Düsseldorf",
+        "fr": "Düsseldorf",
+        "es": "Düsseldorf",
+        "hu": "Düsseldorf",
+        "zh": "杜塞尔多夫"
+    },
+    "Berlin,Németország": {
+        "en": "Berlin",
+        "de": "Berlin",
+        "fr": "Berlin",
+        "es": "Berlín",
+        "hu": "Berlin",
+        "zh": "柏林"
+    },
+    "Rottweil,Németország": {
+        "en": "Rottweil",
+        "de": "Rottweil",
+        "fr": "Rottweil",
+        "es": "Rottweil",
+        "hu": "Rottweil",
+        "zh": "罗特韦尔"
+    },
+    "Münster,Németország": {
+        "en": "Münster",
+        "de": "Münster",
+        "fr": "Munster",
+        "es": "Munster",
+        "hu": "Münster",
+        "zh": "蒙斯特"
+    },
+    "Oklahoma City,Egyesült Államok": {
+        "en": "Oklahoma City",
+        "de": "Oklahoma City",
+        "fr": "Oklahoma City",
+        "es": "Oklahoma City",
+        "hu": "Oklahoma City",
+        "zh": "俄克拉荷马城"
+    },
+    "Birmingham (US),Egyesült Államok": {
+        "en": "Birmingham",
+        "de": "Birmingham",
+        "fr": "Birmingham",
+        "es": "Birmingham",
+        "hu": "Birmingham",
+        "zh": "伯明翰"
+    },
+    "King of Prussia,Egyesült Államok": {
+        "en": "King of Prussia",
+        "de": "King of Prussia",
+        "fr": "King of Prussia",
+        "es": "King of Prussia",
+        "hu": "King of Prussia",
+        "zh": "普鲁士国王"
+    },
+    "New York,Egyesült Államok": {
+        "en": "New York",
+        "de": "New York City",
+        "fr": "New York",
+        "es": "Nueva York",
+        "hu": "New York",
+        "zh": "纽约"
+    },
+    "Syracuse (East Syracuse),Egyesült Államok": {
+        "en": "East Syracuse",
+        "de": "East Syracuse",
+        "fr": "East Syracuse",
+        "es": "East Syracuse",
+        "hu": "East Syracuse",
+        "zh": "东叙拉古"
+    },
+    "Phoenix,Egyesült Államok": {
+        "en": "Phoenix",
+        "de": "Phoenix",
+        "fr": "Phoenix",
+        "es": "Phoenix",
+        "hu": "Phoenix",
+        "zh": "菲尼克斯"
+    },
+    "Lincoln,Egyesült Államok": {
+        "en": "Lincoln County",
+        "de": "Lincoln County",
+        "fr": "Comté de Lincoln",
+        "es": "Condado de Lincoln",
+        "hu": "Lincoln megye",
+        "zh": "林肯"
+    },
+    "Kirkland,Egyesült Államok": {
+        "en": "Kirkland",
+        "de": "Kirkland",
+        "fr": "Kirkland",
+        "es": "Kirkland",
+        "hu": "Kirkland",
+        "zh": "柯克兰"
+    },
+    "South San Francisco,Egyesült Államok": {
+        "en": "South San Francisco",
+        "de": "South San Francisco",
+        "fr": "South San Francisco",
+        "es": "South San Francisco",
+        "hu": "South San Francisco",
+        "zh": "南旧金山"
+    },
+    "Corpus Christi,Egyesült Államok": {
+        "en": "Corpus Christi",
+        "de": "Corpus Christi",
+        "fr": "Corpus Christi",
+        "es": "Corpus Christi",
+        "hu": "Corpus Christi",
+        "zh": "科珀斯克里斯蒂"
+    },
+    "Bradenton,Egyesült Államok": {
+        "en": "Bradenton",
+        "de": "Bradenton",
+        "fr": "Bradenton",
+        "es": "Bradenton",
+        "hu": "Bradenton",
+        "zh": "布雷登顿"
+    },
+    "Westchester,Egyesült Államok": {
+        "en": "Westchester County",
+        "de": "Westchester County",
+        "fr": "Comté de Westchester",
+        "es": "Condado de Westchester",
+        "hu": "Westchester megye",
+        "zh": "韦斯特切斯特"
+    },
+    "Denver,Egyesült Államok": {
+        "en": "Denver",
+        "de": "Denver",
+        "fr": "Denver",
+        "es": "Denver",
+        "hu": "Denver",
+        "zh": "丹佛"
+    },
+    "Everett,Egyesült Államok": {
+        "en": "Everett",
+        "de": "Everett",
+        "fr": "Everett",
+        "es": "Everett",
+        "hu": "Everett",
+        "zh": "埃弗里特"
+    },
+    "Des Moines,Egyesült Államok": {
+        "en": "Des Moines",
+        "de": "Des Moines",
+        "fr": "Des Moines",
+        "es": "Des Moines",
+        "hu": "Des Moines",
+        "zh": "得梅因"
+    },
+    "Spokane,Egyesült Államok": {
+        "en": "Spokane",
+        "de": "Spokane",
+        "fr": "Spokane",
+        "es": "Spokane",
+        "hu": "Spokane",
+        "zh": "斯波坎"
+    },
+    "Tacoma (University Place),Egyesült Államok": {
+        "en": "University Place",
+        "de": "University Place",
+        "fr": "University Place",
+        "es": "University Place",
+        "hu": "University Place",
+        "zh": "大学城"
+    },
+    "Omaha,Egyesült Államok": {
+        "en": "Omaha",
+        "de": "Omaha",
+        "fr": "Omaha",
+        "es": "Omaha",
+        "hu": "Omaha",
+        "zh": "奥马哈"
+    },
+    "Albuquerque,Egyesült Államok": {
+        "en": "Albuquerque",
+        "de": "Albuquerque",
+        "fr": "Albuquerque",
+        "es": "Albuquerque",
+        "hu": "Albuquerque",
+        "zh": "阿尔伯克基"
+    },
+    "Linthicum,Egyesült Államok": {
+        "en": "Linthicum Heights",
+        "de": "Linthicum",
+        "fr": "Linthicum",
+        "es": "Linthicum",
+        "hu": "Linthicum Heights",
+        "zh": "林西克姆"
+    },
+    "Chicago,Egyesült Államok": {
+        "en": "Chicago",
+        "de": "Chicago",
+        "fr": "Chicago",
+        "es": "Chicago",
+        "hu": "Chicago",
+        "zh": "芝加哥"
+    },
+    "San Antonio,Egyesült Államok": {
+        "en": "San Antonio",
+        "de": "San Antonio",
+        "fr": "San Antonio",
+        "es": "San Antonio",
+        "hu": "San Antonio",
+        "zh": "圣安东尼奥"
+    },
+    "Houston,Egyesült Államok": {
+        "en": "Houston",
+        "de": "Houston",
+        "fr": "Houston",
+        "es": "Houston",
+        "hu": "Houston",
+        "zh": "休斯敦"
+    },
+    "Honolulu,Egyesült Államok": {
+        "en": "Honolulu",
+        "de": "Honolulu",
+        "fr": "Honolulu",
+        "es": "Honolulu",
+        "hu": "Honolulu",
+        "zh": "檀香山"
+    },
+    "Marietta,Egyesült Államok": {
+        "en": "Marietta",
+        "de": "Marietta",
+        "fr": "Marietta",
+        "es": "Marietta",
+        "hu": "Marietta",
+        "zh": "玛丽埃塔"
+    },
+    "MERIGNAC,Franciaország": {
+        "en": "Mérignac",
+        "de": "Mérignac",
+        "fr": "Mérignac",
+        "es": "Mérignac",
+        "hu": "Mérignac",
+        "zh": "梅里尼亚克"
+    },
+    "Dortmund,Németország": {
+        "en": "Dortmund",
+        "de": "Dortmund",
+        "fr": "Dortmund",
+        "es": "Dortmund",
+        "hu": "Dortmund",
+        "zh": "多特蒙德"
+    },
+    "Fulda,Németország": {
+        "en": "Fulda",
+        "de": "Fulda",
+        "fr": "Fulda",
+        "es": "Fulda",
+        "hu": "Fulda",
+        "zh": "富尔达"
+    },
+    "Landesweit,Németország": {
+        "fr": "Allemagne",
+        "es": "Alemania",
+        "hu": "11953",
+        "zh": "德国"
+    },
+    "Dresden,Németország": {
+        "en": "Dresden",
+        "de": "Dresden",
+        "fr": "Dresde",
+        "es": "Dresde",
+        "hu": "Drezda",
+        "zh": "德累斯顿"
+    },
+    "Essen,Németország": {
+        "en": "Essen",
+        "de": "Essen",
+        "fr": "Essen",
+        "es": "Essen",
+        "hu": "Essen",
+        "zh": "埃森"
+    },
+    "Frankfurt am Main,Németország": {
+        "en": "Frankfurt",
+        "de": "Frankfurt am Main",
+        "fr": "Francfort-sur-le-Main",
+        "es": "Fráncfort del Meno",
+        "hu": "Frankfurt",
+        "zh": "美因河畔法兰克福"
+    },
+    "Freiburg im Breisgau,Németország": {
+        "en": "Freiburg im Breisgau",
+        "de": "Freiburg im Breisgau",
+        "fr": "Fribourg-en-Brisgau",
+        "es": "Friburgo de Brisgovia",
+        "hu": "Freiburg",
+        "zh": "弗赖堡"
+    },
+    "Hürth,Németország": {
+        "en": "Hürth",
+        "de": "Hürth",
+        "fr": "Hürth",
+        "es": "Hürth-Hermülheim",
+        "hu": "Hürth",
+        "zh": "许尔特"
+    },
+    "Mannheim,Németország": {
+        "en": "Mannheim",
+        "de": "Mannheim",
+        "fr": "Mannheim",
+        "es": "Mannheim",
+        "hu": "Mannheim",
+        "zh": "曼海姆"
+    },
+    "Feldkirchen,Németország": {
+        "en": "Feldkirchen",
+        "de": "Feldkirchen",
+        "fr": "Feldkirchen",
+        "es": "Feldkirchen",
+        "hu": "Feldkirchen",
+        "zh": "费尔德基兴"
+    },
+    "Nürnberg,Németország": {
+        "en": "Nuremberg",
+        "de": "Nürnberg",
+        "fr": "Nuremberg",
+        "es": "Núremberg",
+        "hu": "Nürnberg",
+        "zh": "纽伦堡"
+    },
+    "Gingen,Németország": {
+        "en": "Gingen an der Fils",
+        "de": "Gingen an der Fils",
+        "fr": "Gingen an der Fils",
+        "es": "Gingen an der Fils",
+        "hu": "Gingen an der Fils",
+        "zh": "菲尔斯河畔金根"
+    },
+    "Gochsheim,Németország": {
+        "en": "Gochsheim",
+        "de": "Gochsheim",
+        "fr": "Gochsheim",
+        "es": "Gochsheim",
+        "hu": "Gochsheim",
+        "zh": "戈赫斯海姆"
+    },
+    "Isernhagen-Altwarmbüchen,Németország": {
+        "en": "Altwarmbüchen",
+        "de": "Altwarmbüchen",
+        "fr": "Altwarmbüchen",
+        "es": "Altwarmbüchen",
+        "hu": "Isernhagen",
+        "zh": "Altwarmbüchen"
+    },
+    "Chattanooga,Egyesült Államok": {
+        "en": "Chattanooga",
+        "de": "Chattanooga",
+        "fr": "Chattanooga",
+        "es": "Chattanooga",
+        "hu": "Chattanooga",
+        "zh": "查塔努加"
+    },
+    "Indianapolis,Egyesült Államok": {
+        "en": "Indianapolis",
+        "de": "Indianapolis",
+        "fr": "Indianapolis",
+        "es": "Indianápolis",
+        "hu": "Indianapolis",
+        "zh": "印第安纳波利斯"
+    },
+    "Grand Rapids,Egyesült Államok": {
+        "en": "Grand Rapids",
+        "de": "Grand Rapids",
+        "fr": "Grand Rapids",
+        "es": "Grand Rapids",
+        "hu": "Grand Rapids",
+        "zh": "大急流城"
+    },
+    "Peoria,Egyesült Államok": {
+        "en": "Peoria",
+        "de": "Peoria",
+        "fr": "Peoria",
+        "es": "Peoria",
+        "hu": "Peoria",
+        "zh": "皮奥里亚"
+    },
+    "Fresno,Egyesült Államok": {
+        "en": "Fresno",
+        "de": "Fresno",
+        "fr": "Fresno",
+        "es": "Fresno",
+        "hu": "Fresno",
+        "zh": "弗雷斯诺"
+    },
+    "Boise,Egyesült Államok": {
+        "en": "Boise",
+        "de": "Boise",
+        "fr": "Boise",
+        "es": "Boise",
+        "hu": "Boise",
+        "zh": "博伊西"
+    },
+    "Ft. Worth,Egyesült Államok": {
+        "en": "Fort Worth",
+        "de": "Fort Worth",
+        "fr": "Fort Worth",
+        "es": "Fort Worth",
+        "hu": "Fort Worth",
+        "zh": "沃思堡"
+    },
+    "Ginsheim,Németország": {
+        "en": "Ginsheim-Gustavsburg",
+        "de": "Ginsheim-Gustavsburg",
+        "fr": "Ginsheim-Gustavsburg",
+        "es": "Ginsheim-Gustavsburg",
+        "hu": "Ginsheim-Gustavsburg",
+        "zh": "金斯海姆-古斯塔夫斯堡"
+    },
+    "Troisdorf,Németország": {
+        "en": "Troisdorf",
+        "de": "Troisdorf",
+        "fr": "Troisdorf",
+        "es": "Troisdorf",
+        "hu": "Troisdorf",
+        "zh": "特罗斯多夫"
+    },
+    "Erfurt,Németország": {
+        "en": "Erfurt",
+        "de": "Erfurt",
+        "fr": "Erfurt",
+        "es": "Érfurt",
+        "hu": "Erfurt",
+        "zh": "埃尔福特"
+    },
+    "Hallbergmoos,Németország": {
+        "en": "Hallbergmoos",
+        "de": "Hallbergmoos",
+        "fr": "Hallbergmoos",
+        "es": "Hallbergmoos",
+        "hu": "Hallbergmoos",
+        "zh": "哈尔贝格莫斯"
+    },
+    "Singen,Németország": {
+        "en": "Singen",
+        "de": "Singen (Hohentwiel)",
+        "fr": "Singen",
+        "es": "Singen",
+        "hu": "Singen",
+        "zh": "辛根"
+    },
+    "Livonia,Egyesült Államok": {
+        "en": "Livonia",
+        "de": "Livonia",
+        "fr": "Livonia",
+        "es": "Livonia",
+        "hu": "Livonia",
+        "zh": "利沃尼亚"
+    },
+    "San Jose,Egyesült Államok": {
+        "en": "San Jose",
+        "de": "San José",
+        "fr": "San José",
+        "es": "San José",
+        "hu": "San José",
+        "zh": "圣荷西"
+    },
+    "Downers Grove,Egyesült Államok": {
+        "en": "Downers Grove",
+        "de": "Downers Grove",
+        "fr": "Downers Grove",
+        "es": "Downers Grove",
+        "hu": "Downers Grove",
+        "zh": "唐纳斯格罗夫"
+    },
+    "Ashland,Egyesült Államok": {
+        "en": "Ashland",
+        "de": "Ashland",
+        "fr": "Ashland",
+        "es": "Ashland",
+        "hu": "Ashland",
+        "zh": "阿什兰"
+    },
+    "Riviera Beach,Egyesült Államok": {
+        "en": "Riviera Beach",
+        "de": "Riviera Beach",
+        "fr": "Riviera Beach",
+        "es": "Riviera Beach",
+        "hu": "Riviera Beach",
+        "zh": "里维拉比奇"
+    },
+    "Anchorage,Egyesült Államok": {
+        "en": "Anchorage",
+        "de": "Anchorage",
+        "fr": "Anchorage",
+        "es": "Anchorage",
+        "hu": "Anchorage",
+        "zh": "安克雷奇"
+    },
+    "Alexandria,Egyesült Államok": {
+        "en": "Alexandria",
+        "de": "Alexandria",
+        "fr": "Alexandria",
+        "es": "Alexandria",
+        "hu": "Alexandria",
+        "zh": "亚历山德里亚"
+    },
+    "Urbandale,Egyesült Államok": {
+        "en": "Urbandale",
+        "de": "Urbandale",
+        "fr": "Urbandale",
+        "es": "Urbandale",
+        "hu": "Urbandale",
+        "zh": "Urbandale"
+    },
+    "Burbank,Egyesült Államok": {
+        "en": "Burbank",
+        "de": "Burbank",
+        "fr": "Burbank",
+        "es": "Burbank",
+        "hu": "Burbank",
+        "zh": "伯班克"
+    },
+    "Filderstadt,Németország": {
+        "en": "Filderstadt",
+        "de": "Filderstadt",
+        "fr": "Filderstadt",
+        "es": "Filderstadt",
+        "hu": "Filderstadt",
+        "zh": "菲尔德施塔特"
+    },
+    "Lisle,Egyesült Államok": {
+        "en": "Lisle",
+        "de": "Lisle",
+        "fr": "Lisle",
+        "es": "Lisle",
+        "hu": "Lisle",
+        "zh": "莱尔"
+    },
+    "MARSEILLE,Franciaország": {
+        "en": "Marseille",
+        "de": "Marseille",
+        "fr": "Marseille",
+        "es": "Marsella",
+        "hu": "Marseille",
+        "zh": "马赛"
+    },
+    "AIX-EN-PROVENCE,Franciaország": {
+        "en": "Aix-en-Provence",
+        "de": "Aix-en-Provence",
+        "fr": "Aix-en-Provence",
+        "es": "Aix-en-Provence",
+        "hu": "Aix-en-Provence",
+        "zh": "普罗旺斯地区艾克斯"
+    },
+    "Miami,Egyesült Államok": {
+        "en": "Miami",
+        "de": "Miami",
+        "fr": "Miami",
+        "es": "Miami",
+        "hu": "Miami",
+        "zh": "迈阿密"
+    },
+    "Tampa,Egyesült Államok": {
+        "en": "Tampa",
+        "de": "Tampa",
+        "fr": "Tampa",
+        "es": "Tampa",
+        "hu": "Tampa",
+        "zh": "坦帕"
+    },
+    "Charlotte,Egyesült Államok": {
+        "en": "Charlotte",
+        "de": "Charlotte",
+        "fr": "Charlotte",
+        "es": "Charlotte",
+        "hu": "Charlotte",
+        "zh": "夏洛特"
+    },
+    "Memphis,Egyesült Államok": {
+        "en": "Memphis",
+        "de": "Memphis",
+        "fr": "Memphis",
+        "es": "Memphis",
+        "hu": "Memphis",
+        "zh": "孟菲斯"
+    },
+    "San Leandro (Hayward),Egyesült Államok": {
+        "en": "San Leandro",
+        "de": "San Leandro",
+        "fr": "San Leandro",
+        "es": "San Leandro",
+        "hu": "San Leandro",
+        "zh": "圣利安卓"
+    },
+    "Cincinnati,Egyesült Államok": {
+        "en": "Cincinnati",
+        "de": "Cincinnati",
+        "fr": "Cincinnati",
+        "es": "Cincinnati",
+        "hu": "Cincinnati",
+        "zh": "辛辛那提"
+    },
+    "Broadview Heights,Egyesült Államok": {
+        "en": "Broadview Heights",
+        "de": "Broadview Heights",
+        "fr": "Broadview Heights",
+        "es": "Broadview Heights",
+        "hu": "Broadview Heights",
+        "zh": "Broadview Heights"
+    },
+    "Fürth,Németország": {
+        "en": "Fürth",
+        "de": "Fürth",
+        "fr": "Fürth",
+        "es": "Fürth",
+        "hu": "Fürth",
+        "zh": "菲尔特"
+    },
+    "Forst,Németország": {
+        "en": "Forst",
+        "de": "Forst (Lausitz)",
+        "fr": "Forst",
+        "es": "Forst",
+        "hu": "Forst",
+        "zh": "福斯特"
+    },
+    "Knoxville,Egyesült Államok": {
+        "en": "Knoxville",
+        "de": "Knoxville",
+        "fr": "Knoxville",
+        "es": "Knoxville",
+        "hu": "Knoxville",
+        "zh": "诺克斯维尔"
+    },
+    "Pensacola,Egyesült Államok": {
+        "en": "Pensacola",
+        "de": "Pensacola",
+        "fr": "Pensacola",
+        "es": "Pensacola",
+        "hu": "Pensacola",
+        "zh": "彭萨科拉"
+    },
+    "Anaheim,Egyesült Államok": {
+        "en": "Anaheim",
+        "de": "Anaheim",
+        "fr": "Anaheim",
+        "es": "Anaheim",
+        "hu": "Anaheim",
+        "zh": "安纳海姆"
+    },
+    "Greensboro,Egyesült Államok": {
+        "en": "Greensboro",
+        "de": "Greensboro",
+        "fr": "Greensboro",
+        "es": "Greensboro",
+        "hu": "Greensboro",
+        "zh": "格林斯伯勒"
+    },
+    "Dallas,Egyesült Államok": {
+        "en": "Dallas",
+        "de": "Dallas",
+        "fr": "Dallas",
+        "es": "Dallas",
+        "hu": "Dallas",
+        "zh": "达拉斯"
+    },
+    "Orlando,Egyesült Államok": {
+        "en": "Orlando",
+        "de": "Orlando",
+        "fr": "Orlando",
+        "es": "Orlando",
+        "hu": "Orlando",
+        "zh": "奧蘭多"
+    },
+    "Austin,Egyesült Államok": {
+        "en": "Austin",
+        "de": "Austin",
+        "fr": "Austin",
+        "es": "Austin",
+        "hu": "Austin",
+        "zh": "奥斯汀"
+    },
+    "Annone di Brianza,Olaszország": {
+        "en": "Annone di Brianza",
+        "de": "Annone di Brianza",
+        "fr": "Annone di Brianza",
+        "es": "Annone di Brianza",
+        "hu": "Annone di Brianza",
+        "zh": "安诺内迪布里亚恩扎"
+    },
+    "Charleston,Egyesült Államok": {
+        "en": "Charleston",
+        "de": "Charleston",
+        "fr": "Charleston",
+        "es": "Charleston",
+        "hu": "Charleston",
+        "zh": "查尔斯顿"
+    },
+    "Lenexa,Egyesült Államok": {
+        "en": "Lenexa",
+        "de": "Lenexa",
+        "fr": "Lenexa",
+        "es": "Lenexa",
+        "hu": "Lenexa",
+        "zh": "列涅萨"
+    },
+    "Roanoke,Egyesült Államok": {
+        "en": "Roanoke County",
+        "de": "Roanoke County",
+        "fr": "Comté de Roanoke",
+        "es": "Condado de Roanoke",
+        "hu": "Roanoke megye",
+        "zh": "罗阿诺克"
+    },
+    "Las Vegas,Egyesült Államok": {
+        "en": "Las Vegas",
+        "de": "Red Rock Canyon",
+        "fr": "Las Vegas",
+        "es": "Las Vegas",
+        "hu": "Las Vegas",
+        "zh": "拉斯维加斯"
+    },
+    "El Cajon,Egyesült Államok": {
+        "en": "El Cajon",
+        "de": "El Cajon",
+        "fr": "El Cajon",
+        "es": "El Cajón",
+        "hu": "El Cajon",
+        "zh": "埃尔卡洪"
+    },
+    "Menomonee Falls,Egyesült Államok": {
+        "en": "Menomonee Falls",
+        "de": "Menomonee Falls",
+        "fr": "Menomonee Falls",
+        "es": "Menomonee Falls",
+        "hu": "Menomonee Falls",
+        "zh": "梅诺莫尼福尔斯"
+    },
+    "College Park,Egyesült Államok": {
+        "en": "College Park",
+        "de": "College Park",
+        "fr": "College Park",
+        "es": "College Park",
+        "hu": "College Park",
+        "zh": "大学公园市"
+    },
+    "Salt Lake City,Egyesült Államok": {
+        "en": "Salt Lake City",
+        "de": "Salt Lake City",
+        "fr": "Salt Lake City",
+        "es": "Salt Lake City",
+        "hu": "Salt Lake City",
+        "zh": "盐湖城"
+    },
+    "Wuxi,Kína": {
+        "en": "Wuxi",
+        "de": "Wuxi",
+        "fr": "Wuxi",
+        "es": "Wuxi",
+        "hu": "Vuhszi",
+        "zh": "无锡市"
+    },
+    "Yantai,Kína": {
+        "en": "Yantai",
+        "de": "Yantai",
+        "fr": "Yantai",
+        "es": "Yantái",
+        "hu": "Yantai",
+        "zh": "烟台市"
+    },
+    "Zhongshan,Kína": {
+        "en": "Zhongshan",
+        "de": "Zhongshan",
+        "fr": "Zhongshan",
+        "es": "Zhongshán",
+        "hu": "Zhongshan",
+        "zh": "中山市"
+    },
+    "Shijiazhuang,Kína": {
+        "en": "Shijiazhuang",
+        "de": "Shijiazhuang",
+        "fr": "Shijiazhuang",
+        "es": "Shijiazhuang",
+        "hu": "Sicsiacsuang",
+        "zh": "石家庄市"
+    },
+    "Dalian,Kína": {
+        "en": "Dalian",
+        "de": "Dalian",
+        "fr": "Dalian",
+        "es": "Dalián",
+        "hu": "Talien",
+        "zh": "大连市"
+    },
+    "Shanghai,Kína": {
+        "en": "Shanghai",
+        "de": "Shanghai",
+        "fr": "Shanghai",
+        "es": "Shanghái",
+        "hu": "Shanghai",
+        "zh": "上海市"
+    },
+    "Ningbo,Kína": {
+        "en": "Ningbo",
+        "de": "Ningbo",
+        "fr": "Ningbo",
+        "es": "Ningbó",
+        "hu": "Ningbo",
+        "zh": "宁波市"
+    },
+    "Guangzhou,Kína": {
+        "en": "Guangzhou",
+        "de": "Guangzhou",
+        "fr": "Canton",
+        "es": "Cantón",
+        "hu": "Kanton",
+        "zh": "广州市"
+    },
+    "Hangzhou,Kína": {
+        "en": "Hangzhou",
+        "de": "Hangzhou",
+        "fr": "Hangzhou",
+        "es": "Hangzhou",
+        "hu": "Hangcsou",
+        "zh": "杭州市"
+    },
+    "Jiaxing,Kína": {
+        "en": "Jiaxing",
+        "de": "Jiaxing",
+        "fr": "Jiaxing",
+        "es": "Jiaxing",
+        "hu": "Jiaxing",
+        "zh": "嘉兴市"
+    },
+    "Haerbin,Kína": {
+        "en": "Harbin",
+        "de": "Harbin",
+        "fr": "Harbin",
+        "es": "Harbin",
+        "hu": "Harbin",
+        "zh": "哈尔滨市"
+    },
+    "Tianjin,Kína": {
+        "en": "Tianjin",
+        "de": "Tianjin",
+        "fr": "Tianjin",
+        "es": "Tianjín",
+        "hu": "Tiencsin",
+        "zh": "天津市"
+    },
+    "Shenzhen,Kína": {
+        "en": "Shenzhen",
+        "de": "Shenzhen",
+        "fr": "Shenzhen",
+        "es": "Shenzhen",
+        "hu": "Sencsen",
+        "zh": "深圳市"
+    },
+    "Xiamen,Kína": {
+        "en": "Xiamen",
+        "de": "Xiamen",
+        "fr": "Xiamen",
+        "es": "Xiamen",
+        "hu": "Hsziamen",
+        "zh": "厦门市"
+    },
+    "Zhenjiang,Kína": {
+        "en": "Zhenjiang",
+        "de": "Zhenjiang",
+        "fr": "Zhenjiang",
+        "es": "Zhenjiang",
+        "hu": "Zhenjiang",
+        "zh": "镇江市"
+    },
+    "Nanjing,Kína": {
+        "en": "Nanjing",
+        "de": "Nanjing",
+        "fr": "Nankin",
+        "es": "Nankín",
+        "hu": "Nanking",
+        "zh": "南京市"
+    },
+    "Xuzhou,Kína": {
+        "en": "Xuzhou",
+        "de": "Xuzhou",
+        "fr": "Xuzhou",
+        "es": "Xuzhou",
+        "hu": "Xuzhou",
+        "zh": "徐州市"
+    },
+    "Wenzhou,Kína": {
+        "en": "Wenzhou",
+        "de": "Wenzhou",
+        "fr": "Wenzhou",
+        "es": "Wenzhou",
+        "hu": "Vencsou",
+        "zh": "温州市"
+    },
+    "Qingdao,Kína": {
+        "en": "Qingdao",
+        "de": "Qingdao",
+        "fr": "Qingdao",
+        "es": "Qingdao",
+        "hu": "Qingdao",
+        "zh": "青岛市"
+    },
+    "SuzhouSU,Kína": {
+        "en": "Suzhou",
+        "de": "Suzhou",
+        "fr": "Suzhou",
+        "es": "Suzhou",
+        "hu": "Szucsou",
+        "zh": "苏州市"
+    },
+    "Kansas City,美国": {
+        "en": "Kansas City",
+        "de": "Kansas City",
+        "fr": "Kansas City",
+        "es": "Kansas City",
+        "hu": "Kansas City",
+        "zh": "堪萨斯城"
+    },
+    "Cerritos,美国": {
+        "en": "Cerritos",
+        "de": "Cerritos",
+        "fr": "Cerritos",
+        "es": "Cerritos",
+        "hu": "Cerritos",
+        "zh": "喜瑞都"
+    },
+    "Atlanta,美国": {
+        "en": "Atlanta",
+        "de": "Atlanta",
+        "fr": "Atlanta",
+        "es": "Atlanta",
+        "hu": "Atlanta",
+        "zh": "亚特兰大"
+    },
+    "Budapest,匈牙利": {
+        "en": "Budapest",
+        "de": "Budapest",
+        "fr": "Budapest",
+        "es": "Budapest",
+        "hu": "Budapest",
+        "zh": "布达佩斯"
+    },
+    "Neuhausen,德国": {
+        "en": "Neuhausen",
+        "de": "Neuhausen/Erzgebirge",
+        "fr": "Neuhausen",
+        "es": "Neuhausen",
+        "hu": "Neuhausen/Erzgeb.",
+        "zh": "诺伊豪森"
+    },
+    "Modena,意大利": {
+        "en": "Modena",
+        "de": "Modena",
+        "fr": "Modène",
+        "es": "Módena",
+        "hu": "Modena",
+        "zh": "莫德纳"
+    },
+    "Mestre,意大利": {
+        "en": "Mestre",
+        "de": "Mestre",
+        "fr": "Mestre",
+        "es": "Mestre",
+        "hu": "Mestre",
+        "zh": "梅斯特雷"
+    },
+    "Morbegno,意大利": {
+        "en": "Morbegno",
+        "de": "Morbend",
+        "fr": "Morbegno",
+        "es": "Morbegno",
+        "hu": "Morbegno",
+        "zh": "莫尔贝尼奥"
+    },
+    "Cologno Monzese,意大利": {
+        "en": "Cologno Monzese",
+        "de": "Cologno Monzese",
+        "fr": "Cologno Monzese",
+        "es": "Cologno Monzese",
+        "hu": "Cologno Monzese",
+        "zh": "科洛尼奥蒙泽塞"
+    },
+    "Riccione,意大利": {
+        "en": "Riccione",
+        "de": "Riccione",
+        "fr": "Riccione",
+        "es": "Riccione",
+        "hu": "Riccione",
+        "zh": "里乔内"
+    },
+    "Mezzolombardo,意大利": {
+        "en": "Mezzolombardo",
+        "de": "Welsch-Metz",
+        "fr": "Mezzolombardo",
+        "es": "Mezzolombardo",
+        "hu": "Mezzolombardo",
+        "zh": "梅佐伦巴多"
+    },
+    "Móstoles,西班牙": {
+        "en": "Móstoles",
+        "de": "Móstoles",
+        "fr": "Móstoles",
+        "es": "Móstoles",
+        "hu": "Móstoles",
+        "zh": "莫斯托莱斯"
+    },
+    "Middleton,美国": {
+        "en": "Middleton",
+        "de": "Middleton",
+        "fr": "Middleton",
+        "es": "Middleton",
+        "hu": "Middleton",
+        "zh": "米德尔顿"
+    },
+    "Hamburg,德国": {
+        "en": "Hamburg",
+        "de": "Hamburg",
+        "fr": "Hambourg",
+        "es": "Hamburgo",
+        "hu": "Hamburg",
+        "zh": "汉堡"
+    },
+    "Neuss,德国": {
+        "en": "Neuss",
+        "de": "Neuss",
+        "fr": "Neuss",
+        "es": "Neuss",
+        "hu": "Neuss",
+        "zh": "诺伊斯"
+    },
+    "Regensburg,德国": {
+        "en": "Regensburg",
+        "de": "Regensburg",
+        "fr": "Ratisbonne",
+        "es": "Ratisbona",
+        "hu": "Regensburg",
+        "zh": "雷根斯堡"
+    },
+    "Ulm,德国": {
+        "en": "Ulm",
+        "de": "Ulm",
+        "fr": "Ulm",
+        "es": "Ulm",
+        "hu": "Ulm",
+        "zh": "乌尔姆"
+    },
+    "Portland,美国": {
+        "en": "Portland",
+        "de": "Portland",
+        "fr": "Portland",
+        "es": "Portland",
+        "hu": "Portland",
+        "zh": "波特兰"
+    },
+    "Olive Branch,美国": {
+        "en": "Olive Branch",
+        "de": "Olive Branch",
+        "fr": "Olive Branch",
+        "es": "Olive Branch",
+        "hu": "Olive Branch",
+        "zh": "137"
+    },
+    "Westwood,美国": {
+        "en": "Westwood",
+        "de": "Westwood",
+        "fr": "Westwood",
+        "es": "Westwood",
+        "hu": "Westwood",
+        "zh": "韦斯特伍德"
+    },
+    "Edison,美国": {
+        "en": "Edison",
+        "de": "Edison",
+        "fr": "Edison",
+        "es": "Edison",
+        "hu": "Edison",
+        "zh": "爱迪生"
+    },
+    "Germantown,美国": {
+        "en": "Germantown",
+        "de": "Germantown",
+        "fr": "Germantown",
+        "es": "Germantown",
+        "hu": "Germantown",
+        "zh": "日耳曼敦"
+    },
+    "Düsseldorf,德国": {
+        "en": "Düsseldorf",
+        "de": "Düsseldorf",
+        "fr": "Düsseldorf",
+        "es": "Düsseldorf",
+        "hu": "Düsseldorf",
+        "zh": "杜塞尔多夫"
+    },
+    "Berlin,德国": {
+        "en": "Berlin",
+        "de": "Berlin",
+        "fr": "Berlin",
+        "es": "Berlín",
+        "hu": "Berlin",
+        "zh": "柏林"
+    },
+    "Rottweil,德国": {
+        "en": "Rottweil",
+        "de": "Rottweil",
+        "fr": "Rottweil",
+        "es": "Rottweil",
+        "hu": "Rottweil",
+        "zh": "罗特韦尔"
+    },
+    "Münster,德国": {
+        "en": "Münster",
+        "de": "Münster",
+        "fr": "Münster",
+        "es": "Münster",
+        "hu": "Münster",
+        "zh": "明斯特"
+    },
+    "Oklahoma City,美国": {
+        "en": "Oklahoma City",
+        "de": "Oklahoma City",
+        "fr": "Oklahoma City",
+        "es": "Oklahoma City",
+        "hu": "Oklahoma City",
+        "zh": "俄克拉荷马城"
+    },
+    "Birmingham (US),美国": {
+        "en": "Birmingham",
+        "de": "Birmingham",
+        "fr": "Birmingham",
+        "es": "Birmingham",
+        "hu": "Birmingham",
+        "zh": "伯明翰"
+    },
+    "King of Prussia,美国": {
+        "en": "King of Prussia",
+        "de": "King of Prussia",
+        "fr": "King of Prussia",
+        "es": "King of Prussia",
+        "hu": "King of Prussia",
+        "zh": "普鲁士国王"
+    },
+    "New York,美国": {
+        "en": "New York",
+        "de": "New York City",
+        "fr": "New York",
+        "es": "Nueva York",
+        "hu": "New York",
+        "zh": "纽约"
+    },
+    "Cantano,波多黎各": {
+        "en": "Cataño",
+        "de": "Cataño",
+        "fr": "Cataño",
+        "es": "Cataño",
+        "hu": "Cataño",
+        "zh": "卡塔尼奥"
+    },
+    "Syracuse (East Syracuse),美国": {
+        "en": "East Syracuse",
+        "de": "East Syracuse",
+        "fr": "East Syracuse",
+        "es": "East Syracuse",
+        "hu": "East Syracuse",
+        "zh": "东叙拉古"
+    },
+    "Phoenix,美国": {
+        "en": "Phoenix",
+        "de": "Phoenix",
+        "fr": "Phoenix",
+        "es": "Phoenix",
+        "hu": "Phoenix",
+        "zh": "菲尼克斯"
+    },
+    "Lincoln,美国": {
+        "en": "Lincoln County",
+        "de": "Lincoln County",
+        "fr": "Comté de Lincoln",
+        "es": "Condado de Lincoln",
+        "hu": "Lincoln megye",
+        "zh": "林肯"
+    },
+    "Kirkland,美国": {
+        "en": "Kirkland",
+        "de": "Kirkland",
+        "fr": "Kirkland",
+        "es": "Kirkland",
+        "hu": "Kirkland",
+        "zh": "柯克兰"
+    },
+    "South San Francisco,美国": {
+        "en": "South San Francisco",
+        "de": "South San Francisco",
+        "fr": "South San Francisco",
+        "es": "South San Francisco",
+        "hu": "South San Francisco",
+        "zh": "南旧金山"
+    },
+    "Corpus Christi,美国": {
+        "en": "Corpus Christi",
+        "de": "Corpus Christi",
+        "fr": "Corpus Christi",
+        "es": "Corpus Christi",
+        "hu": "Corpus Christi",
+        "zh": "科珀斯克里斯蒂"
+    },
+    "Bradenton,美国": {
+        "en": "Bradenton",
+        "de": "Bradenton",
+        "fr": "Bradenton",
+        "es": "Bradenton",
+        "hu": "Bradenton",
+        "zh": "布雷登顿"
+    },
+    "Westchester,美国": {
+        "en": "Westchester County",
+        "de": "Westchester County",
+        "fr": "Comté de Westchester",
+        "es": "Condado de Westchester",
+        "hu": "Westchester megye",
+        "zh": "韦斯特切斯特"
+    },
+    "Denver,美国": {
+        "en": "Denver",
+        "de": "Denver",
+        "fr": "Denver",
+        "es": "Denver",
+        "hu": "Denver",
+        "zh": "丹佛"
+    },
+    "Everett,美国": {
+        "en": "Everett",
+        "de": "Everett",
+        "fr": "Everett",
+        "es": "Everett",
+        "hu": "Everett",
+        "zh": "埃弗里特"
+    },
+    "Des Moines,美国": {
+        "en": "Des Moines",
+        "de": "Des Moines",
+        "fr": "Des Moines",
+        "es": "Des Moines",
+        "hu": "Des Moines",
+        "zh": "得梅因"
+    },
+    "Spokane,美国": {
+        "en": "Spokane",
+        "de": "Spokane",
+        "fr": "Spokane",
+        "es": "Spokane",
+        "hu": "Spokane",
+        "zh": "斯波坎"
+    },
+    "Tacoma (University Place),美国": {
+        "en": "University Place",
+        "de": "University Place",
+        "fr": "University Place",
+        "es": "University Place",
+        "hu": "University Place",
+        "zh": "大学城"
+    },
+    "Omaha,美国": {
+        "en": "Omaha",
+        "de": "Omaha",
+        "fr": "Omaha",
+        "es": "Omaha",
+        "hu": "Omaha",
+        "zh": "奥马哈"
+    },
+    "Albuquerque,美国": {
+        "en": "Albuquerque",
+        "de": "Albuquerque",
+        "fr": "Albuquerque",
+        "es": "Albuquerque",
+        "hu": "Albuquerque",
+        "zh": "阿尔伯克基"
+    },
+    "Linthicum,美国": {
+        "en": "Linthicum Heights",
+        "de": "Linthicum",
+        "fr": "Linthicum",
+        "es": "Linthicum",
+        "hu": "Linthicum Heights",
+        "zh": "林西克姆"
+    },
+    "Chicago,美国": {
+        "en": "Chicago",
+        "de": "Chicago",
+        "fr": "Chicago",
+        "es": "Chicago",
+        "hu": "Chicago",
+        "zh": "芝加哥"
+    },
+    "San Antonio,美国": {
+        "en": "San Antonio",
+        "de": "San Antonio",
+        "fr": "San Antonio",
+        "es": "San Antonio",
+        "hu": "San Antonio",
+        "zh": "圣安东尼奥"
+    },
+    "Houston,美国": {
+        "en": "Houston",
+        "de": "Houston",
+        "fr": "Houston",
+        "es": "Houston",
+        "hu": "Houston",
+        "zh": "休斯敦"
+    },
+    "Honolulu,美国": {
+        "en": "Honolulu",
+        "de": "Honolulu",
+        "fr": "Honolulu",
+        "es": "Honolulu",
+        "hu": "Honolulu",
+        "zh": "檀香山"
+    },
+    "Marietta,美国": {
+        "en": "Marietta",
+        "de": "Marietta",
+        "fr": "Marietta",
+        "es": "Marietta",
+        "hu": "Marietta",
+        "zh": "玛丽埃塔"
+    },
+    "MERIGNAC,法国": {
+        "en": "Mérignac",
+        "de": "Mérignac",
+        "fr": "Mérignac",
+        "es": "Mérignac",
+        "hu": "Mérignac",
+        "zh": "梅里尼亚克"
+    },
+    "Dortmund,德国": {
+        "en": "Dortmund",
+        "de": "Dortmund",
+        "fr": "Dortmund",
+        "es": "Dortmund",
+        "hu": "Dortmund",
+        "zh": "多特蒙德"
+    },
+    "Fulda,德国": {
+        "en": "Fulda",
+        "de": "Fulda",
+        "fr": "Fulda",
+        "es": "Fulda",
+        "hu": "Fulda",
+        "zh": "富尔达"
+    },
+    "Landesweit,德国": {}
+}
