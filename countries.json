@@ -70,5 +70,61 @@
         "es": "China",
         "hu": "Kína",
         "zh": "中国"
+    },
+    "US United States": {
+        "en": "United States",
+        "de": "USA",
+        "fr": "États-Unis",
+        "es": "Estados Unidos",
+        "hu": "Egyesült Államok",
+        "zh": "美国"
+    },
+    "Hungary": {
+        "en": "Hungary",
+        "de": "Ungarn",
+        "fr": "Hongrie",
+        "es": "Hungría",
+        "hu": "Magyarország",
+        "zh": "匈牙利"
+    },
+    "Germany": {
+        "en": "Germany",
+        "de": "Deutschland",
+        "fr": "Allemagne",
+        "es": "Alemania",
+        "hu": "Németország",
+        "zh": "德国"
+    },
+    "Italy": {
+        "en": "Italy",
+        "de": "Italien",
+        "fr": "Italie",
+        "es": "Italia",
+        "hu": "Olaszország",
+        "zh": "意大利"
+    },
+    "Spain": {
+        "en": "Spain",
+        "de": "Spanien",
+        "fr": "Espagne",
+        "es": "España",
+        "hu": "Spanyolország",
+        "zh": "西班牙"
+    },
+    "PuertoRico": {
+        "en": "Puerto Rico",
+        "de": "Puerto Rico",
+        "fr": "Porto Rico",
+        "es": "Puerto Rico",
+        "hu": "Puerto Rico",
+        "zh": "波多黎各"
+    },
+    "France": {
+        "en": "France",
+        "de": "Frankreich",
+        "fr": "France",
+        "es": "Francia",
+        "hu": "Franciaország",
+        "zh": "法国"
     }
 }
