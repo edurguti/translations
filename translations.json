@@ -39,21 +39,21 @@
             "No": "Permanent",
             "Ja": "Temporary",
             "Nein": "Permanent",
-            "default": "xxxxx"
+            "default": "Permanent"
         },
         "de": {
             "Yes": "Vorübergehend",
             "No": "Dauerhaft",
             "Ja": "Vorübergehend",
             "Nein": "Dauerhaft",
-            "default": "xxxxx"
+            "default": "Dauerhaft"
         },
         "es": {
             "Yes": "Temporal",
             "No": "Permanente",
             "Ja": "Temporal",
             "Nein": "Permanente",
-            "default": "xxxxx"
+            "default": "Permanente"
         },
         "fr": {
             "Yes": "xxx",
