@@ -1,0 +1,74 @@
+{
+    "Portugal": {
+        "en": "Portugal",
+        "de": "Portugal",
+        "pt": "Portugal",
+        "es": "Portugal",
+        "hu": "Portugal",
+        "fr": "Portugal"
+    },
+    "Vereinigte Staaten von Amerika": {
+        "en": "United States",
+        "de": "USA",
+        "fr": "États-Unis",
+        "es": "Estados Unidos",
+        "hu": "Egyesült Államok",
+        "zh": "美国"
+    },
+    "Ungarn": {
+        "en": "Hungary",
+        "de": "Ungarn",
+        "fr": "Hongrie",
+        "es": "Hungría",
+        "hu": "Magyarország",
+        "zh": "匈牙利"
+    },
+    "Deutschland": {
+        "en": "Germany",
+        "de": "Deutschland",
+        "fr": "Allemagne",
+        "es": "Alemania",
+        "hu": "Németország",
+        "zh": "德国"
+    },
+    "Italien": {
+        "en": "Italy",
+        "de": "Italien",
+        "fr": "Italie",
+        "es": "Italia",
+        "hu": "Olaszország",
+        "zh": "意大利"
+    },
+    "Spanien": {
+        "en": "Spain",
+        "de": "Spanien",
+        "fr": "Espagne",
+        "es": "España",
+        "hu": "Spanyolország",
+        "zh": "西班牙"
+    },
+    "Puerto Rico": {
+        "en": "Puerto Rico",
+        "de": "Puerto Rico",
+        "fr": "Porto Rico",
+        "es": "Puerto Rico",
+        "hu": "Puerto Rico",
+        "zh": "波多黎各"
+    },
+    "Frankreich": {
+        "en": "France",
+        "de": "Frankreich",
+        "fr": "France",
+        "es": "Francia",
+        "hu": "Franciaország",
+        "zh": "法国"
+    },
+    "China": {
+        "en": "China",
+        "de": "China",
+        "fr": "Chine",
+        "es": "China",
+        "hu": "Kína",
+        "zh": "中国"
+    }
+}
