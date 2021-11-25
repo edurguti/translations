@@ -1,0 +1,2222 @@
+{
+    "Veckenstedter Weg 16, Ilsenburg, Germany": {
+        "lat": 51.8725898,
+        "lng": 10.699833
+    },
+    "16290 Shoemaker Ave., Cerritos, CA 90703,Cerritos, Vereinigte Staaten von Amerika": {
+        "lat": 33.8838087,
+        "lng": -118.0541475
+    },
+    "3259 E Harbour Dr Suite 100,Phoenix, Vereinigte Staaten von Amerika": {
+        "lat": 33.4179983,
+        "lng": -112.0092966
+    },
+    "9280 Crestwyn Hills Drive, 38125-8508,Germantown, Vereinigte Staaten von Amerika": {
+        "lat": 35.044344,
+        "lng": -89.7533271
+    },
+    "E-Plus-Straße 1, 40472 Düsseldorf,Düsseldorf, Deutschland": {
+        "lat": 51.2844686,
+        "lng": 6.783856999999999
+    },
+    "Erich-Thilo-Str. 10-12, 12489, Berlin,Berlin, Deutschland": {
+        "lat": 52.4317463,
+        "lng": 13.5331485
+    },
+    "Bernhäuser Str. 45, 73765 Neuhausen,Neuhausen, Deutschland": {
+        "lat": 48.68176,
+        "lng": 9.254809999999999
+    },
+    "Berner Feld, 78628 Rottweil,Rottweil, Deutschland": {
+        "lat": 48.1791154,
+        "lng": 8.6284871
+    },
+    "Ezred utca 2, 1044 Budapest,Budapest, Ungarn": {
+        "lat": 47.6093392,
+        "lng": 19.1006173
+    },
+    "Angermunder Straße 126, 40489 Düsseldorf,Düsseldorf, Deutschland": {
+        "lat": 51.3236832,
+        "lng": 6.770630499999999
+    },
+    "8500 Washington Street NE A4,Albuquerque, Vereinigte Staaten von Amerika": {
+        "lat": 35.1816594,
+        "lng": -106.5938579
+    },
+    "513 Progress Drive, Suites A-J, 21090,Linthicum, Vereinigte Staaten von Amerika": {
+        "lat": 39.216772,
+        "lng": -76.67266
+    },
+    "4720 W Jennifer Ave, Ste 101, 93722 Fresno,Fresno, Vereinigte Staaten von Amerika": {
+        "lat": 36.8118313,
+        "lng": -119.878634
+    },
+    "6942 Phillips Parkway Dr. S., 32256,Jacksonville, Vereinigte Staaten von Amerika": {
+        "lat": 30.1658634,
+        "lng": -81.5341844
+    },
+    "6215-A 29th Street Court E, 34203,Bradenton, Vereinigte Staaten von Amerika": {
+        "lat": 27.430234,
+        "lng": -82.526654
+    },
+    "7501 N.W. 66th Street, 33166-2803,Miami, Vereinigte Staaten von Amerika": {
+        "lat": 25.8337944,
+        "lng": -80.3200267
+    },
+    "100 E Ferguson Street, Ste 101 & 1103, 75702,Tyler, Vereinigte Staaten von Amerika": {
+        "lat": 32.3521838,
+        "lng": -95.30020429999999
+    },
+    "2850 N. California Street, Suite 120, 91504-2560,Burbank, Vereinigte Staaten von Amerika": {
+        "lat": 34.200553,
+        "lng": -118.344971
+    },
+    "292 Lawrence Ave, South San Francisco, CA 94080,South San Francisco, Vereinigte Staaten von Amerika": {
+        "lat": 37.6486864,
+        "lng": -122.3950039
+    },
+    "9001 51st Place, 20740,College Park, Vereinigte Staaten von Amerika": {
+        "lat": 38.9994171,
+        "lng": -76.92010069999999
+    },
+    "700 Hicksville Road,Bethpage, Vereinigte Staaten von Amerika": {
+        "lat": 40.7450857,
+        "lng": -73.496461
+    },
+    "940 Adams Street, Suite 404, 66607,Chicago, Vereinigte Staaten von Amerika": {
+        "lat": 41.8796596,
+        "lng": -87.65113439999999
+    },
+    "929 Eastwind Drive,Westerville, Vereinigte Staaten von Amerika": {
+        "lat": 40.099709,
+        "lng": -82.91679099999999
+    },
+    "3615 Willow Springs Road, 78704-7288,Austin, Vereinigte Staaten von Amerika": {
+        "lat": 30.2254148,
+        "lng": -97.7576712
+    },
+    "5655 Bear Lane, Suite 101B, Suite 101B,Corpus Christi, Vereinigte Staaten von Amerika": {
+        "lat": 27.7636592,
+        "lng": -97.4701708
+    },
+    "3660 Thousand Oaks Blvd, 78247,San Antonio, Vereinigte Staaten von Amerika": {
+        "lat": 29.5615215,
+        "lng": -98.42561909999999
+    },
+    "14820 Tomball Parkway Suite 190,Houston, Vereinigte Staaten von Amerika": {
+        "lat": 29.930294,
+        "lng": -95.50636480000001
+    },
+    "11011 Brooklet Suite 360,Houston, Vereinigte Staaten von Amerika": {
+        "lat": 29.6607521,
+        "lng": -95.56215279999999
+    },
+    "1567 Ohio St, Des Moines, IA 50314,Des Moines, Vereinigte Staaten von Amerika": {
+        "lat": 41.6073865,
+        "lng": -93.61691239999999
+    },
+    "4939 Lulu Court, Ste 16, 67216,Wichita, Vereinigte Staaten von Amerika": {
+        "lat": 37.6058981,
+        "lng": -97.32098359999999
+    },
+    "1402 Jones St, Omaha, NE 68102,Omaha, Vereinigte Staaten von Amerika": {
+        "lat": 41.2537337,
+        "lng": -95.9349443
+    },
+    "5427 N. 23rd Street, 65721,Springfield (Ozark), Vereinigte Staaten von Amerika": {
+        "lat": 37.0701995,
+        "lng": -93.23415349999999
+    },
+    "1440 Catalina Street, 94577,San Leandro (Hayward), Vereinigte Staaten von Amerika": {
+        "lat": 37.6966682,
+        "lng": -122.1728077
+    },
+    "500 Jefferson Avenue, Suite 2030, 77002-7371,Houston, Vereinigte Staaten von Amerika": {
+        "lat": 29.7531403,
+        "lng": -95.37370469999999
+    },
+    "4355 Excel Parkway, Suite 800, 75206,Addison, Vereinigte Staaten von Amerika": {
+        "lat": 32.979717,
+        "lng": -96.83604509999999
+    },
+    "31 Dartmouth Street, 02090-2302,Westwood, Vereinigte Staaten von Amerika": {
+        "lat": 42.204383,
+        "lng": -71.150976
+    },
+    "14626 NE Airport Way, 97230,Portland, Vereinigte Staaten von Amerika": {
+        "lat": 45.5590864,
+        "lng": -122.5119309
+    },
+    "12530 135th Ave NE,Kirkland, Vereinigte Staaten von Amerika": {
+        "lat": 47.7129144,
+        "lng": -122.1596637
+    },
+    "3600 Lacey Road, Suite 100,Downers Grove, Vereinigte Staaten von Amerika": {
+        "lat": 41.8210643,
+        "lng": -88.03042409999999
+    },
+    "940 Riverside Drive, Suite 10+20, 95798,West Sacramento, Vereinigte Staaten von Amerika": {
+        "lat": 38.5880493,
+        "lng": -121.5699123
+    },
+    "8 Mall Terrace, Bldg Unit 1&2, 31406-7600,Savannah, Vereinigte Staaten von Amerika": {
+        "lat": 32.0025008,
+        "lng": -81.1045228
+    },
+    "3005 Chastain Meadows Parkway, 30066-3395,Marietta, Vereinigte Staaten von Amerika": {
+        "lat": 34.0232005,
+        "lng": -84.55325619999999
+    },
+    "3100 Interstate North Circle SE, 30339 Atlanta,Atlanta, Vereinigte Staaten von Amerika": {
+        "lat": 33.8978136,
+        "lng": -84.46378039999999
+    },
+    "7724 Garland Circle, 24019-1623,Roanoke, Vereinigte Staaten von Amerika": {
+        "lat": 37.358806,
+        "lng": -79.951854
+    },
+    "250 King Manor Drive, 19191,King of Prussia, Vereinigte Staaten von Amerika": {
+        "lat": 40.091529,
+        "lng": -75.35023090000001
+    },
+    "Kolumbusstr. 8, 22113 Hamburg,Hamburg, Deutschland": {
+        "lat": 53.5401561,
+        "lng": 10.0875486
+    },
+    "780 Circle 75 Parkway SE,Atlanta, Vereinigte Staaten von Amerika": {
+        "lat": 33.887392,
+        "lng": -84.4680343
+    },
+    "6630 Frito Lay Drive, 47715,Evansville, Vereinigte Staaten von Amerika": {
+        "lat": 38.0082299,
+        "lng": -87.47072849999999
+    },
+    "211 Cornerstone Road, 72002-8309,Little Rock, Vereinigte Staaten von Amerika": {
+        "lat": 34.6705694,
+        "lng": -92.52969709999999
+    },
+    "8564 W. Elisa Street, 83713,Boise, Vereinigte Staaten von Amerika": {
+        "lat": 43.578815,
+        "lng": -116.288605
+    },
+    "438 N Pearl St.,Albany, Vereinigte Staaten von Amerika": {
+        "lat": 42.6642143,
+        "lng": -73.74439579999999
+    },
+    "3201 N Sylvania Avenue, 76111-3124,Ft. Worth, Vereinigte Staaten von Amerika": {
+        "lat": 32.80293,
+        "lng": -97.3090053
+    },
+    "600 Main St. South, 38052,Middleton, Vereinigte Staaten von Amerika": {
+        "lat": 35.0625133,
+        "lng": -88.89160369999999
+    },
+    "6356 Commerce Drive,Olive Branch, Vereinigte Staaten von Amerika": {
+        "lat": 34.96255,
+        "lng": -89.8564289
+    },
+    "300 Galleria Parkway SE, 17th Floor, Atlanta,Atlanta, Vereinigte Staaten von Amerika": {
+        "lat": 33.8831918,
+        "lng": -84.46328840000001
+    },
+    "Robert-Bosch-Str. 1a, 50354 Hürth,Hürth, Deutschland": {
+        "lat": 50.88818,
+        "lng": 6.90508
+    },
+    "Kapellenstr.7, 85622 Feldkirchen,Feldkirchen, Deutschland": {
+        "lat": 48.1517237,
+        "lng": 11.7418425
+    },
+    "Im Südfeld 22,Senden-Bösensell, Deutschland": {
+        "lat": 51.90795,
+        "lng": 7.4735801
+    },
+    "Hafengrenzweg 11-19, 48155 Münster,Münster, Deutschland": {
+        "lat": 51.9482249,
+        "lng": 7.6420897
+    },
+    "2475 Northwinds Parkway, 30009,Alpharetta, Vereinigte Staaten von Amerika": {
+        "lat": 34.0588012,
+        "lng": -84.2858943
+    },
+    "11605 Haynes Bridge Road Suite 650, 30009,Alpharetta, Vereinigte Staaten von Amerika": {
+        "lat": 34.0631065,
+        "lng": -84.289797
+    },
+    "4505 Delp Street, Memphis 38118,Memphis, Vereinigte Staaten von Amerika": {
+        "lat": 35.0263079,
+        "lng": -89.9317827
+    },
+    "906 S Big Spring Rd., 79701,Midland, Vereinigte Staaten von Amerika": {
+        "lat": 31.98854159999999,
+        "lng": -102.0782106
+    },
+    "Herzbergstraße 50, 10365 Berlin,Berlin, Deutschland": {
+        "lat": 52.5260773,
+        "lng": 13.4963935
+    },
+    "Werner-von-Siemens-Str. 27, 76694 Forst,Forst, Deutschland": {
+        "lat": 49.1625721,
+        "lng": 8.5730135
+    },
+    "Dachsweg 21-23, 53842 Troisdorf,Troisdorf, Deutschland": {
+        "lat": 50.8276457,
+        "lng": 7.1079763
+    },
+    "Kantstraße 2, 04275 Leipzig,Leipzig, Deutschland": {
+        "lat": 51.3158457,
+        "lng": 12.3658912
+    },
+    "Pohlstr 20, 10785 Berlin,Berlin, Deutschland": {
+        "lat": 52.50053029999999,
+        "lng": 13.3677815
+    },
+    "Bussardweg 18, 41468 Neuss,Neuss, Deutschland": {
+        "lat": 51.1669987,
+        "lng": 6.7528183
+    },
+    "Lilienthalstr. 25, 85399 Hallbergmoos,Hallbergmoos, Deutschland": {
+        "lat": 48.3317875,
+        "lng": 11.7308124
+    },
+    "Josef-Schüttler-Straße 2, 78224 Singen,Singen, Deutschland": {
+        "lat": 47.75993,
+        "lng": 8.89016
+    },
+    "1965 Gillespie Way, Suites 101-103, 92020,El Cajon, Vereinigte Staaten von Amerika": {
+        "lat": 32.8244262,
+        "lng": -116.9831552
+    },
+    "4710 Eisenhower Blvd Suite B5,Tampa, Vereinigte Staaten von Amerika": {
+        "lat": 27.9872559,
+        "lng": -82.5470939
+    },
+    "6087 Triangle Drive, 90040-3641,Los Angeles, Vereinigte Staaten von Amerika": {
+        "lat": 33.9781806,
+        "lng": -118.138509
+    },
+    "7567 Central Industrial Drive, 33404-3423,Riviera Beach, Vereinigte Staaten von Amerika": {
+        "lat": 26.7880941,
+        "lng": -80.0958306
+    },
+    "5301 Shawnee Road Suite 440,Alexandria, Vereinigte Staaten von Amerika": {
+        "lat": 38.8078085,
+        "lng": -77.1654257
+    },
+    "1615 L. Street, NW, 20036-5610,Washington, Vereinigte Staaten von Amerika": {
+        "lat": 38.9037424,
+        "lng": -77.0416852
+    },
+    "1138 Ewing Street, 98119,Seattle, Vereinigte Staaten von Amerika": {
+        "lat": 47.6565403,
+        "lng": -122.372991
+    },
+    "519 8th Ave. - 6th Floor, 10018-6506,New York, Vereinigte Staaten von Amerika": {
+        "lat": 40.7533969,
+        "lng": -73.9930184
+    },
+    "2440 Whitehall Park Drive, Suite 500, 28273-3952,Charlotte, Vereinigte Staaten von Amerika": {
+        "lat": 35.1410119,
+        "lng": -80.93679209999999
+    },
+    "9474B King Air Court,Ashland, Vereinigte Staaten von Amerika": {
+        "lat": 37.6931555,
+        "lng": -77.4301254
+    },
+    "Mercedesstraße 7, 70794 Filderstadt,Filderstadt, Deutschland": {
+        "lat": 48.68001,
+        "lng": 9.24658
+    },
+    "7367 South Revere Parkway, Unit 2A, 80112-6766,Denver, Vereinigte Staaten von Amerika": {
+        "lat": 39.5811223,
+        "lng": -104.8411781
+    },
+    "5440 S Procyon St Ste B,Las Vegas, Vereinigte Staaten von Amerika": {
+        "lat": 36.0913113,
+        "lng": -115.1869556
+    },
+    "8920 B Adams N.E., 87113,Albuquerque, Vereinigte Staaten von Amerika": {
+        "lat": 35.1880071,
+        "lng": -106.5938579
+    },
+    "901 Warrenville Rd., Suite 480 Lisle, IL  60532,Lisle, Vereinigte Staaten von Amerika": {
+        "lat": 41.8073553,
+        "lng": -88.06999739999999
+    },
+    "7481 N.W. 66th Street, 33166-2801,Miami, Vereinigte Staaten von Amerika": {
+        "lat": 25.8337468,
+        "lng": -80.31965679999999
+    },
+    "500 Executive Blvd,130 Brady Avenue, 10523,Westchester, Vereinigte Staaten von Amerika": {
+        "lat": 41.0683602,
+        "lng": -73.8072597
+    },
+    "7810 Sears Boulevard, 32514,Pensacola, Vereinigte Staaten von Amerika": {
+        "lat": 30.5078869,
+        "lng": -87.25433129999999
+    },
+    "1601 S. Sunkist Suite E, 92806-5812,Anaheim, Vereinigte Staaten von Amerika": {
+        "lat": 33.8092414,
+        "lng": -117.8843063
+    },
+    "2456 Commerce Park Drive, 32819,Orlando, Vereinigte Staaten von Amerika": {
+        "lat": 28.4317982,
+        "lng": -81.41476279999999
+    },
+    "3902 East University Drive, Suites 1-4, 85034-7222,Phoenix, Vereinigte Staaten von Amerika": {
+        "lat": 33.4223874,
+        "lng": -111.9970858
+    },
+    "9200 Market Place, 44147,Broadview Heights, Vereinigte Staaten von Amerika": {
+        "lat": 41.3155042,
+        "lng": -81.6639032
+    },
+    "4355 Excel Parkway, Suite 800, 75206,Dallas, Vereinigte Staaten von Amerika": {
+        "lat": 32.979717,
+        "lng": -96.83604509999999
+    },
+    "1940 Turner Avenue, 49504,Grand Rapids, Vereinigte Staaten von Amerika": {
+        "lat": 42.9986747,
+        "lng": -85.6769561
+    },
+    "Industriestraße 19, 97469 Gochsheim,Gochsheim, Deutschland": {
+        "lat": 50.0275814,
+        "lng": 10.2650664
+    },
+    "Via XXV Aprile, 34, 23841 Annone di Brianza,Annone di Brianza, Italien": {
+        "lat": 45.8049539,
+        "lng": 9.3265721
+    },
+    "6968 McNerney Road, 43619-1079,Toledo, Vereinigte Staaten von Amerika": {
+        "lat": 41.6019216,
+        "lng": -83.5259359
+    },
+    "400 Raritan Center Parkway, Suite H,Edison, Vereinigte Staaten von Amerika": {
+        "lat": 40.5062112,
+        "lng": -74.3425262
+    },
+    "5995 105 Chapel Hill Road, 27607-5148,Raleigh, Vereinigte Staaten von Amerika": {
+        "lat": 35.79171240000001,
+        "lng": -78.7805839
+    },
+    "7006 West 27th Street, Suite  A, 98466,Tacoma (University Place), Vereinigte Staaten von Amerika": {
+        "lat": 47.2346847,
+        "lng": -122.530409
+    },
+    "4145 West Ali Baba, Ste A, 89118-1654,Las Vegas, Vereinigte Staaten von Amerika": {
+        "lat": 36.09491870000001,
+        "lng": -115.1938255
+    },
+    "1840 South Milestone Drive, Suites A&B, 84104,Salt Lake City, Vereinigte Staaten von Amerika": {
+        "lat": 40.7315869,
+        "lng": -111.9666879
+    },
+    "934 Dalton Ave, 45203,Cincinnati, Vereinigte Staaten von Amerika": {
+        "lat": 39.1057684,
+        "lng": -84.53609229999999
+    },
+    "44 Albion Road, 02865-3748,Lincoln, Vereinigte Staaten von Amerika": {
+        "lat": 41.9236426,
+        "lng": -71.48475650000002
+    },
+    "Viale Marcello Finzi, 589, 41122 Modena,Modena, Italien": {
+        "lat": 44.6656889,
+        "lng": 10.93654
+    },
+    "Via Pasqualigo, 59, 30174 Mestre,Mestre, Italien": {
+        "lat": 45.508912,
+        "lng": 12.2622213
+    },
+    "Via Stelvio, 27, 23017 Morbegno,Morbegno, Italien": {
+        "lat": 46.1333493,
+        "lng": 9.5426589
+    },
+    "Via A. Volta 16, 20093, Cologno Monzese (MI),Cologno Monzese, Italien": {
+        "lat": 45.5246947,
+        "lng": 9.285109199999999
+    },
+    "Via Enzo Ferrari, 11, 47838 Riccione,Riccione, Italien": {
+        "lat": 43.9868808,
+        "lng": 12.6315137
+    },
+    "Via della Rupe, 25, 38017 Mezzolombardo,Mezzolombardo, Italien": {
+        "lat": 46.1920314,
+        "lng": 11.1008013
+    },
+    "Friesstraße 13, 60388 Frankfurt,Frankfurt am Main, Deutschland": {
+        "lat": 50.1398434,
+        "lng": 8.739365
+    },
+    "Frankenstraße 12, 90762 Fürth,Fürth, Deutschland": {
+        "lat": 49.4668187,
+        "lng": 11.0124741
+    },
+    "1533 Sams Avenue, Suite A, 70123,New Orleans, Vereinigte Staaten von Amerika": {
+        "lat": 29.9632975,
+        "lng": -90.1989541
+    },
+    "Röntgenstr. 30, 73730 Esslingen,Esslingen, Deutschland": {
+        "lat": 48.72258,
+        "lng": 9.351709999999999
+    },
+    "Ernst-Grote-Str. 10, 30916 Isernhagen-Altwarmbüchen,Isernhagen-Altwarmbüchen, Deutschland": {
+        "lat": 52.4286885,
+        "lng": 9.8417769
+    },
+    "Zum Irrgarten 3, 28844 Weyhe,Weyhe, Deutschland": {
+        "lat": 52.9963462,
+        "lng": 8.8188519
+    },
+    "Carl-Zeiss-Straße 24, 28816 Stuhr,Stuhr, Deutschland": {
+        "lat": 53.02142,
+        "lng": 8.77361
+    },
+    "4330 S.W. 29th Avenue, 32608,Gainesville, Vereinigte Staaten von Amerika": {
+        "lat": 29.6276652,
+        "lng": -82.39008199999999
+    },
+    "9711 E Knox Avenue,Spokane, Vereinigte Staaten von Amerika": {
+        "lat": 47.6776825,
+        "lng": -117.2739799
+    },
+    "2047-2067 Westport Center Drive,St. Louis, Vereinigte Staaten von Amerika": {
+        "lat": 38.6949705,
+        "lng": -90.4223743
+    },
+    "6100 Stilwell, 64120,Kansas City, Vereinigte Staaten von Amerika": {
+        "lat": 39.1444384,
+        "lng": -94.50798759999999
+    },
+    "299 Hartford Turnpike, 01545,Shrewsbury, Vereinigte Staaten von Amerika": {
+        "lat": 42.250006,
+        "lng": -71.716618
+    },
+    "No 268 Miaoqiao Road Pudong Shanghai 201315 PRChina,Shanghai, China": {
+        "lat": 31.122458,
+        "lng": 121.6309819
+    },
+    "4477 Kunshan Road Economic and Technological Development Zone Changchun  China,Changchun, China": {
+        "lat": 43.817071,
+        "lng": 125.323544
+    },
+    "No788 West Huanghe Road Xinbei District Changzhou Jiangsu Province,Changzhou, China": {
+        "lat": 31.883717,
+        "lng": 119.840856
+    },
+    "22F China Life Tower No 16 Chaoyangmenwai Avenue Chaoyang District Beijing 100020 PR China,Beijing, China": {
+        "lat": 39.9239587,
+        "lng": 116.4395313
+    },
+    "No 78 Yingping Road New North District Changzhou 213125 PRChina,Changzhou, China": {
+        "lat": 31.861437,
+        "lng": 119.9149979
+    },
+    "1900 Shenjiang Road Shanghai,Shanghai, China": {
+        "lat": 31.268518,
+        "lng": 121.624161
+    },
+    "No168 Shuangsheng Road Liaoyang Liaoning Province P R China,Liaoyang, China": {
+        "lat": 41.267244,
+        "lng": 123.236944
+    },
+    "ThyssenKrupp Allee 1, 45143 Essen,Essen, Deutschland": {
+        "lat": 51.4634023,
+        "lng": 6.9906359
+    },
+    "8685 (2685) Bilstein Boulevard, 45015,Hamilton, Vereinigte Staaten von Amerika": {
+        "lat": 39.3424096,
+        "lng": -84.5125692
+    },
+    "22355 West Eleven Mile Road, 48033,Southfield, Vereinigte Staaten von Amerika": {
+        "lat": 42.4861928,
+        "lng": -83.2652355
+    },
+    "Essanestrasse 10, FL-9492 Eschen,Eschen, Liechtenstein": {
+        "lat": 47.20825240000001,
+        "lng": 9.527736800000001
+    },
+    "Friedrich-Uhde-Str. 15, 44141 Dortmund,Dortmund, Deutschland": {
+        "lat": 51.5023293,
+        "lng": 7.4837637
+    },
+    "Vosskuhle 38, 44141 Dortmund,Dortmund, Deutschland": {
+        "lat": 51.5043199,
+        "lng": 7.497032799999999
+    },
+    "Al. Grunwaldzka 472 D, 80-309,Gdansk, Polen": {
+        "lat": 54.4039772,
+        "lng": 18.5712994
+    },
+    "3331 Big Beaver Road Suite 300,Troy, Vereinigte Staaten von Amerika": {
+        "lat": 42.56050339999999,
+        "lng": -83.19318129999999
+    },
+    "Sebaldsbruecker Heerstrae 235 28309 Bremen,Bremen, Deutschland": {
+        "lat": 53.0581676,
+        "lng": 8.899528199999999
+    },
+    "Graf-Galen-Str. 17, 59269 Beckum,Beckum, Deutschland": {
+        "lat": 51.8031964,
+        "lng": 8.0279894
+    },
+    "Bayernstraße 17, 30855 Langenhagen,Langenhagen, Deutschland": {
+        "lat": 52.44313,
+        "lng": 9.6996
+    },
+    "Landesweit,Landesweit, Deutschland": {
+        "lat": 34.0637479,
+        "lng": -118.3987578
+    },
+    "Ottostraße 7, 85757 Karlsfeld,Karlsfeld, Deutschland": {
+        "lat": 48.22722,
+        "lng": 11.48718
+    },
+    "Werftstr. 112 - 114 , 24143 Kiel,Kiel, Deutschland": {
+        "lat": 54.3166429,
+        "lng": 10.1514711
+    },
+    "Karl-Dompert-Str. 7, 84130 Dingolfing,Dingolfing, Deutschland": {
+        "lat": 48.6483088,
+        "lng": 12.4654752
+    },
+    "505 HWY 72, Piperton, TN 38017,Piperton, Vereinigte Staaten von Amerika": {
+        "lat": 34.9990817,
+        "lng": -89.62420060000001
+    },
+    "1400 International Dr., Suite 101, Mount Pleasant, WI 53177,Mount Pleasant, Vereinigte Staaten von Amerika": {
+        "lat": 42.7173181,
+        "lng": -87.9354917
+    },
+    "530 Northfield Drive, 46112,Brownsburg, Vereinigte Staaten von Amerika": {
+        "lat": 39.8600613,
+        "lng": -86.4066644
+    },
+    "August-Bilstein-Straße 4, 58256 Ennepetal,Ennepetal, Deutschland": {
+        "lat": 51.2980143,
+        "lng": 7.363656199999999
+    },
+    "Daróczi Str. 1-3, 1113, Budapest,Budapest, Ungarn": {
+        "lat": 47.48018829999999,
+        "lng": 19.0294085
+    },
+    "Hagelkreuzstrasse 138, 46149, Oberhausen,Oberhausen, Deutschland": {
+        "lat": 51.4897984,
+        "lng": 6.8299553
+    },
+    "Weipertstraße 37, 74076 Heilbronn,Heilbronn, Deutschland": {
+        "lat": 49.151168,
+        "lng": 9.2159067
+    },
+    "Rugó u. 2., 4002, Debrecen,Debrecen, Ungarn": {
+        "lat": 47.5552304,
+        "lng": 21.5846398
+    },
+    "Roehrsdorfer Allee 57 09247 Chemnitz,Chemnitz, Deutschland": {
+        "lat": 50.87348120000001,
+        "lng": 12.8355477
+    },
+    "Eichenhofer Weg 5, 42279 Wuppertal,Wuppertal, Deutschland": {
+        "lat": 51.3131764,
+        "lng": 7.251963199999999
+    },
+    "5450 E. Home Avenue, 93727,Fresno, Vereinigte Staaten von Amerika": {
+        "lat": 36.7628383,
+        "lng": -119.7070434
+    },
+    "Henri Coanda Str. 8, 550234, Sibiu,Sibiu, Rumänien": {
+        "lat": 45.7975827,
+        "lng": 24.1726461
+    },
+    "Uhde House L.B. Shastri Marg, Vikhroli (West), 400 083 Mumbai,Mumbai, Indien": {
+        "lat": 19.1115024,
+        "lng": 72.92552440000001
+    },
+    "Herner Str. 299, 44809 Bochum,Bochum, Deutschland": {
+        "lat": 51.50519999999999,
+        "lng": 7.2100237
+    },
+    "Niedersachsenstraße 3, 49610 Quakenbrück,Quakenbrück, Deutschland": {
+        "lat": 52.66637009999999,
+        "lng": 7.958304699999999
+    },
+    "5545 Chet Waggoner Ct South Bend, IN 46628,South Bend, Vereinigte Staaten von Amerika": {
+        "lat": 41.7501781,
+        "lng": -86.3262912
+    },
+    "11936 Exit Five Parkway, 46037 Fishers,Fishers, Vereinigte Staaten von Amerika": {
+        "lat": 39.96205940000001,
+        "lng": -86.0009759
+    },
+    "75 Walz Creek Danville, Il 61834,Danville, Vereinigte Staaten von Amerika": {
+        "lat": 40.1328328,
+        "lng": -87.5527501
+    },
+    "Wirtschaftspark 37, 9492 Eschen,Eschen, Liechtenstein": {
+        "lat": 47.207572,
+        "lng": 9.5345569
+    },
+    "Hermann-Blohm-Str. 3, 20457 Hamburg,Hamburg, Deutschland": {
+        "lat": 53.5405769,
+        "lng": 9.9602798
+    },
+    "Bontekai 55 26382 Wilhelmshaven,Wilhelmshaven, Deutschland": {
+        "lat": 53.5155446,
+        "lng": 8.123880200000002
+    },
+    "8200 Veszprém, Óváros tér 22,Veszprém, Ungarn": {
+        "lat": 47.0942577,
+        "lng": 17.907225
+    },
+    "Thyssenkrupp utca 1., 5126, Jászfényszaru,Jászfényszaru, Ungarn": {
+        "lat": 47.5819755,
+        "lng": 19.742774
+    },
+    "111 West Jackson Boulevard, 60604,Chicago, Vereinigte Staaten von Amerika": {
+        "lat": 41.8778164,
+        "lng": -87.631246
+    },
+    "1102 S. Curtis, 85719-6825,Tucson, Vereinigte Staaten von Amerika": {
+        "lat": 32.208004,
+        "lng": -110.9505399
+    },
+    "6225 Vance Road Chattanooga TN 37421,Chattanooga, Vereinigte Staaten von Amerika": {
+        "lat": 35.0324455,
+        "lng": -85.18547769999999
+    },
+    "19771 Brownstown Center Drive (Suite 790), 48183,Brownstown, Vereinigte Staaten von Amerika": {
+        "lat": 42.1655798,
+        "lng": -83.23822129999999
+    },
+    "3701 South Street, Lafayette, IN 47905,Lafayette, Vereinigte Staaten von Amerika": {
+        "lat": 40.4165028,
+        "lng": -86.84415130000001
+    },
+    "161 E Johns Road Suite E, 29650,Greenville, Vereinigte Staaten von Amerika": {
+        "lat": 34.8722864,
+        "lng": -82.2289141
+    },
+    "1597 E Industrial Drive, 47802,Terre Haute, Vereinigte Staaten von Amerika": {
+        "lat": 39.341595,
+        "lng": -87.3920809
+    },
+    "1212 E.Alexis Road, 43612,Toledo, Vereinigte Staaten von Amerika": {
+        "lat": 41.7211689,
+        "lng": -83.5166826
+    },
+    "26195 Bunert Road,Warren, Vereinigte Staaten von Amerika": {
+        "lat": 42.4878492,
+        "lng": -82.9789651
+    },
+    "148 Integrity Drive, 35188,Woodstock, Vereinigte Staaten von Amerika": {
+        "lat": 33.2041977,
+        "lng": -87.1650094
+    },
+    "800 Atlantis Court, 94551 Livermore,Livermore, Vereinigte Staaten von Amerika": {
+        "lat": 37.6805809,
+        "lng": -121.8135111
+    },
+    "21 Voestalpine Dr., White, GA 30184,White, Vereinigte Staaten von Amerika": {
+        "lat": 34.2751522,
+        "lng": -84.7852233
+    },
+    "4961 Perimeter Parkway Tuscaloosa AL  35022,Tuscaloosa, Vereinigte Staaten von Amerika": {
+        "lat": 33.3364959,
+        "lng": -87.0019609
+    },
+    "In den Waldäckern 1, 75417 Mühlacker,Mühlacker, Deutschland": {
+        "lat": 48.9523515,
+        "lng": 8.870377
+    },
+    "Riesestraße 12-18, 44287 Dortmund,Dortmund, Deutschland": {
+        "lat": 51.4884176,
+        "lng": 7.557559800000001
+    },
+    "Schleebergstraße 12, 59320 Ennigerloh,Ennigerloh, Deutschland": {
+        "lat": 51.83860749999999,
+        "lng": 8.0341182
+    },
+    "Veckenstedter Weg 16, 38871 Ilsenburg,Ilsenburg, Deutschland": {
+        "lat": 51.8725898,
+        "lng": 10.699833
+    },
+    "Schlossstraße 22, 66687 Wadern-Lockweiler,Wadern-Lockweiler, Deutschland": {
+        "lat": 49.52594999999999,
+        "lng": 6.90571
+    },
+    "Buschmühlenstr. 20, 58093 Hagen,Hagen, Deutschland": {
+        "lat": 51.3971733,
+        "lng": 7.4998529
+    },
+    "Lise-Meitner-Allee 7, 25436 Tornesch,Tornesch, Deutschland": {
+        "lat": 53.7152276,
+        "lng": 9.761068999999999
+    },
+    "Neue Industriestraße, 66424 Homburg,Homburg, Deutschland": {
+        "lat": 49.3078082,
+        "lng": 7.3251795
+    },
+    "Heinrich-August-Schulte-Str. 14, 44147 Dortmund,Dortmund, Deutschland": {
+        "lat": 51.5169696,
+        "lng": 7.438098500000001
+    },
+    "Rellinghauser Straße 3, 45128 Essen,Essen, Deutschland": {
+        "lat": 51.4486441,
+        "lng": 7.015709299999999
+    },
+    "5200 - 5300 Ashland Way, 53132,Franklin, Vereinigte Staaten von Amerika": {
+        "lat": 42.8710809,
+        "lng": -87.9820218
+    },
+    "562 Gilliam Road, 48084,Greer, Vereinigte Staaten von Amerika": {
+        "lat": 34.93439190000001,
+        "lng": -82.1868351
+    },
+    "279 Jenckes Hill Road, 02917,Smithfield, Vereinigte Staaten von Amerika": {
+        "lat": 41.921289,
+        "lng": -71.485101
+    },
+    "1500 Cherokee Parkway Suite 120,Acworth, Vereinigte Staaten von Amerika": {
+        "lat": 34.10211,
+        "lng": -84.63356189999999
+    },
+    "One Thyssen Park, 48210,Detroit, Vereinigte Staaten von Amerika": {
+        "lat": 42.3409564,
+        "lng": -83.122858
+    },
+    "201 Discovery Drive,Livermore, Vereinigte Staaten von Amerika": {
+        "lat": 37.6862022,
+        "lng": -121.8068146
+    },
+    "1291 8th St Veedersburg, IN 47987,Veedersburg, Vereinigte Staaten von Amerika": {
+        "lat": 40.1195397,
+        "lng": -87.24507919999999
+    },
+    "Oeger Str. 85, 58119 Hagen,Hagen, Deutschland": {
+        "lat": 51.3458377,
+        "lng": 7.5853318
+    },
+    "Heidbergsweg 102, 47809 Krefeld,Krefeld, Deutschland": {
+        "lat": 51.3253343,
+        "lng": 6.687281599999999
+    },
+    "Feldstr 172 22880 Wedel,Wedel, Deutschland": {
+        "lat": 53.5750541,
+        "lng": 9.733515700000002
+    },
+    "Hans-Bilstein-Werk, 54429 Mandern,Mandern, Deutschland": {
+        "lat": 49.621924,
+        "lng": 6.786712
+    },
+    "Widdersdorfer Str. 158, 50825 Köln,Köln, Deutschland": {
+        "lat": 50.9456352,
+        "lng": 6.905779700000001
+    },
+    "Schmarler Damm 11, 18069 Rostock,Rostock, Deutschland": {
+        "lat": 54.1266105,
+        "lng": 12.0748942
+    },
+    "Söhrestr. 5, 34123 Kassel,Kassel, Deutschland": {
+        "lat": 51.3062973,
+        "lng": 9.519452
+    },
+    "Königsberger Straße 80, 40231 Düsseldorf,Düsseldorf, Deutschland": {
+        "lat": 51.21701119999999,
+        "lng": 6.8263669
+    },
+    "Albert-Brickwedde-Straße 8, 49084 Osnabrück,Osnabrück, Deutschland": {
+        "lat": 52.26203,
+        "lng": 8.087119999999999
+    },
+    "Gewerbehof - Siemensstraße 1, Haus 7, 93055 Regensburg,Regensburg, Deutschland": {
+        "lat": 49.0129701,
+        "lng": 12.1483164
+    },
+    "Dieselstr. 55, 90441 Nürnberg,Nürnberg, Deutschland": {
+        "lat": 49.428731,
+        "lng": 11.0348425
+    },
+    "Eythstrae 11 04129 Leipzig,Leipzig, Deutschland": {
+        "lat": 51.3835448,
+        "lng": 12.3900936
+    },
+    "Kötitzer Str. 110, 01445 Radebeul,Radebeul, Deutschland": {
+        "lat": 51.1128253,
+        "lng": 13.5959764
+    },
+    "Westererbenstr. 75, 44147 Dortmund,Dortmund, Deutschland": {
+        "lat": 51.5421631,
+        "lng": 7.4416558
+    },
+    "305 Corporate Drive,Elgin, Vereinigte Staaten von Amerika": {
+        "lat": 42.0712629,
+        "lng": -88.2835222
+    },
+    "Pimpri,Pune, Indien": {
+        "lat": 18.6297811,
+        "lng": 73.7997094
+    },
+    "5 Sterling Drive, 06492,Wallingford, Vereinigte Staaten von Amerika": {
+        "lat": 41.4872269,
+        "lng": -72.7933846
+    },
+    "13338 Orden Drive, Building H, 90670-6333,Santa Fe Springs, Vereinigte Staaten von Amerika": {
+        "lat": 33.9111759,
+        "lng": -118.0473371
+    },
+    "5441 NE 148th Avenue, Suite 106, 97230,Portland, Vereinigte Staaten von Amerika": {
+        "lat": 45.5615806,
+        "lng": -122.5134124
+    },
+    "3254 Fraser Street, Unit B, 80011 Aurora,Aurora, Vereinigte Staaten von Amerika": {
+        "lat": 39.7638107,
+        "lng": -104.811719
+    },
+    "17901 Englewood Drive, 44130,Cleveland, Vereinigte Staaten von Amerika": {
+        "lat": 41.3801681,
+        "lng": -81.8304258
+    },
+    "7100 15 Mile Road,Sterling Heights, Vereinigte Staaten von Amerika": {
+        "lat": 42.5497531,
+        "lng": -83.0356341
+    },
+    "469 Woodcreek Drive, 60440,Bolingbrook, Vereinigte Staaten von Amerika": {
+        "lat": 41.6850859,
+        "lng": -88.0815938
+    },
+    "315 Matzinger Rd. Toledo, OH 43612,Toledo, Vereinigte Staaten von Amerika": {
+        "lat": 41.705928,
+        "lng": -83.53733
+    },
+    "8005 Volkswagen Drive Suite 101, 37421,Chattanooga, Vereinigte Staaten von Amerika": {
+        "lat": 35.0870971,
+        "lng": -85.13403319999999
+    },
+    "Rellinghauser Straße 1, 45128 Essen,Essen, Deutschland": {
+        "lat": 51.4492937,
+        "lng": 7.015924099999999
+    },
+    "Formerstr. 17, 59425 Unna,Unna, Deutschland": {
+        "lat": 51.563123,
+        "lng": 7.6979254
+    },
+    "Tremoniastr. 5-11, 44137 Dortmund,Dortmund, Deutschland": {
+        "lat": 51.5088224,
+        "lng": 7.4400666
+    },
+    "8060 & 8085 Production Drive, 41042,Florence, Vereinigte Staaten von Amerika": {
+        "lat": 32.8699796,
+        "lng": -96.7682703
+    },
+    "19700 Clark-Graham Avenue, H9X 3R8,Baie-d'Urfé, Kanada": {
+        "lat": 45.4219676,
+        "lng": -73.9135235
+    },
+    "180 Interstate Parkway,Atlanta, Vereinigte Staaten von Amerika": {
+        "lat": 33.8995321,
+        "lng": -84.46722439999999
+    },
+    "1200 International Place Danville, IL 61834,Danville, Vereinigte Staaten von Amerika": {
+        "lat": 40.1456126,
+        "lng": -87.5579559
+    },
+    "Holzhauser Str. 157-159, 13509 Berlin,Berlin, Deutschland": {
+        "lat": 52.58613,
+        "lng": 13.3140639
+    },
+    "Lindichstraße 15, 74189 Weinsberg,Weinsberg, Deutschland": {
+        "lat": 49.1512379,
+        "lng": 9.271952599999999
+    },
+    "Am Industriepark 1, 38871 Ilsenburg,Ilsenburg, Deutschland": {
+        "lat": 51.8791404,
+        "lng": 10.7095243
+    },
+    "Franziusstr. 8-14, 60314 Frankfurt,Frankfurt am Main, Deutschland": {
+        "lat": 50.1079701,
+        "lng": 8.7175635
+    },
+    "Hohnerstr. 5-11, 89079 Ulm,Ulm, Deutschland": {
+        "lat": 48.3675,
+        "lng": 9.94853
+    },
+    "Sprickmannstr. 77-87, 48431 Rheine,Rheine, Deutschland": {
+        "lat": 52.2740901,
+        "lng": 7.4291902
+    },
+    "Robert-Bosch-Str. 1, 38112 Braunschweig,Braunschweig, Deutschland": {
+        "lat": 52.3160557,
+        "lng": 10.5049624
+    },
+    "Beckumer Straße 87, 59555 Lippstadt,Lippstadt, Deutschland": {
+        "lat": 51.6794125,
+        "lng": 8.3182686
+    },
+    "Emschertalstrasse 12, 46149 Oberhausen,Oberhausen, Deutschland": {
+        "lat": 51.4906191,
+        "lng": 6.830889
+    },
+    "Trinidadstraße 40, 27356 Rotenburg (Wümme),Rotenburg (Wümme), Deutschland": {
+        "lat": 53.1234641,
+        "lng": 9.331344099999999
+    },
+    "Alte Liederbacher Straße 6, 36304 Alsfeld,Alsfeld, Deutschland": {
+        "lat": 50.74026000000001,
+        "lng": 9.25344
+    },
+    "Barbarastr. 30, 39218 Schönebeck,Schönebeck, Deutschland": {
+        "lat": 52.0148348,
+        "lng": 11.748858
+    },
+    "Heinrich-Lorenz-Str. 57, 09120 Chemnitz,Chemnitz, Deutschland": {
+        "lat": 50.8145671,
+        "lng": 12.9169532
+    },
+    "Am Ostkai 15-17, 70327 Stuttgart,Stuttgart, Deutschland": {
+        "lat": 48.76876619999999,
+        "lng": 9.2596435
+    },
+    "Südring 76, 33647 Bielefeld,Bielefeld, Deutschland": {
+        "lat": 51.97734999999999,
+        "lng": 8.50719
+    },
+    "Rotterdamer Straße 12, 68219 Mannheim,Mannheim, Deutschland": {
+        "lat": 49.4234107,
+        "lng": 8.5150963
+    },
+    "Ernst-Heckel-Straße 1, 66386 St. Ingbert-Rohrbach,St. Ingbert-Rohrbach, Deutschland": {
+        "lat": 49.27664,
+        "lng": 7.154210099999999
+    },
+    "Feldlistrasse 4, CH-9413 Oberegg,Oberegg, Schweiz": {
+        "lat": 47.4241117,
+        "lng": 9.5523825
+    },
+    "Emmy-Noether-Straße 7, 82216 Maisach,Maisach, Deutschland": {
+        "lat": 48.2133,
+        "lng": 11.23986
+    },
+    "2821 Langstaff Road, L4K 9X9,Concord, Kanada": {
+        "lat": 43.8128119,
+        "lng": -79.52258049999999
+    },
+    "4700 Chemin Bois-Franc, H4S 9X9,Montreal, Kanada": {
+        "lat": 45.4981804,
+        "lng": -73.7377783
+    },
+    "504 42nd Street NE, 102, 98002,Auburn, Vereinigte Staaten von Amerika": {
+        "lat": 47.3424263,
+        "lng": -122.2250697
+    },
+    "4601 D Street NW Park 277, 98001,Auburn, Vereinigte Staaten von Amerika": {
+        "lat": 47.34903389999999,
+        "lng": -122.2357584
+    },
+    "1025 South Columbia Road, Suite 191, Plainfield, Indianapolis 46168,Indianapolis, Vereinigte Staaten von Amerika": {
+        "lat": 39.6920505,
+        "lng": -86.33720079999999
+    },
+    "5002 D Street NW, 98001,Auburn, Vereinigte Staaten von Amerika": {
+        "lat": 47.3514873,
+        "lng": -122.2334338
+    },
+    "14102 Stowe Drive, 92064-7147,Poway, Vereinigte Staaten von Amerika": {
+        "lat": 32.9373954,
+        "lng": -117.0284328
+    },
+    "6400 S. Fiddler's Green Circle, 700, 80111,Greenwood Village, Vereinigte Staaten von Amerika": {
+        "lat": 39.6006481,
+        "lng": -104.8899068
+    },
+    "901 Doris Road, 48326,Auburn Hills, Vereinigte Staaten von Amerika": {
+        "lat": 42.6521647,
+        "lng": -83.2444113
+    },
+    "9601 Newton Avenue South, 55431,Bloomington, Vereinigte Staaten von Amerika": {
+        "lat": 44.8293222,
+        "lng": -93.30474509999999
+    },
+    "Moosacher Straße 58, 80809 München,München, Deutschland": {
+        "lat": 48.1864,
+        "lng": 11.55192
+    },
+    "740 Freeport Boulevard., Suite 108, 89431-6168,Sparks, Vereinigte Staaten von Amerika": {
+        "lat": 39.5257532,
+        "lng": -119.7508254
+    },
+    "10 Corporate Drive,Auburn Hills, Vereinigte Staaten von Amerika": {
+        "lat": 42.635412,
+        "lng": -83.2404799
+    },
+    "1400 S. Chillicothe Road, 44202,Aurora, Vereinigte Staaten von Amerika": {
+        "lat": 41.27822829999999,
+        "lng": -81.3487391
+    },
+    "2800 West Higgins Road, 60169,Hoffman Estates, Vereinigte Staaten von Amerika": {
+        "lat": 42.0644605,
+        "lng": -88.1487332
+    },
+    "6050 Oak Tree Blvd., Ste 110, 44131,Independence, Vereinigte Staaten von Amerika": {
+        "lat": 41.3968437,
+        "lng": -81.662641
+    },
+    "Altendorferstraße 103, 45143 Essen,Essen, Deutschland": {
+        "lat": 51.4587631,
+        "lng": 6.9944415
+    },
+    "1848 Westlake Ave N Suite A,Seattle, Vereinigte Staaten von Amerika": {
+        "lat": 47.6361648,
+        "lng": -122.3397766
+    },
+    "16285 Park Ten Place,Houston, Vereinigte Staaten von Amerika": {
+        "lat": 29.7863353,
+        "lng": -95.6648132
+    },
+    "Johanniskirchstr. 63, 45329 Essen,Essen, Deutschland": {
+        "lat": 51.4986094,
+        "lng": 7.0005498
+    },
+    "Arthur-Ladebeck-Str. 114, 33647 Bielefeld,Bielefeld, Deutschland": {
+        "lat": 52.0063687,
+        "lng": 8.5112585
+    },
+    "Zeißigstr. 12, 09337 Hohenstein-Ernstthal,Hohenstein-Ernstthal, Deutschland": {
+        "lat": 50.797959,
+        "lng": 12.701348
+    },
+    "Via Innovativa 31, 7013 DomatEms,Domat/Ems, Schweiz": {
+        "lat": 46.8282685,
+        "lng": 9.4308515
+    },
+    "Íves u. 6., 9027, Győr,Györ, Ungarn": {
+        "lat": 47.702435,
+        "lng": 17.6743623
+    },
+    "Hollestr. 7a, 45127 Essen,Essen, Deutschland": {
+        "lat": 51.4533998,
+        "lng": 7.0179049
+    },
+    "Mittelhäuser Str. 80, 99089 Erfurt,Erfurt, Deutschland": {
+        "lat": 51.0046823,
+        "lng": 11.0220893
+    },
+    "Sommerfeld 22-28, 45481 Mülheim,Mülheim, Deutschland": {
+        "lat": 51.39947,
+        "lng": 6.87906
+    },
+    "Hagelkreuzstrasse 138, 46149 Oberhausen,Oberhausen, Deutschland": {
+        "lat": 51.4897984,
+        "lng": 6.8299553
+    },
+    "6737 W. Washington Street Suite 1400, 53214,Milwaukee, Vereinigte Staaten von Amerika": {
+        "lat": 43.0210082,
+        "lng": -87.9968633
+    },
+    "1000 Lynch Road, 61832-0214,Danville, Vereinigte Staaten von Amerika": {
+        "lat": 40.1421877,
+        "lng": -87.55652510000002
+    },
+    "Richard-Taylor-Str.89, 28777 Bremen,Bremen, Deutschland": {
+        "lat": 53.20299619999999,
+        "lng": 8.5313099
+    },
+    "4838 Richard Road SW Suite 400,Calgary, Kanada": {
+        "lat": 51.01046299999999,
+        "lng": -114.126024
+    },
+    "co ThyssenKrupp Aerospace, Garamonde Drive,Milton Keynes, Großbritannien und Nordirland": {
+        "lat": 52.0425329,
+        "lng": -0.793257
+    },
+    "9857 58th Place, 53114,Kenosha, Vereinigte Staaten von Amerika": {
+        "lat": 42.58295469999999,
+        "lng": -87.92627019999999
+    },
+    "2716 Old Richburg Road, 29729,Richburg, Vereinigte Staaten von Amerika": {
+        "lat": 34.7142795,
+        "lng": -81.01288579999999
+    },
+    "1232 South Gladiola Street, 84104,Salt Lake City, Vereinigte Staaten von Amerika": {
+        "lat": 40.7425706,
+        "lng": -111.9733018
+    },
+    "8001 ThyssenKrupp Parkway, 43619,Northwood, Vereinigte Staaten von Amerika": {
+        "lat": 41.5962869,
+        "lng": -83.5501561
+    },
+    "Antwerpener Str. 20, 68219 Mannheim,Mannheim, Deutschland": {
+        "lat": 49.4181068,
+        "lng": 8.506414699999999
+    },
+    "Oeger Str. 120, 58119 Hagen,Hagen, Deutschland": {
+        "lat": 51.3453752,
+        "lng": 7.589475999999999
+    },
+    "Dortmunder Str. 2, 68219 Mannheim,Mannheim, Deutschland": {
+        "lat": 49.4207401,
+        "lng": 8.5128218
+    },
+    "Borsigstr. 2, 40880 Ratingen,Ratingen, Deutschland": {
+        "lat": 51.3035885,
+        "lng": 6.8353484
+    },
+    "Max-Planck-Str. 10, 28832 Achim,Achim, Deutschland": {
+        "lat": 53.02447,
+        "lng": 9.0624301
+    },
+    "Ottostr. 30, 41836 Hückelhoven - Baal,Hückelhoven, Deutschland": {
+        "lat": 51.03184,
+        "lng": 6.263409999999999
+    },
+    "Truderinger Str. 41, 81677 München,München, Deutschland": {
+        "lat": 48.1362947,
+        "lng": 11.6287115
+    },
+    "140 Enterprise Drive, 63385,Wentzville, Vereinigte Staaten von Amerika": {
+        "lat": 38.8215721,
+        "lng": -90.8357252
+    },
+    "8001 ThyssenKrupp Parkway, 43619-2082,Northwood, Vereinigte Staaten von Amerika": {
+        "lat": 41.5962869,
+        "lng": -83.5501561
+    },
+    "1980 Shiloh Road NW, Building 7, Suite 100, 30101,Kennesaw, Vereinigte Staaten von Amerika": {
+        "lat": 34.0587125,
+        "lng": -84.6069447
+    },
+    "1980 Shiloh Road Suite 150 Kennesaw GA 30144,Kennesaw, Vereinigte Staaten von Amerika": {
+        "lat": 34.0587125,
+        "lng": -84.6069447
+    },
+    "1980 Shiloh Road NW, Building 7, Suite 100, 30144,Kennesaw, Vereinigte Staaten von Amerika": {
+        "lat": 34.0587125,
+        "lng": -84.6069447
+    },
+    "6900 Davand Drive,Mississauga, Kanada": {
+        "lat": 43.6715251,
+        "lng": -79.6742417
+    },
+    "3450 West California Ave 200,Salt Lake City, Vereinigte Staaten von Amerika": {
+        "lat": 40.7408827,
+        "lng": -111.9734457
+    },
+    "223 Quaker St., Suite 102  Pomona, NY 10970,Pomona, Vereinigte Staaten von Amerika": {
+        "lat": 41.188865,
+        "lng": -74.044966
+    },
+    "6842 Walker Street,La Palma, Vereinigte Staaten von Amerika": {
+        "lat": 33.8606768,
+        "lng": -118.0363566
+    },
+    "Niederstedter Weg 19 61348 Bad Homburg,Bad Homburg, Deutschland": {
+        "lat": 50.2164517,
+        "lng": 8.605071700000002
+    },
+    "BMW-Allee 1, 04349 Leipzig,Leipzig, Deutschland": {
+        "lat": 51.4108143,
+        "lng": 12.4384922
+    },
+    "Baumeisterallee 25, 04442 Zwenkau,Leipzig, Deutschland": {
+        "lat": 51.21094,
+        "lng": 12.3342709
+    },
+    "293 Timber Road, 28115-7868,Mooresville, Vereinigte Staaten von Amerika": {
+        "lat": 35.5582956,
+        "lng": -80.81935270000001
+    },
+    "3114 Norbrook Drive, 38116,Memphis, Vereinigte Staaten von Amerika": {
+        "lat": 35.0629867,
+        "lng": -90.0299568
+    },
+    "10401 Highland Manor Drive, Suite 110, 33610,Tampa, Vereinigte Staaten von Amerika": {
+        "lat": 27.9843107,
+        "lng": -82.3281629
+    },
+    "2480 Seminole Street, N8Y 1X3,Windsor, Kanada": {
+        "lat": 42.3118218,
+        "lng": -82.9987022
+    },
+    "70, 75 Walz Creek Drive, 61834-9373,Danville, Vereinigte Staaten von Amerika": {
+        "lat": 40.1294545,
+        "lng": -87.5541092
+    },
+    "6811 South 204th Street, Suites 305,400, 98032,Kent, Vereinigte Staaten von Amerika": {
+        "lat": 47.4184411,
+        "lng": -122.2480412
+    },
+    "8, Strada Henri Coandă, 557260 Sibiu,Sibiu, Rumänien": {
+        "lat": 45.7975827,
+        "lng": 24.1726461
+    },
+    "1001 Hurricane, 46131,Franklin, Vereinigte Staaten von Amerika": {
+        "lat": 39.49194,
+        "lng": -86.047254
+    },
+    "Hauptstraße 35a, 77866 Rheinau-Freistett,Rheinau-Freistett, Deutschland": {
+        "lat": 48.6663775,
+        "lng": 7.9416972
+    },
+    "1220 Executive Blvd Suite 109,Chesapeake, Vereinigte Staaten von Amerika": {
+        "lat": 36.7644196,
+        "lng": -76.234037
+    },
+    "917 134th Street SW,Everett, Vereinigte Staaten von Amerika": {
+        "lat": 47.8774428,
+        "lng": -122.2459676
+    },
+    "2880 Ualena Street, 96819,Honolulu, Vereinigte Staaten von Amerika": {
+        "lat": 21.3335364,
+        "lng": -157.9040648
+    },
+    "788 Circle 75 Parkway SE,Atlanta, Vereinigte Staaten von Amerika": {
+        "lat": 33.8863264,
+        "lng": -84.4694335
+    },
+    "Hannöversche Str. 20a, 44143 Dortmund,Dortmund, Deutschland": {
+        "lat": 51.5206198,
+        "lng": 7.4966894
+    },
+    "Daimler-Benz-Strasse 28, 36039 Fulda,Fulda, Deutschland": {
+        "lat": 50.5724042,
+        "lng": 9.690097
+    },
+    "Brunnenstr. 57, 73333 GingenFils,Gingen, Deutschland": {
+        "lat": 48.6640913,
+        "lng": 9.7796519
+    },
+    "Kuehnstr. 71, 22045 Hamburg,Hamburg, Deutschland": {
+        "lat": 53.5789,
+        "lng": 10.12113
+    },
+    "3711 W. Swift Ave.,Fresno, Vereinigte Staaten von Amerika": {
+        "lat": 36.79576,
+        "lng": -119.859809
+    },
+    "145 Windhill Road, Suite 300, 29203-2629,Columbia, Vereinigte Staaten von Amerika": {
+        "lat": 34.0673068,
+        "lng": -81.0382879
+    },
+    "161 E John Road, Suite E,Greer, Vereinigte Staaten von Amerika": {
+        "lat": 34.9387279,
+        "lng": -82.2270568
+    },
+    "520 Interstate Blvd S Nashville TN  12132,Nashville, Vereinigte Staaten von Amerika": {
+        "lat": 36.1335309,
+        "lng": -86.7557501
+    },
+    "6701 Carmel Road, Suite 305,Charlotte, Vereinigte Staaten von Amerika": {
+        "lat": 35.0853995,
+        "lng": -80.8452667
+    },
+    "1650 N Shelby Oaks Drive, Suite 6,Memphis, Vereinigte Staaten von Amerika": {
+        "lat": 35.1695728,
+        "lng": -89.8529708
+    },
+    "Heinrich Böcking Straße 16, 66121 Saarbrücken,Saarbrücken, Deutschland": {
+        "lat": 49.2275055,
+        "lng": 7.0127182
+    },
+    "Federico Cantero Villamil 4, 28935 Móstoles,Móstoles, Spanien": {
+        "lat": 40.3417512,
+        "lng": -3.8799521
+    },
+    "11314 West 80th Street, 66214 Lenexa,Lenexa, Vereinigte Staaten von Amerika": {
+        "lat": 38.9839979,
+        "lng": -94.71704199999999
+    },
+    "Hermann-Köhl.Str.8, 89160 Dornstadt,Ulm, Deutschland": {
+        "lat": 48.4602982,
+        "lng": 9.9667069
+    },
+    "4100 Will Rogers Parkway, Suite 200, 73108-2060,Oklahoma City, Vereinigte Staaten von Amerika": {
+        "lat": 35.4517582,
+        "lng": -97.59242169999999
+    },
+    "284-B Snow Drive, 35209-6305,Birmingham (US), Vereinigte Staaten von Amerika": {
+        "lat": 33.44581650000001,
+        "lng": -86.8355354
+    },
+    "Calle 4 Edificio 6 Esquina Los Pinos,Cantano, Puerto Rico": {
+        "lat": 18.4465355,
+        "lng": -66.1355775
+    },
+    "6067 Corporate Drive, 13057,Syracuse (East Syracuse), Vereinigte Staaten von Amerika": {
+        "lat": 43.1040494,
+        "lng": -76.0867791
+    },
+    "24 Allée Felix Nadar,MERIGNAC, Frankreich": {
+        "lat": 44.8458154,
+        "lng": -0.6719782
+    },
+    "Hamburger Str. 37, 01067 Dresden,Dresden, Deutschland": {
+        "lat": 51.0598891,
+        "lng": 13.6957005
+    },
+    "Gladbecker Straße 5,Düsseldorf, Deutschland": {
+        "lat": 51.27412210000001,
+        "lng": 6.7945112
+    },
+    "Münchener Straße 100 C, 45145 Essen,Essen, Deutschland": {
+        "lat": 51.4484562,
+        "lng": 6.9882369
+    },
+    "Hermann-Mitsch-Straße 36a, 79108 Freiburg,Freiburg im Breisgau, Deutschland": {
+        "lat": 48.0238054,
+        "lng": 7.8408124
+    },
+    "Hofrat-Wild-Str. 3, 68219 Mannheim,Mannheim, Deutschland": {
+        "lat": 49.4509735,
+        "lng": 8.522037599999999
+    },
+    "Schweinauer Hauptstr. 38, 90441 Nürnberg,Nürnberg, Deutschland": {
+        "lat": 49.4332264,
+        "lng": 11.0465723
+    },
+    "Strohgäustr. 1, 73765 Neuhausen,Neuhausen, Deutschland": {
+        "lat": 48.689698,
+        "lng": 9.2660505
+    },
+    "6138 Preservation Place 800, 37416,Chattanooga, Vereinigte Staaten von Amerika": {
+        "lat": 35.0746787,
+        "lng": -85.1844278
+    },
+    "8661-8665 Bash St, 46256,Indianapolis, Vereinigte Staaten von Amerika": {
+        "lat": 39.913557,
+        "lng": -86.0428625
+    },
+    "5169 Northland Drive NE,Grand Rapids, Vereinigte Staaten von Amerika": {
+        "lat": 43.0564526,
+        "lng": -85.58112589999999
+    },
+    "2200-2006 W. Townline Road, 61615,Peoria, Vereinigte Staaten von Amerika": {
+        "lat": 40.797588,
+        "lng": -89.627904
+    },
+    "Im Weiherfeld 1, 65462 Ginsheim,Ginsheim, Deutschland": {
+        "lat": 49.9902241,
+        "lng": 8.3204444
+    },
+    "Mühlweg 18, 99091 Erfurt,Erfurt, Deutschland": {
+        "lat": 51.0187367,
+        "lng": 11.0083231
+    },
+    "35432 Industrial Road, 48150,Livonia, Vereinigte Staaten von Amerika": {
+        "lat": 42.3793532,
+        "lng": -83.3925014
+    },
+    "2140 Zanker Road, 95131-2113,San Jose, Vereinigte Staaten von Amerika": {
+        "lat": 37.3812826,
+        "lng": -121.9154387
+    },
+    "2000 West International Airport Road, Unit D6,Anchorage, Vereinigte Staaten von Amerika": {
+        "lat": 61.17118850000001,
+        "lng": -149.9226908
+    },
+    "4671 121st Street,Urbandale, Vereinigte Staaten von Amerika": {
+        "lat": 41.6461979,
+        "lng": -93.7795283
+    },
+    "850 Pena Boulevard,Denver, Vereinigte Staaten von Amerika": {
+        "lat": 39.8333307,
+        "lng": -104.7290787
+    },
+    "151 AV DES AYGALADES,MARSEILLE, Frankreich": {
+        "lat": 43.3437067,
+        "lng": 5.363178
+    },
+    "770, Avenue Guilibert de la Lauziére, 13290 Aix en Provence,AIX-EN-PROVENCE, Frankreich": {
+        "lat": 43.4819699,
+        "lng": 5.3647183
+    },
+    "2004 Shoppers Lane, 37921,Knoxville, Vereinigte Staaten von Amerika": {
+        "lat": 35.9717691,
+        "lng": -83.98329269999999
+    },
+    "103 JJ Drive, 27406-4408,Greensboro, Vereinigte Staaten von Amerika": {
+        "lat": 36.0322565,
+        "lng": -79.791626
+    },
+    "903 Morris Street, 25301,Charleston, Vereinigte Staaten von Amerika": {
+        "lat": 38.3506287,
+        "lng": -81.6224546
+    },
+    "N56 W13535 Silver Spring Drive, 53051,Menomonee Falls, Vereinigte Staaten von Amerika": {
+        "lat": 43.1183108,
+        "lng": -88.0806956
+    },
+    "Room 808 Building A  Times International Building No555 Canal RoadEast Wuxi Jiangsu China,Wuxi, China": {
+        "lat": 31.491169,
+        "lng": 120.31191
+    },
+    "Room 608611Huaxin International Business MansionNo28 ChangJiang Road,Yantai, China": {
+        "lat": 37.56117,
+        "lng": 121.25252
+    },
+    "No1113 Maling Daxin Road South District Zhongshan City Guangdong Province,Zhongshan, China": {
+        "lat": 22.5319843,
+        "lng": 113.3819362
+    },
+    "27thFGrand Milea HotelNo56 TiYu North Street,Shijiazhuang, China": {
+        "lat": 38.0914242,
+        "lng": 114.5437035
+    },
+    "Room 3001 3002 30  f Guozi innovation building No 6A Shahekou District union road Dalian,Dalian, China": {
+        "lat": 38.905365,
+        "lng": 121.580179
+    },
+    "No2 Xunye Road Sheshan Subarea Songjiang Industrial Area Songjiang PRChina,Shanghai, China": {
+        "lat": 31.1220245,
+        "lng": 121.1934358
+    },
+    "5thFBuilding 7Section B of RD Park No999 Yangfan Road,Ningbo, China": {
+        "lat": 29.8831314,
+        "lng": 121.6376196
+    },
+    "CD 23thC Gaosheng MansionTiyu West Road Guangzhou PRChina,Guangzhou, China": {
+        "lat": 23.41698,
+        "lng": 113.078569
+    },
+    "Room 508 Building A  Huanglong times square No18  Wantang Road HangzhouZhejiang,Hangzhou, China": {
+        "lat": 30.2791464,
+        "lng": 120.1240448
+    },
+    "D2306Fortune Square Building No527 West Zhongshan Rd,Jiaxing, China": {
+        "lat": 30.7558135,
+        "lng": 120.6856576
+    },
+    "Rm 160116FBuilding AHaishangyinzuo6 Shanghai Street Daoli District Harbin  Heilongjiang,Haerbin, China": {
+        "lat": 45.7625729,
+        "lng": 126.6019808
+    },
+    "B7 Future Plaza No 103 Weidi Road Hexi District Tianjin City,Tianjin, China": {
+        "lat": 39.097771,
+        "lng": 117.207481
+    },
+    "6F Wande Mansion No1019 Shennan Zhong Road Shenzhen Guangdong China,Shenzhen, China": {
+        "lat": 22.5400651,
+        "lng": 114.1027345
+    },
+    "Block E Unit 401 Building 18 Phase 2 Guan Yin Shan Internatinal Operation Center No 68 Taidong Road Siming Distr,Xiamen, China": {
+        "lat": 22.7613207,
+        "lng": 121.1438152
+    },
+    "Building 72 Jinjiang Garden No 248 Dingmaoqiao Road Jingkou District Zhenjiang City,Zhenjiang, China": {
+        "lat": 32.179239,
+        "lng": 119.508187
+    },
+    "11FBuilding 2Guorui MansionNo359Jiangdong Middle Road Nanjing PRChina,Nanjing, China": {
+        "lat": 32.060255,
+        "lng": 118.796877
+    },
+    "Room 16011622 Heng Mao Building No6 XiAn North Road Xuzhou City,Xuzhou, China": {
+        "lat": 34.27023,
+        "lng": 117.1757129
+    },
+    "Wenzhou city Longwan district on River Road No 198 new Century Commerce Building A room 8015,Wenzhou, China": {
+        "lat": 27.932747,
+        "lng": 120.811213
+    },
+    "Room 11 Huayin Mansion No5 Armor of West Donghai Road Shinan District Qingdao,Qingdao, China": {
+        "lat": 36.0576056,
+        "lng": 120.3713383
+    },
+    "Room 401B Block 24 House Yuanrong Times Square,SuzhouSU, China": {
+        "lat": 40.7579747,
+        "lng": -73.9855426
+    },
+    "6100 Stilwell, 64120,Kansas City, US United States": {
+        "lat": 39.1444384,
+        "lng": -94.50798759999999
+    },
+    "16290 Shoemaker Ave., Cerritos, CA 90703,Cerritos, US United States": {
+        "lat": 33.8838087,
+        "lng": -118.0541475
+    },
+    "3100 Interstate North Circle SE, 30339 Atlanta,Atlanta, US United States": {
+        "lat": 33.8978136,
+        "lng": -84.46378039999999
+    },
+    "Ezred utca 2, 1044 Budapest,Budapest, Hungary": {
+        "lat": 47.6074175,
+        "lng": 19.1036149
+    },
+    "788 Circle 75 Parkway SE,Atlanta, US United States": {
+        "lat": 33.8863264,
+        "lng": -84.4694335
+    },
+    "Bernhäuser Str. 45, 73765 Neuhausen,Neuhausen, Germany": {
+        "lat": 48.68176,
+        "lng": 9.254809999999999
+    },
+    "Viale Marcello Finzi, 589, 41122 Modena,Modena, Italy": {
+        "lat": 44.6656889,
+        "lng": 10.93654
+    },
+    "Via Pasqualigo, 59, 30174 Mestre,Mestre, Italy": {
+        "lat": 45.508912,
+        "lng": 12.2622213
+    },
+    "Via Stelvio, 27, 23017 Morbegno,Morbegno, Italy": {
+        "lat": 46.1333493,
+        "lng": 9.5426589
+    },
+    "Via A. Volta 16, 20093, Cologno Monzese (MI),Cologno Monzese, Italy": {
+        "lat": 45.5246947,
+        "lng": 9.285109199999999
+    },
+    "Via Enzo Ferrari, 11, 47838 Riccione,Riccione, Italy": {
+        "lat": 43.9868808,
+        "lng": 12.6315137
+    },
+    "Via della Rupe, 25, 38017 Mezzolombardo,Mezzolombardo, Italy": {
+        "lat": 46.1920314,
+        "lng": 11.1008013
+    },
+    "Federico Cantero Villamil 4, 28935 Móstoles,Móstoles, Spain": {
+        "lat": 40.3417512,
+        "lng": -3.8799521
+    },
+    "780 Circle 75 Parkway SE,Atlanta, US United States": {
+        "lat": 33.887114,
+        "lng": -84.46973059999999
+    },
+    "600 Main St. South, 38052,Middleton, US United States": {
+        "lat": 35.0625133,
+        "lng": -88.89160369999999
+    },
+    "Kolumbusstr. 8, 22113 Hamburg,Hamburg, Germany": {
+        "lat": 53.5401561,
+        "lng": 10.0875486
+    },
+    "Bussardweg 18, 41468 Neuss,Neuss, Germany": {
+        "lat": 51.1669987,
+        "lng": 6.7528183
+    },
+    "Gewerbehof - Siemensstraße 1, Haus 7, 93055 Regensburg,Regensburg, Germany": {
+        "lat": 49.0129701,
+        "lng": 12.1483164
+    },
+    "Hermann-Köhl.Str.8, 89160 Dornstadt,Ulm, Germany": {
+        "lat": 48.4602982,
+        "lng": 9.9667069
+    },
+    "14626 NE Airport Way, 97230,Portland, US United States": {
+        "lat": 45.5590864,
+        "lng": -122.5119309
+    },
+    "6356 Commerce Drive,Olive Branch, US United States": {
+        "lat": 34.96255,
+        "lng": -89.8564289
+    },
+    "31 Dartmouth Street, 02090-2302,Westwood, US United States": {
+        "lat": 42.204383,
+        "lng": -71.150976
+    },
+    "400 Raritan Center Parkway, Suite H,Edison, US United States": {
+        "lat": 40.5062112,
+        "lng": -74.3425262
+    },
+    "9280 Crestwyn Hills Drive, 38125-8508,Germantown, US United States": {
+        "lat": 35.044344,
+        "lng": -89.7533271
+    },
+    "E-Plus-Straße 1, 40472 Düsseldorf,Düsseldorf, Germany": {
+        "lat": 51.2854493,
+        "lng": 6.784666499999999
+    },
+    "Erich-Thilo-Str. 10-12, 12489, Berlin,Berlin, Germany": {
+        "lat": 52.4317463,
+        "lng": 13.5331485
+    },
+    "Berner Feld, 78628 Rottweil,Rottweil, Germany": {
+        "lat": 48.1791154,
+        "lng": 8.6284871
+    },
+    "Hafengrenzweg 11-19, 48155 Münster,Münster, Germany": {
+        "lat": 51.9482643,
+        "lng": 7.6420728
+    },
+    "4100 Will Rogers Parkway, Suite 200, 73108-2060,Oklahoma City, US United States": {
+        "lat": 35.4517582,
+        "lng": -97.59242169999999
+    },
+    "284-B Snow Drive, 35209-6305,Birmingham (US), US United States": {
+        "lat": 33.44581650000001,
+        "lng": -86.8355354
+    },
+    "250 King Manor Drive, 19191,King of Prussia, US United States": {
+        "lat": 40.0915188,
+        "lng": -75.35014509999999
+    },
+    "519 8th Ave. - 6th Floor, 10018-6506,New York, US United States": {
+        "lat": 40.7533969,
+        "lng": -73.9930184
+    },
+    "Calle 4 Edificio 6 Esquina Los Pinos,Cantano, PuertoRico": {
+        "lat": 18.4465355,
+        "lng": -66.1355775
+    },
+    "6067 Corporate Drive, 13057,Syracuse (East Syracuse), US United States": {
+        "lat": 43.1040494,
+        "lng": -76.0867791
+    },
+    "3259 E Harbour Dr Suite 100,Phoenix, US United States": {
+        "lat": 33.4179983,
+        "lng": -112.0092966
+    },
+    "44 Albion Road, 02865-3748,Lincoln, US United States": {
+        "lat": 41.9236426,
+        "lng": -71.48475650000002
+    },
+    "12530 135th Ave NE,Kirkland, US United States": {
+        "lat": 47.7129144,
+        "lng": -122.1596637
+    },
+    "292 Lawrence Ave, South San Francisco, CA 94080,South San Francisco, US United States": {
+        "lat": 37.6486864,
+        "lng": -122.3950039
+    },
+    "5655 Bear Lane, Suite 101B, Suite 101B,Corpus Christi, US United States": {
+        "lat": 27.7636592,
+        "lng": -97.4701708
+    },
+    "6215-A 29th Street Court E, 34203,Bradenton, US United States": {
+        "lat": 27.4449954,
+        "lng": -82.53617559999999
+    },
+    "500 Executive Blvd,130 Brady Avenue, 10523,Westchester, US United States": {
+        "lat": 41.0683602,
+        "lng": -73.8072597
+    },
+    "7367 South Revere Parkway, Unit 2A, 80112-6766,Denver, US United States": {
+        "lat": 39.5811223,
+        "lng": -104.8411781
+    },
+    "917 134th Street SW,Everett, US United States": {
+        "lat": 47.8774428,
+        "lng": -122.2459676
+    },
+    "1567 Ohio St, Des Moines, IA 50314,Des Moines, US United States": {
+        "lat": 41.6073865,
+        "lng": -93.61691239999999
+    },
+    "9711 E Knox Avenue,Spokane, US United States": {
+        "lat": 47.6776825,
+        "lng": -117.2739799
+    },
+    "7006 West 27th Street, Suite  A, 98466,Tacoma (University Place), US United States": {
+        "lat": 47.2346847,
+        "lng": -122.530409
+    },
+    "1402 Jones St, Omaha, NE 68102,Omaha, US United States": {
+        "lat": 41.2537337,
+        "lng": -95.9349443
+    },
+    "8500 Washington Street NE A4,Albuquerque, US United States": {
+        "lat": 35.1816973,
+        "lng": -106.5947788
+    },
+    "513 Progress Drive, Suites A-J, 21090,Linthicum, US United States": {
+        "lat": 39.216772,
+        "lng": -76.67266
+    },
+    "940 Adams Street, Suite 404, 66607,Chicago, US United States": {
+        "lat": 41.8796714,
+        "lng": -87.6511369
+    },
+    "3660 Thousand Oaks Blvd, 78247,San Antonio, US United States": {
+        "lat": 29.5609552,
+        "lng": -98.4259087
+    },
+    "500 Jefferson Avenue, Suite 2030, 77002-7371,Houston, US United States": {
+        "lat": 29.7531403,
+        "lng": -95.37370469999999
+    },
+    "3902 East University Drive, Suites 1-4, 85034-7222,Phoenix, US United States": {
+        "lat": 33.4223874,
+        "lng": -111.9970858
+    },
+    "2880 Ualena Street, 96819,Honolulu, US United States": {
+        "lat": 21.3335364,
+        "lng": -157.9040648
+    },
+    "3005 Chastain Meadows Parkway, 30066-3395,Marietta, US United States": {
+        "lat": 34.0233765,
+        "lng": -84.55325839999999
+    },
+    "24 Allée Felix Nadar,MERIGNAC, France": {
+        "lat": 44.8458154,
+        "lng": -0.6719782
+    },
+    "Hannöversche Str. 20a, 44143 Dortmund,Dortmund, Germany": {
+        "lat": 51.5206198,
+        "lng": 7.4966894
+    },
+    "Daimler-Benz-Strasse 28, 36039 Fulda,Fulda, Germany": {
+        "lat": 50.5724042,
+        "lng": 9.690097
+    },
+    "Landesweit,Landesweit, Germany": {
+        "lat": 39.3299013,
+        "lng": -76.6205177
+    },
+    "Herzbergstraße 50, 10365 Berlin,Berlin, Germany": {
+        "lat": 52.5260773,
+        "lng": 13.4963935
+    },
+    "Pohlstr 20, 10785 Berlin,Berlin, Germany": {
+        "lat": 52.50053029999999,
+        "lng": 13.3677815
+    },
+    "Hamburger Str. 37, 01067 Dresden,Dresden, Germany": {
+        "lat": 51.0598891,
+        "lng": 13.6957005
+    },
+    "Gladbecker Straße 5,Düsseldorf, Germany": {
+        "lat": 51.27412210000001,
+        "lng": 6.7945112
+    },
+    "Münchener Straße 100 C, 45145 Essen,Essen, Germany": {
+        "lat": 51.4484562,
+        "lng": 6.9882369
+    },
+    "Friesstraße 13, 60388 Frankfurt,Frankfurt am Main, Germany": {
+        "lat": 50.1398434,
+        "lng": 8.739365
+    },
+    "Hermann-Mitsch-Straße 36a, 79108 Freiburg,Freiburg im Breisgau, Germany": {
+        "lat": 48.0238054,
+        "lng": 7.8408124
+    },
+    "Robert-Bosch-Str. 1a, 50354 Hürth,Hürth, Germany": {
+        "lat": 50.88818,
+        "lng": 6.90508
+    },
+    "Hofrat-Wild-Str. 3, 68219 Mannheim,Mannheim, Germany": {
+        "lat": 49.4509735,
+        "lng": 8.522037599999999
+    },
+    "Kapellenstr.7, 85622 Feldkirchen,Feldkirchen, Germany": {
+        "lat": 48.1517237,
+        "lng": 11.7418425
+    },
+    "Schweinauer Hauptstr. 38, 90441 Nürnberg,Nürnberg, Germany": {
+        "lat": 49.4332264,
+        "lng": 11.0465723
+    },
+    "Strohgäustr. 1, 73765 Neuhausen,Neuhausen, Germany": {
+        "lat": 48.689698,
+        "lng": 9.2660505
+    },
+    "Brunnenstr. 57, 73333 GingenFils,Gingen, Germany": {
+        "lat": 48.6640913,
+        "lng": 9.7796519
+    },
+    "Industriestraße 19, 97469 Gochsheim,Gochsheim, Germany": {
+        "lat": 50.0275814,
+        "lng": 10.2650664
+    },
+    "Kuehnstr. 71, 22045 Hamburg,Hamburg, Germany": {
+        "lat": 53.5789,
+        "lng": 10.12113
+    },
+    "Ernst-Grote-Str. 10, 30916 Isernhagen-Altwarmbüchen,Isernhagen-Altwarmbüchen, Germany": {
+        "lat": 52.4286885,
+        "lng": 9.8417769
+    },
+    "6138 Preservation Place 800, 37416,Chattanooga, US United States": {
+        "lat": 35.0746787,
+        "lng": -85.1844278
+    },
+    "8661-8665 Bash St, 46256,Indianapolis, US United States": {
+        "lat": 39.913557,
+        "lng": -86.0428625
+    },
+    "5169 Northland Drive NE,Grand Rapids, US United States": {
+        "lat": 43.0564526,
+        "lng": -85.58112589999999
+    },
+    "2200-2006 W. Townline Road, 61615,Peoria, US United States": {
+        "lat": 40.797588,
+        "lng": -89.627904
+    },
+    "3711 W. Swift Ave.,Fresno, US United States": {
+        "lat": 36.79576,
+        "lng": -119.859809
+    },
+    "8564 W. Elisa Street, 83713,Boise, US United States": {
+        "lat": 43.578815,
+        "lng": -116.288605
+    },
+    "3201 N Sylvania Avenue, 76111-3124,Ft. Worth, US United States": {
+        "lat": 32.80293,
+        "lng": -97.3090053
+    },
+    "Im Weiherfeld 1, 65462 Ginsheim,Ginsheim, Germany": {
+        "lat": 49.9902241,
+        "lng": 8.3204444
+    },
+    "Dachsweg 21-23, 53842 Troisdorf,Troisdorf, Germany": {
+        "lat": 50.8276457,
+        "lng": 7.1079763
+    },
+    "Mühlweg 18, 99091 Erfurt,Erfurt, Germany": {
+        "lat": 51.0187367,
+        "lng": 11.0083231
+    },
+    "Lilienthalstr. 25, 85399 Hallbergmoos,Hallbergmoos, Germany": {
+        "lat": 48.3317875,
+        "lng": 11.7308124
+    },
+    "Josef-Schüttler-Straße 2, 78224 Singen,Singen, Germany": {
+        "lat": 47.75993,
+        "lng": 8.89016
+    },
+    "35432 Industrial Road, 48150,Livonia, US United States": {
+        "lat": 42.3793532,
+        "lng": -83.3925014
+    },
+    "4720 W Jennifer Ave, Ste 101, 93722 Fresno,Fresno, US United States": {
+        "lat": 36.8118313,
+        "lng": -119.878634
+    },
+    "2140 Zanker Road, 95131-2113,San Jose, US United States": {
+        "lat": 37.3812826,
+        "lng": -121.9154387
+    },
+    "3600 Lacey Road, Suite 100,Downers Grove, US United States": {
+        "lat": 41.8210643,
+        "lng": -88.03042409999999
+    },
+    "9474B King Air Court,Ashland, US United States": {
+        "lat": 37.6931555,
+        "lng": -77.4301254
+    },
+    "7567 Central Industrial Drive, 33404-3423,Riviera Beach, US United States": {
+        "lat": 26.7880941,
+        "lng": -80.0958306
+    },
+    "2000 West International Airport Road, Unit D6,Anchorage, US United States": {
+        "lat": 61.17118850000001,
+        "lng": -149.9226908
+    },
+    "5301 Shawnee Road Suite 440,Alexandria, US United States": {
+        "lat": 38.8078085,
+        "lng": -77.1654257
+    },
+    "4671 121st Street,Urbandale, US United States": {
+        "lat": 41.6461979,
+        "lng": -93.7795283
+    },
+    "850 Pena Boulevard,Denver, US United States": {
+        "lat": 39.8333307,
+        "lng": -104.7290787
+    },
+    "2850 N. California Street, Suite 120, 91504-2560,Burbank, US United States": {
+        "lat": 34.200553,
+        "lng": -118.344971
+    },
+    "Mercedesstraße 7, 70794 Filderstadt,Filderstadt, Germany": {
+        "lat": 48.68001,
+        "lng": 9.24658
+    },
+    "901 Warrenville Rd., Suite 480 Lisle, IL  60532,Lisle, US United States": {
+        "lat": 41.8073553,
+        "lng": -88.06999739999999
+    },
+    "151 AV DES AYGALADES,MARSEILLE, France": {
+        "lat": 43.3437067,
+        "lng": 5.363178
+    },
+    "770, Avenue Guilibert de la Lauziére, 13290 Aix en Provence,AIX-EN-PROVENCE, France": {
+        "lat": 43.4819699,
+        "lng": 5.3647183
+    },
+    "7501 N.W. 66th Street, 33166-2803,Miami, US United States": {
+        "lat": 25.8337944,
+        "lng": -80.3200267
+    },
+    "7481 N.W. 66th Street, 33166-2801,Miami, US United States": {
+        "lat": 25.8337468,
+        "lng": -80.31965679999999
+    },
+    "4710 Eisenhower Blvd Suite B5,Tampa, US United States": {
+        "lat": 27.9872559,
+        "lng": -82.5470939
+    },
+    "2440 Whitehall Park Drive, Suite 500, 28273-3952,Charlotte, US United States": {
+        "lat": 35.1410119,
+        "lng": -80.93679209999999
+    },
+    "11011 Brooklet Suite 360,Houston, US United States": {
+        "lat": 29.6607521,
+        "lng": -95.56215279999999
+    },
+    "1650 N Shelby Oaks Drive, Suite 6,Memphis, US United States": {
+        "lat": 35.1695728,
+        "lng": -89.8529708
+    },
+    "1440 Catalina Street, 94577,San Leandro (Hayward), US United States": {
+        "lat": 37.6966682,
+        "lng": -122.1728077
+    },
+    "934 Dalton Ave, 45203,Cincinnati, US United States": {
+        "lat": 39.1057684,
+        "lng": -84.53609229999999
+    },
+    "9200 Market Place, 44147,Broadview Heights, US United States": {
+        "lat": 41.3155042,
+        "lng": -81.6639032
+    },
+    "Frankenstraße 12, 90762 Fürth,Fürth, Germany": {
+        "lat": 49.4668187,
+        "lng": 11.0124741
+    },
+    "Werner-von-Siemens-Str. 27, 76694 Forst,Forst, Germany": {
+        "lat": 49.1625721,
+        "lng": 8.5730135
+    },
+    "2004 Shoppers Lane, 37921,Knoxville, US United States": {
+        "lat": 35.9717691,
+        "lng": -83.98329269999999
+    },
+    "7810 Sears Boulevard, 32514,Pensacola, US United States": {
+        "lat": 30.5078869,
+        "lng": -87.25433129999999
+    },
+    "1601 S. Sunkist Suite E, 92806-5812,Anaheim, US United States": {
+        "lat": 33.8092414,
+        "lng": -117.8843063
+    },
+    "103 JJ Drive, 27406-4408,Greensboro, US United States": {
+        "lat": 36.0322565,
+        "lng": -79.791626
+    },
+    "4355 Excel Parkway, Suite 800, 75206,Dallas, US United States": {
+        "lat": 32.979717,
+        "lng": -96.83604509999999
+    },
+    "2456 Commerce Park Drive, 32819,Orlando, US United States": {
+        "lat": 28.4317982,
+        "lng": -81.41476279999999
+    },
+    "3615 Willow Springs Road, 78704-7288,Austin, US United States": {
+        "lat": 30.2254148,
+        "lng": -97.7576712
+    },
+    "Via XXV Aprile, 34, 23841 Annone di Brianza,Annone di Brianza, Italy": {
+        "lat": 45.8049539,
+        "lng": 9.3265721
+    },
+    "14820 Tomball Parkway Suite 190,Houston, US United States": {
+        "lat": 29.9303935,
+        "lng": -95.5065441
+    },
+    "903 Morris Street, 25301,Charleston, US United States": {
+        "lat": 38.3506287,
+        "lng": -81.6224546
+    },
+    "11314 West 80th Street, 66214 Lenexa,Lenexa, US United States": {
+        "lat": 38.9839979,
+        "lng": -94.71704199999999
+    },
+    "7724 Garland Circle, 24019-1623,Roanoke, US United States": {
+        "lat": 37.358806,
+        "lng": -79.951854
+    },
+    "5440 S Procyon St Ste B,Las Vegas, US United States": {
+        "lat": 36.0913113,
+        "lng": -115.1869556
+    },
+    "1965 Gillespie Way, Suites 101-103, 92020,El Cajon, US United States": {
+        "lat": 32.8245067,
+        "lng": -116.9831368
+    },
+    "N56 W13535 Silver Spring Drive, 53051,Menomonee Falls, US United States": {
+        "lat": 43.1183108,
+        "lng": -88.0806956
+    },
+    "9001 51st Place, 20740,College Park, US United States": {
+        "lat": 38.9994171,
+        "lng": -76.92010069999999
+    },
+    "1840 South Milestone Drive, Suites A&B, 84104,Salt Lake City, US United States": {
+        "lat": 40.7315869,
+        "lng": -111.9666879
+    },
+    "8 Mall Terrace, Bldg Unit 1&2, 31406-7600,Savannah, US United States": {
+        "lat": 32.0025008,
+        "lng": -81.1045228
+    },
+    "1717 Elm Hill Pike,Nashville, US United States": {
+        "lat": 36.1442997,
+        "lng": -86.7100392
+    },
+    "5427 N. 23rd Street, 65721,Springfield (Ozark), US United States": {
+        "lat": 37.0701995,
+        "lng": -93.23415349999999
+    },
+    "21 rue de Champfleur,ST BARTHELEMY D ANJOU, France": {
+        "lat": 47.4817097,
+        "lng": -0.5031739
+    },
+    "438 N Pearl St.,Albany, US United States": {
+        "lat": 42.6642143,
+        "lng": -73.74439579999999
+    },
+    "23 RUE FRANCOIS JACOB,RUEIL MALMAISON, France": {
+        "lat": 48.8908298,
+        "lng": 2.1760492
+    },
+    "21 Rue de Champfleur Z.I. Saint-Barthélemy, 49007, Angers Cêdex 01,Angers Cêdex 01, France": {
+        "lat": 47.47917930000001,
+        "lng": -0.5033276999999999
+    },
+    "Gutenstetter Str. 2, 90449 Nürnberg,Nürnberg, Germany": {
+        "lat": 49.43665410000001,
+        "lng": 11.002608
+    },
+    "9280 Crestwyn Hills Drive, 38125,Memphis, US United States": {
+        "lat": 35.044344,
+        "lng": -89.7533271
+    },
+    "Im Südfeld 22,Senden-Bösensell, Germany": {
+        "lat": 51.9082399,
+        "lng": 7.473573900000001
+    },
+    "Cifuentes SA, 28021, Madrid,Madrid, Spain": {
+        "lat": 40.3470053,
+        "lng": -3.6965853
+    },
+    "2047-2067 Westport Center Drive,St. Louis, US United States": {
+        "lat": 38.6949705,
+        "lng": -90.4223743
+    },
+    "6087 Triangle Drive, 90040-3641,Los Angeles, US United States": {
+        "lat": 33.9781806,
+        "lng": -118.138509
+    },
+    "2800 Eisenhower Ave, Suite 102, Alexandria VA 22314,Alexandria, US United States": {
+        "lat": 38.8016031,
+        "lng": -77.0817187
+    },
+    "940 Adams Street, Suite 402, 60607,Chicago, US United States": {
+        "lat": 41.8796559,
+        "lng": -87.6510984
+    },
+    "1218 Third Avenue Suite 1522, 98101,Seattle, US United States": {
+        "lat": 47.60769759999999,
+        "lng": -122.3354914
+    },
+    "519 8th Ave. - 5th Floor, 10018-6506,New York, US United States": {
+        "lat": 40.7533099,
+        "lng": -73.99297229999999
+    },
+    "Kantstraße 2, 04275 Leipzig,Leipzig, Germany": {
+        "lat": 51.3158457,
+        "lng": 12.3658912
+    },
+    "40  51st Way NE Suite 300 Minneapolis MN 55421,Minneapolis, US United States": {
+        "lat": 45.06022429999999,
+        "lng": -93.2749228
+    },
+    "700 Hicksville Road,Bethpage, US United States": {
+        "lat": 40.7450857,
+        "lng": -73.496461
+    },
+    "4317 35th Street, 32811,Orlando, US United States": {
+        "lat": 28.5045568,
+        "lng": -81.4320618
+    },
+    "9 RUE JACQUES CHARLES,LA CHAPELLE SAINT MESMIN, France": {
+        "lat": 47.8849009,
+        "lng": 1.8180531
+    },
+    "7 allée des Joncs,DRUMETTAZ CLARAFOND, France": {
+        "lat": 45.6598505,
+        "lng": 5.9136556
+    },
+    "VOIE DES ALLIES,THUE ET MUE, France": {
+        "lat": 49.2057689,
+        "lng": -0.516181
+    },
+    "13 Rue du Crêt de Mars,LA RICAMARIE, France": {
+        "lat": 45.41554499999999,
+        "lng": 4.371705
+    },
+    "Via Pratese, 219, 50145 Firenze,Firenze, Italy": {
+        "lat": 43.8031675,
+        "lng": 11.1852221
+    },
+    "7425 Pebble Drive, 76118-6945,Ft. Worth, US United States": {
+        "lat": 32.7934108,
+        "lng": -97.21849689999999
+    },
+    "1805 Royal Lane Suite 101,Dallas, US United States": {
+        "lat": 32.8962013,
+        "lng": -96.915917
+    },
+    "1821 Stevens Drive Suite A,Iowa City, US United States": {
+        "lat": 41.6421605,
+        "lng": -91.5350024
+    },
+    "RUE DE CHAMPFLEUR,ST BARTHELEMY D ANJOU, France": {
+        "lat": 47.4793647,
+        "lng": -0.5042512
+    },
+    "2829 Royal Avenue, 53713,Monona, US United States": {
+        "lat": 43.04192099999999,
+        "lng": -89.3608519
+    },
+    "1533 Sams Avenue, Suite A, 70123,New Orleans, US United States": {
+        "lat": 29.9632975,
+        "lng": -90.1989541
+    },
+    "23 RUE MAUPERTUIS,EYBENS, France": {
+        "lat": 45.1509529,
+        "lng": 5.7374751
+    },
+    "Carl-Zeiss-Straße 24, 28816 Stuhr,Stuhr, Germany": {
+        "lat": 53.02142,
+        "lng": 8.77361
+    },
+    "Obere Hillegosser Str. 35, 33699 Bielefeld,Bielefeld, Germany": {
+        "lat": 51.997294,
+        "lng": 8.612471
+    },
+    "Theodor-Körner-Str. 30, 18106 Rostock,Rostock, Germany": {
+        "lat": 54.1240853,
+        "lng": 12.0422779
+    },
+    "6942 Phillips Parkway Dr. S., 32256,Jacksonville, US United States": {
+        "lat": 30.1658634,
+        "lng": -81.5341844
+    },
+    "Heinrich Böcking Straße 16, 66121 Saarbrücken,Saarbrücken, Germany": {
+        "lat": 49.2275055,
+        "lng": 7.0127182
+    },
+    "Kapellenstr.7, 85622 Feldkirchen,München, Germany": {
+        "lat": 48.1517237,
+        "lng": 11.7418425
+    },
+    "40 rue Augustin Fresnel,CHAMBRAY LES TOURS, France": {
+        "lat": 47.34187,
+        "lng": 0.7254246
+    },
+    "4 Airport Park Blvd, Latham, NY 12110,Albany, US United States": {
+        "lat": 42.75754939999999,
+        "lng": -73.817737
+    },
+    "Angermunder Straße 126, 40489 Düsseldorf,Düsseldorf, Germany": {
+        "lat": 51.3236832,
+        "lng": 6.770630499999999
+    },
+    "24 Executive Park, Suite 200, Irvine, CA 92614,Irvine, US United States": {
+        "lat": 33.6840815,
+        "lng": -117.8574254
+    },
+    "Bad Nauheimer Str. 4, 64289 Darmstadt,Darmstadt, Germany": {
+        "lat": 49.8862928,
+        "lng": 8.6544753
+    }
+}
