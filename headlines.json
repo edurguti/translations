@@ -1,0 +1,22 @@
+{
+    "businessHL": {
+        "en": "The Company",
+        "de": "Das Unternehmen"
+    },
+    "taskHL": {
+        "en": "What we expect",
+        "de": "Was wir erwarten"
+    },
+    "profileHL": {
+        "en": "Who we are looking for",
+        "de": "Wen wir suchen"
+    },
+    "diversityHL": {
+        "en": "Additional information",
+        "de": "Weitere Informationen"
+    },
+    "contactHL": {
+        "en": "Contact",
+        "de": "Kontakt"
+    }
+}
