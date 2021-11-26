@@ -1,4 +1,58 @@
 {
+    "jobNumber": {
+        "_comment": "jobNumber key from ATS",
+        "required": true
+    },
+    "applicationUrl": {
+        "_comment": "applicationUrl key from ATS",
+        "required": true
+    },
+    "idClient": {
+        "_comment": "id key from ATS",
+        "required": true
+    },
+    "title": {
+        "_comment": "jobTitle key from ATS",
+        "required": true
+    },
+    "language": {
+        "_comment": "language key from ATS",
+        "required": true
+    },
+    "businessUnit": {
+        "_comment": "CustomLov(order28)___if not required set default key/value",
+        "required": false,
+        "default": "Elevator Technology"
+    },
+    "company": {
+        "_comment": "CustomLov(order16)___if not required set default key/value",
+        "required": true
+    },
+    "city": {
+        "_comment": "CustomLov(order6)___if not required set default key/value",
+        "required": true
+    },
+    "region": {
+        "_comment": "CustomLov(29)___if not required set default key/value",
+        "required": true
+    },
+    "country": {
+        "_comment": "CustomLov(order18)___if not required set default key/value",
+        "required": true
+    },
+    "recruiter": {
+        "_comment": "recruiters key from ATS not required set default key/value",
+        "required": false,
+        "default": null
+    },
+    "postingDate": {
+        "_comment": "postingStartDate key from ATS not required set default key/value",
+        "required": true,
+        "default": null
+    },
+    "explanation": {
+        "_comment": "Below fields will need translations for each language"
+    },
     "category": {
         "_comment": "CustomLov(order 1)___if this field is required, set the required key to true and don't include the default value",
         "required": false,
@@ -80,7 +134,7 @@
         }
     },
     "applicationEnd": {
-        "_comment": "postingEndDate ___if this field is required, set the required key to True and don't include the default value",
+        "_comment": "postingEndDate ___if this field is required, set the required key to True and don't include the default value,",
         "required": false,
         "en": {
             "2099": "Ongoing recruitment, entry date flexible",
