@@ -1,4 +1,13 @@
 {
+    "Explanations": {
+        "_comment_1": "This file is populated automatically by the script",
+        "_comment_2": "Static additions are allowed, but have to follow below format",
+        "_comment_3": "Editing is allowed but only for the values - not the keys, you can only edit lat and lng fields following the proper format",
+        "_comment_4": "The keys are as we see them in the ATS",
+        "_comment_5": "The values are queried from the Google api",
+        "_comment_6": "If an exact lat/lng cannot be found google will return the best guess",
+        "_comment_7": "Example: if address is unknown or wrong or none, google will return the lat/lng for the city center"
+    },
     "Veckenstedter Weg 16, Ilsenburg, Germany": {
         "lat": 51.8725898,
         "lng": 10.699833
@@ -2218,5 +2227,29 @@
     "Bad Nauheimer Str. 4, 64289 Darmstadt,Darmstadt, Germany": {
         "lat": 49.8862928,
         "lng": 8.6544753
+    },
+    "jarani baces, vienna, austria": {
+        "lat": 48.2111522,
+        "lng": 16.3788631
+    },
+    "jarani baces, linz, austria": {
+        "lat": 48.2975335,
+        "lng": 14.2933913
+    },
+    "jarani baces, jaran, austria": {
+        "lat": 37.7221147,
+        "lng": -97.1980936
+    },
+    "jarani baces, jaran, ausasdtria": {
+        "lat": 37.7221147,
+        "lng": -97.1980936
+    },
+    "11 RUE DE LIRENNE,ECOLE-VALENTIN, France": {
+        "lat": 47.2735247,
+        "lng": 5.991228
+    },
+    "Defne Sok. Büyükhanlı Plaza No :3 Kat :3, Ataşehir,Istanbul, Turkey": {
+        "lat": 40.98201479999999,
+        "lng": 29.1022784
     }
 }
