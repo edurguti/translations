@@ -21,7 +21,8 @@
   },
   "language": {
     "_comment": "language key from ATS",
-    "required": true
+    "required": false,
+    "default": "en"
   },
   "businessUnit": {
     "_comment": "CustomLov(order28)___if not required set default key/value",
