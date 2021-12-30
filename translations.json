@@ -1,333 +1,337 @@
 {
-    "jobNumber": {
-        "_comment": "jobNumber key from ATS",
-        "required": true
+  "jobNumber": {
+    "_comment": "jobNumber key from ATS",
+    "required": false,
+    "default": "0"
+  },
+  "applicationUrl": {
+    "_comment": "applicationUrl key from ATS",
+    "required": false,
+    "default": "#"
+  },
+  "idClient": {
+    "_comment": "id key from ATS",
+    "required": false,
+    "default": "0"
+  },
+  "title": {
+    "_comment": "jobTitle key from ATS",
+    "required": false,
+    "default": "New Job"
+  },
+  "language": {
+    "_comment": "language key from ATS",
+    "required": true
+  },
+  "businessUnit": {
+    "_comment": "CustomLov(order28)___if not required set default key/value",
+    "required": false,
+    "default": "Elevator Technology"
+  },
+  "company": {
+    "_comment": "CustomLov(order16)___if not required set default key/value",
+    "required": true
+  },
+  "city": {
+    "_comment": "CustomLov(order6)___if not required set default key/value",
+    "required": true
+  },
+  "region": {
+    "_comment": "CustomLov(29)___if not required set default key/value",
+    "required": true
+  },
+  "country": {
+    "_comment": "CustomLov(order18)___if not required set default key/value",
+    "required": true
+  },
+  "recruiter": {
+    "_comment": "recruiters key from ATS not required set default key/value",
+    "required": false,
+    "default": null
+  },
+  "postingDate": {
+    "_comment": "postingStartDate key from ATS not required set default key/value",
+    "required": true,
+    "default": null
+  },
+  "explanation": {
+    "_comment": "Below fields will need translations for each language"
+  },
+  "category": {
+    "_comment": "CustomLov(order 1)___if this field is required, set the required key to true and don't include the default value",
+    "required": false,
+    "en": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_english",
+      "all_possible_inputs_in_german_from_ats": "translation_in_english",
+      "default": "xxxx"
     },
-    "applicationUrl": {
-        "_comment": "applicationUrl key from ATS",
-        "required": true
+    "de": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_german",
+      "all_possible_inputs_in_german_from_ats": "translation_in_german",
+      "default": "xxxxx"
     },
-    "idClient": {
-        "_comment": "id key from ATS",
-        "required": true
+    "es": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_spanish",
+      "all_possible_inputs_in_german_from_ats": "translation_in_spanish",
+      "default": "xxxxx"
     },
-    "title": {
-        "_comment": "jobTitle key from ATS",
-        "required": true
+    "fr": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_french",
+      "all_possible_inputs_in_german_from_ats": "translation_in_french",
+      "default": "xxxxx"
     },
-    "language": {
-        "_comment": "language key from ATS",
-        "required": true
+    "hu": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_hungarian",
+      "all_possible_inputs_in_german_from_ats": "translation_in_hungarian",
+      "default": "xxxxx"
     },
-    "businessUnit": {
-        "_comment": "CustomLov(order28)___if not required set default key/value",
-        "required": false,
-        "default": "Elevator Technology"
-    },
-    "company": {
-        "_comment": "CustomLov(order16)___if not required set default key/value",
-        "required": true
-    },
-    "city": {
-        "_comment": "CustomLov(order6)___if not required set default key/value",
-        "required": true
-    },
-    "region": {
-        "_comment": "CustomLov(29)___if not required set default key/value",
-        "required": true
-    },
-    "country": {
-        "_comment": "CustomLov(order18)___if not required set default key/value",
-        "required": true
-    },
-    "recruiter": {
-        "_comment": "recruiters key from ATS not required set default key/value",
-        "required": false,
-        "default": null
-    },
-    "postingDate": {
-        "_comment": "postingStartDate key from ATS not required set default key/value",
-        "required": true,
-        "default": null
-    },
-    "explanation": {
-        "_comment": "Below fields will need translations for each language"
-    },
-    "category": {
-        "_comment": "CustomLov(order 1)___if this field is required, set the required key to true and don't include the default value",
-        "required": false,
-        "en": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_english",
-            "all_possible_inputs_in_german_from_ats": "translation_in_english",
-            "default": "xxxx"
-        },
-        "de": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_german",
-            "all_possible_inputs_in_german_from_ats": "translation_in_german",
-            "default": "xxxxx"
-        },
-        "es": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_spanish",
-            "all_possible_inputs_in_german_from_ats": "translation_in_spanish",
-            "default": "xxxxx"
-        },
-        "fr": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_french",
-            "all_possible_inputs_in_german_from_ats": "translation_in_french",
-            "default": "xxxxx"
-        },
-        "hu": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_hungarian",
-            "all_possible_inputs_in_german_from_ats": "translation_in_hungarian",
-            "default": "xxxxx"
-        },
-        "zh": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_chinese",
-            "all_possible_inputs_in_german_from_ats": "translation_in_chinese",
-            "default": "xxxxx"
-        }
-    },
-    "contract": {
-        "_comment": "CustomLov(order 10)___if this field is required, set the required key to True and don't include the default value ",
-        "required": false,
-        "en": {
-            "Yes": "Temporary",
-            "No": "Permanent",
-            "Ja": "Temporary",
-            "Nein": "Permanent",
-            "default": "Permanent"
-        },
-        "de": {
-            "Yes": "Vorübergehend",
-            "No": "Dauerhaft",
-            "Ja": "Vorübergehend",
-            "Nein": "Dauerhaft",
-            "default": "Dauerhaft"
-        },
-        "es": {
-            "Yes": "Temporal",
-            "No": "Permanente",
-            "Ja": "Temporal",
-            "Nein": "Permanente",
-            "default": "Permanente"
-        },
-        "fr": {
-            "Yes": "xxx",
-            "No": "xxx",
-            "Ja": "xxx",
-            "Nein": "xxx",
-            "default": "xxxxx"
-        },
-        "hu": {
-            "Yes": "xxx",
-            "No": "xxx",
-            "Ja": "xxx",
-            "Nein": "xxx",
-            "default": "xxxxx"
-        },
-        "zh": {
-            "Yes": "xxx",
-            "No": "xxx",
-            "Ja": "xxx",
-            "Nein": "xx",
-            "default": "xxxxx"
-        }
-    },
-    "applicationEnd": {
-        "_comment": "postingEndDate ___if this field is required, set the required key to True and don't include the default value,",
-        "required": false,
-        "en": {
-            "2099": "Ongoing recruitment, entry date flexible",
-            "": "Ongoing recruitment, entry date flexible"
-        },
-        "de": {
-            "2099": "Laufende Rekrutierung, Eintrittsdatum flexibel",
-            "": "Laufende Rekrutierung, Eintrittsdatum flexibel"
-        },
-        "es": {
-            "2099": "xxxx",
-            "": "xxxx"
-        },
-        "fr": {
-            "2099": "xxxx",
-            "": "xxxx"
-        },
-        "hu": {
-            "2099": "xxxx",
-            "": "xxxx"
-        },
-        "zh": {
-            "2099": "xxxx",
-            "": "xxxx"
-        },
-        "default": "xxxxx"
-    },
-    "employmentType": {
-        "_comment": "CustomLov(order 8)___if this field is required, set the required key to True and don't include the default value",
-        "required": false,
-        "en": {
-            "Full Time": "Full-Time",
-            "Part Time": "Part-Time",
-            "Both": "Both",
-            "Vollzeit": "Full-Time",
-            "Teilzeit": "Part-Time",
-            "Beides": "Both",
-            "Intern": "Intern",
-            "default": "Full-Time"
-        },
-        "de": {
-            "Full Time": "Vollzeit",
-            "Part Time": "Teilzeit",
-            "Both": "Beides",
-            "Vollzeit": "Vollzeit",
-            "Teilzeit": "Teilzeit",
-            "Beides": "Beides",
-            "Intern": "Intern",
-            "default": "xxxxx"
-        },
-        "es": {
-            "Full Time": "A tiempo completo",
-            "Part Time": "A tiempo parcial",
-            "Both": "Ambos",
-            "Vollzeit": "A tiempo completo",
-            "Teilzeit": "A tiempo parcial",
-            "Beides": "Ambos",
-            "Intern": "Intern",
-            "default": "xxxxx"
-        },
-        "fr": {
-            "Full Time": "xxxx",
-            "Part Time": "xxxx",
-            "Both": "xxxx",
-            "Vollzeit": "xxxx",
-            "Teilzeit": "xxxx",
-            "Beides": "xxxx",
-            "Intern": "xxxx",
-            "default": "xxxxx"
-        },
-        "hu": {
-            "Full Time": "xxxx",
-            "Part Time": "xxxx",
-            "Both": "xxxx",
-            "Vollzeit": "xxxx",
-            "Teilzeit": "xxxx",
-            "Beides": "xxxx",
-            "Intern": "xxxx",
-            "default": "xxxxx"
-        },
-        "zh": {
-            "Full Time": "xxxx",
-            "Part Time": "xxxx",
-            "Both": "xxxx",
-            "Vollzeit": "xxxx",
-            "Teilzeit": "xxxx",
-            "Beides": "xxxx",
-            "Intern": "xxxx",
-            "default": "xxxxx"
-        }
-    },
-    "entryLevel": {
-        "_comment": "CustomLov(order 3)___if this field is required, set the required key to True and don't include the default value",
-        "required": false,
-        "en": {
-            "Berufserfahrene": "Professionals",
-            "Professionals": "Professionals",
-            "Individual Contributor": "Individual Contributor",
-            "Traineeprogramm": "Traineeprogramm",
-            "Praktikum": "Internship",
-            "Management": "Management",
-            "Berufseinsteiger (0-2 Jahre)": "Entry Level(0-2 years)",
-            "Duales Studium": "Dual Study",
-            "Ausbildung": "Apprenticeship",
-            "default": "xxxxx"
-        },
-        "de": {
-            "Berufserfahrene": "xxxx",
-            "Professionals": "xxxx",
-            "Individual Contributor": "xxxx",
-            "Traineeprogramm": "xxxx",
-            "Praktikum": "xxxx",
-            "Management": "xxxx",
-            "Berufseinsteiger (0-2 Jahre)": "xxxx",
-            "Duales Studium": "xxxx",
-            "Ausbildung": "xxxx",
-            "default": "xxxxx"
-        },
-        "es": {
-            "Berufserfahrene": "xxxx",
-            "Professionals": "xxxx",
-            "Individual Contributor": "xxxx",
-            "Traineeprogramm": "xxxx",
-            "Praktikum": "xxxx",
-            "Management": "xxxx",
-            "Berufseinsteiger (0-2 Jahre)": "xxxx",
-            "Duales Studium": "xxxx",
-            "Ausbildung": "xxxx",
-            "default": "xxxxx"
-        },
-        "fr": {
-            "Berufserfahrene": "xxxx",
-            "Professionals": "xxxx",
-            "Individual Contributor": "xxxx",
-            "Traineeprogramm": "xxxx",
-            "Praktikum": "xxxx",
-            "Management": "xxxx",
-            "Berufseinsteiger (0-2 Jahre)": "xxxx",
-            "Duales Studium": "xxxx",
-            "Ausbildung": "xxxx",
-            "default": "xxxxx"
-        },
-        "hu": {
-            "Berufserfahrene": "xxxx",
-            "Professionals": "xxxx",
-            "Individual Contributor": "xxxx",
-            "Traineeprogramm": "xxxx",
-            "Praktikum": "xxxx",
-            "Management": "xxxx",
-            "Berufseinsteiger (0-2 Jahre)": "xxxx",
-            "Duales Studium": "xxxx",
-            "Ausbildung": "xxxx",
-            "default": "xxxxx"
-        },
-        "zh": {
-            "Berufserfahrene": "xxxx",
-            "Professionals": "xxxx",
-            "Individual Contributor": "xxxx",
-            "Traineeprogramm": "xxxx",
-            "Praktikum": "xxxx",
-            "Management": "xxxx",
-            "Berufseinsteiger (0-2 Jahre)": "xxxx",
-            "Duales Studium": "xxxx",
-            "Ausbildung": "xxxx",
-            "default": "xxxxx"
-        }
-    },
-    "jobField": {
-        "_comment": "CustomLov(order 2)___if this field is required, set the required key to True and don't include the default value",
-        "required": true,
-        "en": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_english",
-            "all_possible_inputs_in_german_from_ats": "translation_in_english"
-        },
-        "de": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_german",
-            "all_possible_inputs_in_german_from_ats": "translation_in_german"
-        },
-        "es": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_spanish",
-            "all_possible_inputs_in_german_from_ats": "translation_in_spanish"
-        },
-        "fr": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_french",
-            "all_possible_inputs_in_german_from_ats": "translation_in_french"
-        },
-        "hu": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_hungarian",
-            "all_possible_inputs_in_german_from_ats": "translation_in_hungarian"
-        },
-        "zh": {
-            "all_possible_inputs_in_english_from_ats": "translation_in_chinese",
-            "all_possible_inputs_in_german_from_ats": "translation_in_chinese"
-        }
+    "zh": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_chinese",
+      "all_possible_inputs_in_german_from_ats": "translation_in_chinese",
+      "default": "xxxxx"
     }
+  },
+  "contract": {
+    "_comment": "CustomLov(order 10)___if this field is required, set the required key to True and don't include the default value ",
+    "required": false,
+    "en": {
+      "Yes": "Temporary",
+      "No": "Permanent",
+      "Ja": "Temporary",
+      "Nein": "Permanent",
+      "default": "Permanent"
+    },
+    "de": {
+      "Yes": "Vorübergehend",
+      "No": "Dauerhaft",
+      "Ja": "Vorübergehend",
+      "Nein": "Dauerhaft",
+      "default": "Dauerhaft"
+    },
+    "es": {
+      "Yes": "Temporal",
+      "No": "Permanente",
+      "Ja": "Temporal",
+      "Nein": "Permanente",
+      "default": "Permanente"
+    },
+    "fr": {
+      "Yes": "xxx",
+      "No": "xxx",
+      "Ja": "xxx",
+      "Nein": "xxx",
+      "default": "xxxxx"
+    },
+    "hu": {
+      "Yes": "xxx",
+      "No": "xxx",
+      "Ja": "xxx",
+      "Nein": "xxx",
+      "default": "xxxxx"
+    },
+    "zh": {
+      "Yes": "xxx",
+      "No": "xxx",
+      "Ja": "xxx",
+      "Nein": "xx",
+      "default": "xxxxx"
+    }
+  },
+  "applicationEnd": {
+    "_comment": "postingEndDate ___if this field is required, set the required key to True and don't include the default value,",
+    "required": false,
+    "en": {
+      "2099": "Ongoing recruitment, entry date flexible",
+      "": "Ongoing recruitment, entry date flexible"
+    },
+    "de": {
+      "2099": "Laufende Rekrutierung, Eintrittsdatum flexibel",
+      "": "Laufende Rekrutierung, Eintrittsdatum flexibel"
+    },
+    "es": {
+      "2099": "xxxx",
+      "": "xxxx"
+    },
+    "fr": {
+      "2099": "xxxx",
+      "": "xxxx"
+    },
+    "hu": {
+      "2099": "xxxx",
+      "": "xxxx"
+    },
+    "zh": {
+      "2099": "xxxx",
+      "": "xxxx"
+    },
+    "default": "xxxxx"
+  },
+  "employmentType": {
+    "_comment": "CustomLov(order 8)___if this field is required, set the required key to True and don't include the default value",
+    "required": false,
+    "en": {
+      "Full Time": "Full-Time",
+      "Part Time": "Part-Time",
+      "Both": "Both",
+      "Vollzeit": "Full-Time",
+      "Teilzeit": "Part-Time",
+      "Beides": "Both",
+      "Intern": "Intern",
+      "default": "Full-Time"
+    },
+    "de": {
+      "Full Time": "Vollzeit",
+      "Part Time": "Teilzeit",
+      "Both": "Beides",
+      "Vollzeit": "Vollzeit",
+      "Teilzeit": "Teilzeit",
+      "Beides": "Beides",
+      "Intern": "Intern",
+      "default": "xxxxx"
+    },
+    "es": {
+      "Full Time": "A tiempo completo",
+      "Part Time": "A tiempo parcial",
+      "Both": "Ambos",
+      "Vollzeit": "A tiempo completo",
+      "Teilzeit": "A tiempo parcial",
+      "Beides": "Ambos",
+      "Intern": "Intern",
+      "default": "xxxxx"
+    },
+    "fr": {
+      "Full Time": "xxxx",
+      "Part Time": "xxxx",
+      "Both": "xxxx",
+      "Vollzeit": "xxxx",
+      "Teilzeit": "xxxx",
+      "Beides": "xxxx",
+      "Intern": "xxxx",
+      "default": "xxxxx"
+    },
+    "hu": {
+      "Full Time": "xxxx",
+      "Part Time": "xxxx",
+      "Both": "xxxx",
+      "Vollzeit": "xxxx",
+      "Teilzeit": "xxxx",
+      "Beides": "xxxx",
+      "Intern": "xxxx",
+      "default": "xxxxx"
+    },
+    "zh": {
+      "Full Time": "xxxx",
+      "Part Time": "xxxx",
+      "Both": "xxxx",
+      "Vollzeit": "xxxx",
+      "Teilzeit": "xxxx",
+      "Beides": "xxxx",
+      "Intern": "xxxx",
+      "default": "xxxxx"
+    }
+  },
+  "entryLevel": {
+    "_comment": "CustomLov(order 3)___if this field is required, set the required key to True and don't include the default value",
+    "required": false,
+    "en": {
+      "Berufserfahrene": "Professionals",
+      "Professionals": "Professionals",
+      "Individual Contributor": "Individual Contributor",
+      "Traineeprogramm": "Traineeprogramm",
+      "Praktikum": "Internship",
+      "Management": "Management",
+      "Berufseinsteiger (0-2 Jahre)": "Entry Level(0-2 years)",
+      "Duales Studium": "Dual Study",
+      "Ausbildung": "Apprenticeship",
+      "default": "xxxxx"
+    },
+    "de": {
+      "Berufserfahrene": "xxxx",
+      "Professionals": "xxxx",
+      "Individual Contributor": "xxxx",
+      "Traineeprogramm": "xxxx",
+      "Praktikum": "xxxx",
+      "Management": "xxxx",
+      "Berufseinsteiger (0-2 Jahre)": "xxxx",
+      "Duales Studium": "xxxx",
+      "Ausbildung": "xxxx",
+      "default": "xxxxx"
+    },
+    "es": {
+      "Berufserfahrene": "xxxx",
+      "Professionals": "xxxx",
+      "Individual Contributor": "xxxx",
+      "Traineeprogramm": "xxxx",
+      "Praktikum": "xxxx",
+      "Management": "xxxx",
+      "Berufseinsteiger (0-2 Jahre)": "xxxx",
+      "Duales Studium": "xxxx",
+      "Ausbildung": "xxxx",
+      "default": "xxxxx"
+    },
+    "fr": {
+      "Berufserfahrene": "xxxx",
+      "Professionals": "xxxx",
+      "Individual Contributor": "xxxx",
+      "Traineeprogramm": "xxxx",
+      "Praktikum": "xxxx",
+      "Management": "xxxx",
+      "Berufseinsteiger (0-2 Jahre)": "xxxx",
+      "Duales Studium": "xxxx",
+      "Ausbildung": "xxxx",
+      "default": "xxxxx"
+    },
+    "hu": {
+      "Berufserfahrene": "xxxx",
+      "Professionals": "xxxx",
+      "Individual Contributor": "xxxx",
+      "Traineeprogramm": "xxxx",
+      "Praktikum": "xxxx",
+      "Management": "xxxx",
+      "Berufseinsteiger (0-2 Jahre)": "xxxx",
+      "Duales Studium": "xxxx",
+      "Ausbildung": "xxxx",
+      "default": "xxxxx"
+    },
+    "zh": {
+      "Berufserfahrene": "xxxx",
+      "Professionals": "xxxx",
+      "Individual Contributor": "xxxx",
+      "Traineeprogramm": "xxxx",
+      "Praktikum": "xxxx",
+      "Management": "xxxx",
+      "Berufseinsteiger (0-2 Jahre)": "xxxx",
+      "Duales Studium": "xxxx",
+      "Ausbildung": "xxxx",
+      "default": "xxxxx"
+    }
+  },
+  "jobField": {
+    "_comment": "CustomLov(order 2)___if this field is required, set the required key to True and don't include the default value",
+    "required": true,
+    "en": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_english",
+      "all_possible_inputs_in_german_from_ats": "translation_in_english"
+    },
+    "de": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_german",
+      "all_possible_inputs_in_german_from_ats": "translation_in_german"
+    },
+    "es": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_spanish",
+      "all_possible_inputs_in_german_from_ats": "translation_in_spanish"
+    },
+    "fr": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_french",
+      "all_possible_inputs_in_german_from_ats": "translation_in_french"
+    },
+    "hu": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_hungarian",
+      "all_possible_inputs_in_german_from_ats": "translation_in_hungarian"
+    },
+    "zh": {
+      "all_possible_inputs_in_english_from_ats": "translation_in_chinese",
+      "all_possible_inputs_in_german_from_ats": "translation_in_chinese"
+    }
+  }
 }
